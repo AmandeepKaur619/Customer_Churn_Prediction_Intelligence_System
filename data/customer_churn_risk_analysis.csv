@@ -1,0 +1,1410 @@
+customerID,tenure,Contract,MonthlyCharges,TotalCharges,InternetService,PaymentMethod,TechSupport,OnlineSecurity,ChurnProbability,RiskLevel,ExpectedRevenueAtRisk,RetentionPriority
+0295-PPHDO,1,Month-to-month,95.45,95.45,Fiber optic,Electronic check,No,No,98.09449,High Risk,93.63118802309036,Priority 2
+1069-XAIEM,1,Month-to-month,85.05,85.05,Fiber optic,Electronic check,No,No,97.796906,High Risk,83.17626773715018,Priority 2
+5178-LMXOP,1,Month-to-month,95.1,95.1,Fiber optic,Electronic check,No,No,97.70824,High Risk,92.9205335497856,Priority 2
+6861-XWTWQ,7,Month-to-month,99.25,665.45,Fiber optic,Electronic check,No,No,97.05967,High Risk,645.8835547864437,Priority 1
+9248-OJYKK,1,Month-to-month,76.45,76.45,Fiber optic,Electronic check,No,No,96.996475,High Risk,74.15380457639695,Priority 2
+2609-IAICY,1,Month-to-month,77.15,77.15,Fiber optic,Electronic check,No,No,96.85523,High Risk,74.72381387948991,Priority 2
+6857-VWJDT,1,Month-to-month,95.65,95.65,Fiber optic,Mailed check,No,No,96.77278,High Risk,92.56316789090634,Priority 2
+9057-SIHCH,3,Month-to-month,96.6,291.9,Fiber optic,Electronic check,No,No,96.61383,High Risk,282.015770727396,Priority 1
+8375-DKEBR,1,Month-to-month,69.6,69.6,Fiber optic,Electronic check,No,No,96.61167,High Risk,67.24172415733337,Priority 2
+3006-XIMLN,2,Month-to-month,94.2,193.8,Fiber optic,Bank transfer (automatic),No,No,96.61099,High Risk,187.23210471868515,Priority 2
+2545-EBUPK,2,Month-to-month,84.05,186.05,Fiber optic,Electronic check,No,No,96.546646,High Risk,179.62503111064436,Priority 2
+2254-DLXRI,1,Month-to-month,79.15,79.15,Fiber optic,Mailed check,No,No,96.32823,High Risk,76.24379774332047,Priority 2
+5167-ZFFMM,1,Month-to-month,90.85,90.85,Fiber optic,Credit card (automatic),No,No,96.318596,High Risk,87.50544501245021,Priority 2
+1820-TQVEV,1,Month-to-month,69.55,69.55,Fiber optic,Electronic check,No,No,96.26617,High Risk,66.9531200915575,Priority 2
+0679-IDSTG,1,Month-to-month,69.25,69.25,Fiber optic,Electronic check,No,No,96.225235,High Risk,66.63597720861435,Priority 2
+3716-BDVDB,1,Month-to-month,69.1,69.1,Fiber optic,Electronic check,No,No,95.97128,High Risk,66.31615471243857,Priority 2
+6230-BSUXY,1,Month-to-month,85.0,85.0,Fiber optic,Electronic check,No,No,95.96167,High Risk,81.56742125749588,Priority 2
+4750-ZRXIU,4,Month-to-month,84.6,360.1,Fiber optic,Electronic check,No,No,95.80871,High Risk,345.00715991258625,Priority 1
+8739-XNIKG,5,Month-to-month,84.0,424.75,Fiber optic,Electronic check,No,No,95.63462,High Risk,406.2080543190241,Priority 1
+2514-GINMM,1,Month-to-month,79.5,79.5,Fiber optic,Electronic check,No,No,95.584404,High Risk,75.98960155248642,Priority 2
+7180-PISOG,1,Month-to-month,74.5,74.5,Fiber optic,Electronic check,No,No,95.32042,High Risk,71.01371398568153,Priority 2
+2202-CUYXZ,1,Month-to-month,84.85,84.85,Fiber optic,Electronic check,No,No,95.22182,High Risk,80.79571214318275,Priority 2
+1143-NMNQJ,2,Month-to-month,85.7,169.8,Fiber optic,Electronic check,No,No,95.20285,High Risk,161.6544414997101,Priority 2
+0655-RBDUG,7,Month-to-month,98.05,713.0,Fiber optic,Bank transfer (automatic),No,No,95.09359,High Risk,678.0172968506813,Priority 1
+5196-SGOAK,1,Month-to-month,75.7,75.7,Fiber optic,Electronic check,No,No,94.93345,High Risk,71.86462181806564,Priority 2
+1628-BIZYP,1,Month-to-month,85.0,85.0,Fiber optic,Electronic check,No,No,94.928,High Risk,80.68880200386047,Priority 2
+4445-ZJNMU,9,Month-to-month,99.3,918.75,Fiber optic,Credit card (automatic),No,No,94.84039,High Risk,871.3461332023144,Priority 1
+6910-HADCM,1,Month-to-month,76.35,76.35,Fiber optic,Electronic check,No,No,94.67914,High Risk,72.28752418756484,Priority 2
+4415-IJZTP,1,Month-to-month,74.5,74.5,Fiber optic,Electronic check,No,No,94.637764,High Risk,70.50513380765915,Priority 2
+5186-SAMNZ,1,Month-to-month,69.5,69.5,Fiber optic,Bank transfer (automatic),No,No,94.62988,High Risk,65.76776921749115,Priority 2
+7181-BQYBV,1,Month-to-month,102.45,102.45,Fiber optic,Electronic check,No,Yes,94.60612,High Risk,96.92396931946278,Priority 2
+6137-NICCO,6,Month-to-month,94.05,518.75,Fiber optic,Mailed check,No,No,94.51355,High Risk,490.2890272438526,Priority 1
+6372-RFVNS,1,Month-to-month,78.8,78.8,Fiber optic,Electronic check,No,No,94.49376,High Risk,74.46108183860778,Priority 2
+9804-ICWBG,1,Month-to-month,69.9,69.9,Fiber optic,Electronic check,No,No,94.40382,High Risk,65.98826687335969,Priority 2
+5542-TBBWB,1,Month-to-month,69.9,69.9,Fiber optic,Electronic check,No,No,94.40382,High Risk,65.98826687335969,Priority 2
+8161-QYMTT,7,Month-to-month,94.1,701.3,Fiber optic,Electronic check,No,No,94.20031,High Risk,660.6267539083957,Priority 1
+4927-WWOOZ,2,Month-to-month,91.45,171.45,Fiber optic,Electronic check,No,No,94.19703,High Risk,161.5008060067892,Priority 2
+4587-VVTOX,6,Month-to-month,105.3,545.2,Fiber optic,Electronic check,No,No,94.16681,High Risk,513.3974444150925,Priority 1
+8622-ZLFKO,6,Month-to-month,90.75,512.25,Fiber optic,Electronic check,No,No,94.149765,High Risk,482.28215785324574,Priority 1
+9507-EXLTT,1,Month-to-month,79.35,79.35,Fiber optic,Bank transfer (automatic),No,No,94.133,High Risk,74.694536742568,Priority 2
+8884-ADFVN,7,Month-to-month,101.95,700.85,Fiber optic,Electronic check,No,No,93.92171,High Risk,658.2502979516984,Priority 1
+3722-WPXTK,1,Month-to-month,88.35,88.35,Fiber optic,Electronic check,No,No,93.850586,High Risk,82.91699520349502,Priority 2
+0970-ETWGE,1,Month-to-month,89.55,89.55,Fiber optic,Electronic check,No,No,93.79766,High Risk,83.99580441713333,Priority 2
+3707-GNWHM,1,Month-to-month,74.25,74.25,Fiber optic,Mailed check,No,No,93.79406,High Risk,69.64208936691284,Priority 2
+8821-XNHVZ,1,Month-to-month,80.05,80.05,Fiber optic,Mailed check,No,No,93.671135,High Risk,74.9837452441454,Priority 2
+1853-UDXBW,1,Month-to-month,70.0,70.0,Fiber optic,Electronic check,No,No,93.64648,High Risk,65.55253505706787,Priority 2
+6979-ZNSFF,8,Month-to-month,87.05,762.1,Fiber optic,Electronic check,No,No,93.60254,High Risk,713.3449429273605,Priority 1
+7817-BOQPW,2,Month-to-month,75.55,166.3,Fiber optic,Electronic check,No,No,93.4223,High Risk,155.36128427386285,Priority 2
+2865-TCHJW,4,Month-to-month,89.2,346.2,Fiber optic,Electronic check,No,No,93.217545,High Risk,322.7191433787346,Priority 1
+0841-NULXI,1,Month-to-month,35.55,35.55,DSL,Electronic check,No,No,93.047066,High Risk,33.078231444954866,Priority 2
+8593-WHYHV,3,Month-to-month,85.3,264.8,Fiber optic,Electronic check,No,No,93.03898,High Risk,246.36720895767212,Priority 1
+1448-PWKYE,1,Month-to-month,80.0,80.0,Fiber optic,Electronic check,No,No,92.99129,High Risk,74.39302921295166,Priority 2
+4713-LZDRV,2,Month-to-month,79.6,195.05,Fiber optic,Electronic check,No,No,92.97272,High Risk,181.34328971505167,Priority 2
+8775-ERLNB,1,Month-to-month,74.3,74.3,Fiber optic,Electronic check,No,No,92.851326,High Risk,68.9885373353958,Priority 2
+6630-UJZMY,4,Month-to-month,83.25,308.05,Fiber optic,Electronic check,No,No,92.74612,High Risk,285.7044064283371,Priority 1
+1731-TVIUK,4,Month-to-month,93.5,362.2,Fiber optic,Electronic check,Yes,No,92.71864,High Risk,335.82692476511,Priority 1
+2754-SDJRD,8,Month-to-month,100.15,908.55,Fiber optic,Credit card (automatic),Yes,No,92.66032,High Risk,841.8652814358472,Priority 1
+3422-LYEPQ,1,Month-to-month,71.0,71.0,Fiber optic,Electronic check,No,No,92.43631,High Risk,65.629778444767,Priority 2
+6969-MVBAI,9,Month-to-month,90.1,816.8,Fiber optic,Electronic check,No,No,92.4039,High Risk,754.7550602912902,Priority 1
+2867-UIMSS,1,Month-to-month,80.5,80.5,Fiber optic,Electronic check,No,No,92.19571,High Risk,74.21754458546638,Priority 2
+5698-BQJOH,9,Month-to-month,94.4,857.25,Fiber optic,Electronic check,No,No,92.13839,High Risk,789.856363132596,Priority 1
+1768-ZAIFU,1,Month-to-month,25.2,25.2,DSL,Electronic check,No,No,91.93465,High Risk,23.167530584335328,Priority 2
+0390-DCFDQ,1,Month-to-month,70.45,70.45,Fiber optic,Mailed check,No,No,91.91817,High Risk,64.75634688436985,Priority 2
+7273-TEFQD,3,Month-to-month,41.15,132.2,DSL,Electronic check,No,No,91.84538,High Risk,121.41959402561187,Priority 2
+3519-ZKXGG,3,Month-to-month,75.85,256.6,Fiber optic,Electronic check,No,No,91.69497,High Risk,235.2892902970314,Priority 1
+7409-KIUTL,1,Month-to-month,71.0,71.0,Fiber optic,Electronic check,No,No,91.530495,High Risk,64.98665207624435,Priority 2
+8380-PEFPE,1,Month-to-month,71.65,71.65,Fiber optic,Electronic check,No,No,91.504,High Risk,65.56261288821698,Priority 2
+3585-ISXZP,8,Month-to-month,95.65,778.1,Fiber optic,Bank transfer (automatic),No,No,91.36764,High Risk,710.931592142582,Priority 1
+1980-KXVPM,3,Month-to-month,75.05,256.25,Fiber optic,Credit card (automatic),No,No,91.36342,High Risk,234.11875888705254,Priority 1
+4229-CZMLL,6,Month-to-month,74.9,469.8,Fiber optic,Electronic check,No,No,91.35318,High Risk,429.1772303581238,Priority 1
+3677-IYRBF,2,Month-to-month,30.4,78.65,DSL,Electronic check,No,No,90.816864,High Risk,71.4274614840746,Priority 2
+7005-CCBKV,6,Month-to-month,84.4,556.35,Fiber optic,Electronic check,No,No,90.76063,High Risk,504.9467670589686,Priority 1
+8258-GSTJK,3,Month-to-month,77.0,237.75,Fiber optic,Electronic check,No,No,90.43943,High Risk,215.0197516232729,Priority 1
+9878-TNQGW,2,Month-to-month,80.95,171.15,Fiber optic,Electronic check,No,No,90.39177,High Risk,154.70550926327707,Priority 2
+5376-DEQCP,1,Month-to-month,70.6,70.6,Fiber optic,Electronic check,No,No,90.33613,High Risk,63.77730501890182,Priority 2
+4317-VTEOA,1,Month-to-month,50.75,50.75,DSL,Electronic check,No,No,90.32439,High Risk,45.839624866843224,Priority 2
+2485-ITVKB,2,Month-to-month,35.1,68.75,DSL,Electronic check,No,No,90.180984,High Risk,61.999428644776344,Priority 2
+0235-KGSLC,1,Month-to-month,85.55,85.55,Fiber optic,Credit card (automatic),No,No,90.14387,High Risk,77.11807680428028,Priority 2
+0876-WDUUZ,5,Month-to-month,85.4,425.9,Fiber optic,Credit card (automatic),Yes,No,90.03012,High Risk,383.43828876018523,Priority 1
+6608-QQLVK,1,Month-to-month,50.5,50.5,DSL,Electronic check,No,No,89.8488,High Risk,45.3736432492733,Priority 2
+6328-ZPBGN,11,Month-to-month,95.15,997.65,Fiber optic,Bank transfer (automatic),No,No,89.84589,High Risk,896.3474601924419,Priority 1
+2034-GDRCN,2,Month-to-month,90.4,168.2,Fiber optic,Electronic check,No,No,89.76004,High Risk,150.97638936042785,Priority 2
+5159-YFPKQ,2,Month-to-month,75.8,160.75,Fiber optic,Electronic check,No,No,89.56225,High Risk,143.97131556272507,Priority 2
+0871-URUWO,13,Month-to-month,102.25,1359.0,Fiber optic,Credit card (automatic),No,No,89.51012,High Risk,1216.4425166845322,Priority 1
+7056-IMHCC,53,Month-to-month,101.9,5549.4,Fiber optic,Electronic check,No,No,89.40642,High Risk,4961.519804906845,Priority 1
+3244-DCJWY,1,Month-to-month,70.25,70.25,Fiber optic,Electronic check,No,No,89.35017,High Risk,62.76849016547203,Priority 2
+8361-LTMKD,4,Month-to-month,74.4,306.6,Fiber optic,Mailed check,No,No,89.341675,High Risk,273.9215793371201,Priority 1
+8245-UMPYT,16,Month-to-month,96.4,1581.2,Fiber optic,Electronic check,No,No,89.33212,High Risk,1412.5195069074632,Priority 1
+7209-JCUDS,10,Month-to-month,94.9,1048.85,Fiber optic,Electronic check,No,No,89.22766,High Risk,935.8642962843179,Priority 1
+8132-YPVBX,6,Month-to-month,85.95,514.6,Fiber optic,Mailed check,No,No,89.08001,High Risk,458.4057409524918,Priority 1
+9741-YLNTD,6,Month-to-month,87.95,522.35,Fiber optic,Bank transfer (automatic),Yes,No,88.86633,High Risk,464.19330167472367,Priority 1
+3338-CVVEH,12,Month-to-month,94.55,1173.55,Fiber optic,Electronic check,No,No,88.85725,High Risk,1042.7842039227485,Priority 1
+4090-KPJIP,3,Month-to-month,74.95,212.4,Fiber optic,Electronic check,No,No,88.7586,High Risk,188.52326588630677,Priority 2
+4735-ASGMA,26,Month-to-month,98.35,2515.3,Fiber optic,Electronic check,No,No,88.64945,High Risk,2229.7996594309807,Priority 1
+0952-KMEEH,13,Month-to-month,98.15,1230.25,Fiber optic,Mailed check,No,Yes,88.423035,High Risk,1087.8244192004204,Priority 1
+6892-XPFPU,24,Month-to-month,104.25,2433.9,Fiber optic,Electronic check,No,No,88.277374,High Risk,2148.583047115803,Priority 1
+7249-WBIYX,10,Month-to-month,85.6,813.85,Fiber optic,Electronic check,No,No,88.19403,High Risk,717.7671174138785,Priority 1
+7181-OQCUT,21,Month-to-month,103.85,2215.0,Fiber optic,Mailed check,No,Yes,88.14219,High Risk,1952.349428832531,Priority 1
+2737-YNGYW,2,Month-to-month,80.55,184.1,Fiber optic,Electronic check,No,No,88.032135,High Risk,162.06715572476386,Priority 2
+5052-PNLOS,3,Month-to-month,105.35,323.25,Fiber optic,Bank transfer (automatic),No,No,87.97721,High Risk,284.3863399475813,Priority 1
+7363-QTBIW,9,Month-to-month,79.75,769.1,Fiber optic,Electronic check,No,No,87.91666,High Risk,676.16698859334,Priority 1
+7235-NXZCP,2,Month-to-month,74.85,156.4,Fiber optic,Mailed check,No,No,87.86467,High Risk,137.4203394651413,Priority 2
+1320-HTRDR,3,Month-to-month,75.5,220.6,Fiber optic,Electronic check,No,No,87.79724,High Risk,193.68071674108504,Priority 2
+8443-ZRDBZ,4,Month-to-month,76.05,318.9,Fiber optic,Electronic check,No,No,87.78931,High Risk,279.96010648012157,Priority 1
+3877-JRJIP,1,Month-to-month,59.85,59.85,DSL,Electronic check,No,No,87.72574,High Risk,52.50385579168797,Priority 2
+6338-AVWCY,3,Month-to-month,40.15,130.75,DSL,Mailed check,No,No,87.55874,High Risk,114.48305304348469,Priority 2
+4686-UXDML,21,Month-to-month,99.85,1992.55,Fiber optic,Credit card (automatic),No,No,87.35894,High Risk,1740.6705519497393,Priority 1
+9940-RHLFB,1,Month-to-month,75.3,75.3,Fiber optic,Electronic check,No,No,87.283585,High Risk,65.72454135417938,Priority 2
+5382-SOYZL,22,Month-to-month,95.1,2162.6,Fiber optic,Electronic check,No,No,87.25742,High Risk,1887.0289869070052,Priority 1
+8280-MQRQN,1,Month-to-month,50.45,50.45,DSL,Mailed check,No,No,87.18198,High Risk,43.98330560922623,Priority 2
+2919-HBCJO,4,Month-to-month,76.65,333.6,Fiber optic,Bank transfer (automatic),No,No,87.16353,High Risk,290.7775221347809,Priority 1
+1400-MMYXY,3,Month-to-month,105.9,334.65,Fiber optic,Electronic check,No,No,87.13439,High Risk,291.59523971378803,Priority 1
+7495-OOKFY,8,Month-to-month,80.65,633.3,Fiber optic,Credit card (automatic),No,No,87.10574,High Risk,551.6406835734844,Priority 1
+3320-VEOYC,14,Month-to-month,95.6,1273.3,Fiber optic,Electronic check,No,No,87.09544,High Risk,1108.986306208372,Priority 1
+8080-DDEMJ,1,Month-to-month,45.1,45.1,DSL,Electronic check,No,No,87.028336,High Risk,39.24977977275849,Priority 2
+4706-DGAHW,1,Month-to-month,45.2,45.2,DSL,Electronic check,No,No,87.028336,High Risk,39.33680810928345,Priority 2
+2985-FMWYF,23,Month-to-month,93.5,2341.55,Fiber optic,Electronic check,No,No,86.94853,High Risk,2035.9433479100467,Priority 1
+0616-ATFGB,1,Month-to-month,25.05,25.05,DSL,Electronic check,No,No,86.94847,High Risk,21.780592301487925,Priority 2
+8397-MVTAZ,34,Month-to-month,100.05,3480.0,Fiber optic,Electronic check,No,No,86.904076,High Risk,3024.2617321014404,Priority 1
+0988-JRWWP,3,Month-to-month,54.2,140.4,DSL,Electronic check,No,No,86.42148,High Risk,121.3357548236847,Priority 2
+1379-FRVEB,15,Month-to-month,91.0,1430.05,Fiber optic,Electronic check,No,No,86.39313,High Risk,1235.464953070879,Priority 1
+2386-LAHRK,1,Month-to-month,53.5,53.5,DSL,Mailed check,No,No,86.28506,High Risk,46.16250425577164,Priority 2
+4706-AXVKM,11,Month-to-month,84.8,906.85,Fiber optic,Credit card (automatic),No,No,86.15441,High Risk,781.2912963151932,Priority 1
+4919-IKATY,5,Month-to-month,84.5,453.75,Fiber optic,Electronic check,No,Yes,85.89059,High Risk,389.72853027284145,Priority 1
+9907-SWKKF,1,Month-to-month,25.05,25.05,DSL,Mailed check,No,No,85.84841,High Risk,21.505026438832285,Priority 2
+5419-CONWX,4,Month-to-month,99.8,442.85,Fiber optic,Credit card (automatic),No,No,85.70239,High Risk,379.5330582022667,Priority 1
+5501-TVMGM,1,Month-to-month,55.25,55.25,DSL,Electronic check,No,No,85.60228,High Risk,47.295258328318596,Priority 2
+8266-VBFQL,4,Month-to-month,90.4,356.65,Fiber optic,Electronic check,Yes,No,85.5705,High Risk,305.18719638586043,Priority 1
+3292-PBZEJ,11,Month-to-month,111.4,1183.05,Fiber optic,Electronic check,Yes,No,85.464775,High Risk,1011.091027289629,Priority 1
+1751-NCDLI,46,Month-to-month,98.85,4564.9,Fiber optic,Electronic check,No,No,85.32211,High Risk,3894.869083613157,Priority 1
+3908-BLSYF,6,Month-to-month,83.9,497.55,Fiber optic,Electronic check,No,No,85.26249,High Risk,424.22351560592654,Priority 1
+6048-QBXKL,2,Month-to-month,56.55,118.25,DSL,Credit card (automatic),No,No,85.22438,High Risk,100.7778271138668,Priority 2
+8699-ASUFO,7,Month-to-month,74.4,527.9,Fiber optic,Mailed check,No,No,85.212555,High Risk,449.83706489801403,Priority 1
+4237-RLAQD,1,Month-to-month,45.85,45.85,DSL,Mailed check,No,No,85.16684,High Risk,39.048996940255165,Priority 2
+5133-POWUA,1,Month-to-month,45.8,45.8,DSL,Mailed check,No,No,85.16684,High Risk,39.00641351938248,Priority 2
+8212-DJRCH,5,Month-to-month,90.35,434.5,Fiber optic,Mailed check,No,Yes,85.1325,High Risk,369.9007018506527,Priority 1
+9747-DDZOS,1,Month-to-month,73.5,73.5,Fiber optic,Bank transfer (automatic),No,No,85.00499,High Risk,62.478668600320816,Priority 2
+4806-KEXQR,4,Month-to-month,79.9,324.3,Fiber optic,Electronic check,No,No,84.891396,High Risk,275.30279969573024,Priority 1
+3721-CNEYS,2,Month-to-month,70.95,137.95,Fiber optic,Electronic check,No,No,84.89047,High Risk,117.10640735030174,Priority 2
+2025-JKFWI,13,Month-to-month,99.0,1301.7,Fiber optic,Mailed check,Yes,No,84.69833,High Risk,1102.5181792616845,Priority 1
+8903-XEBGX,2,Month-to-month,55.3,108.65,DSL,Electronic check,No,No,84.650536,High Risk,91.97280561625958,Priority 2
+2761-OCIAX,2,Month-to-month,74.7,165.4,Fiber optic,Electronic check,No,No,84.63751,High Risk,139.99044282436373,Priority 2
+8541-QVFKM,8,Month-to-month,73.5,632.2,Fiber optic,Electronic check,No,No,84.52732,High Risk,534.3817149519921,Priority 1
+7218-HKQFK,2,Month-to-month,94.2,167.5,Fiber optic,Electronic check,Yes,No,84.430046,High Risk,141.42032518982887,Priority 2
+1240-KNSEZ,1,Month-to-month,20.1,20.1,No,Mailed check,No internet service,No internet service,84.36102,High Risk,16.956565564870836,Priority 2
+6175-IRFIT,5,Month-to-month,78.75,426.35,Fiber optic,Mailed check,No,No,84.334984,High Risk,359.5621933758259,Priority 1
+5692-FPTAH,1,Month-to-month,45.4,45.4,DSL,Mailed check,No,No,84.322136,High Risk,38.28225003480911,Priority 2
+8818-DOPVL,46,Month-to-month,104.45,4863.85,Fiber optic,Electronic check,No,No,84.264656,High Risk,4098.506369742751,Priority 1
+8752-STIVR,4,Month-to-month,79.0,303.15,Fiber optic,Electronic check,No,No,84.13586,High Risk,255.05784214138984,Priority 1
+8083-YTZES,4,Month-to-month,74.35,265.35,Fiber optic,Electronic check,No,No,84.11886,High Risk,223.20939755737783,Priority 1
+1024-GUALD,1,Month-to-month,24.8,24.8,DSL,Electronic check,No,No,84.05815,High Risk,20.84642210006714,Priority 2
+9420-LOJKX,15,Month-to-month,99.1,1426.4,Fiber optic,Credit card (automatic),No,Yes,83.75128,High Risk,1194.628245306015,Priority 1
+2665-NPTGL,26,Month-to-month,98.1,2510.7,Fiber optic,Bank transfer (automatic),No,No,83.73615,High Risk,2102.3635546267033,Priority 1
+7912-SYRQT,7,Month-to-month,75.1,552.95,Fiber optic,Bank transfer (automatic),No,No,83.71082,High Risk,462.87900928854947,Priority 1
+2077-MPJQO,7,Month-to-month,75.4,533.05,Fiber optic,Electronic check,No,No,83.633224,High Risk,445.80691202580925,Priority 1
+5357-TZHPP,9,Month-to-month,84.4,732.5,Fiber optic,Credit card (automatic),No,No,83.606575,High Risk,612.4181759357452,Priority 1
+9334-GWGOW,7,Month-to-month,74.85,485.25,Fiber optic,Electronic check,No,No,83.57905,High Risk,405.5673184543848,Priority 1
+3672-YITQD,36,Month-to-month,84.1,3021.6,Fiber optic,Electronic check,No,No,83.566414,High Risk,2525.0428050041196,Priority 1
+6651-AZVTJ,49,Month-to-month,99.8,4872.45,Fiber optic,Electronic check,No,No,83.55148,High Risk,4071.0042990356683,Priority 1
+2439-LYPMQ,38,Month-to-month,102.6,4009.2,Fiber optic,Electronic check,No,No,83.46727,High Risk,3346.369746494293,Priority 1
+4631-OACRM,15,Month-to-month,79.4,1156.1,Fiber optic,Electronic check,No,No,83.32513,High Risk,963.3217561006545,Priority 1
+3063-QFSZL,1,Month-to-month,55.4,55.4,DSL,Electronic check,No,No,83.15782,High Risk,46.069432008266446,Priority 2
+9685-WKZGT,14,Month-to-month,74.95,1036.75,Fiber optic,Electronic check,No,No,83.13513,High Risk,861.9035015553236,Priority 1
+3199-XGZCY,8,Month-to-month,75.25,576.7,Fiber optic,Electronic check,No,No,83.01684,High Risk,478.75809692144395,Priority 1
+6821-BUXUX,13,Month-to-month,96.65,1244.5,Fiber optic,Electronic check,No,Yes,83.01543,High Risk,1033.1269518435001,Priority 1
+6856-RAURS,2,Month-to-month,74.9,136.05,Fiber optic,Mailed check,No,No,82.92876,High Risk,112.82457642853261,Priority 2
+2959-MJHIC,4,Month-to-month,80.35,307.4,Fiber optic,Electronic check,No,No,82.87627,High Risk,254.76163876056668,Priority 1
+2187-PKZAY,12,Month-to-month,79.95,1043.4,Fiber optic,Bank transfer (automatic),No,No,82.79721,High Risk,863.9061038374901,Priority 1
+0979-PHULV,69,Month-to-month,99.45,7007.6,Fiber optic,Credit card (automatic),No,No,82.778046,High Risk,5800.754527759553,Priority 1
+9643-AVVWI,3,Month-to-month,80.0,241.3,Fiber optic,Electronic check,Yes,No,82.71847,High Risk,199.59966259002687,Priority 2
+2720-FVBQP,6,Month-to-month,48.95,273.25,DSL,Credit card (automatic),No,No,82.57251,High Risk,225.62937772274017,Priority 1
+9851-KIELU,10,Month-to-month,110.1,1043.3,Fiber optic,Electronic check,Yes,Yes,82.39001,High Risk,859.5749158680438,Priority 1
+3030-YDNRM,8,Month-to-month,74.85,572.45,Fiber optic,Electronic check,No,No,82.210556,High Risk,470.61434300839903,Priority 1
+6023-YEBUP,3,Month-to-month,100.95,329.95,Fiber optic,Electronic check,No,No,82.163055,High Risk,271.0969958513975,Priority 1
+3750-CKVKH,2,Month-to-month,67.75,116.65,Fiber optic,Electronic check,No,No,82.106186,High Risk,95.77686475515367,Priority 2
+2027-FECZV,12,Month-to-month,106.7,1253.9,Fiber optic,Electronic check,No,No,82.05316,High Risk,1028.8645816087724,Priority 1
+6661-HBGWL,42,Month-to-month,104.75,4323.45,Fiber optic,Bank transfer (automatic),No,No,82.03218,High Risk,3546.6202789664267,Priority 1
+9752-ZNQUT,1,Month-to-month,48.6,48.6,DSL,Electronic check,No,No,82.02678,High Risk,39.86501491069794,Priority 2
+8709-KRDVL,33,Month-to-month,100.0,3320.6,Fiber optic,Electronic check,No,No,81.89633,High Risk,2719.449498319626,Priority 1
+6899-PPEEA,37,Month-to-month,96.55,3580.3,Fiber optic,Electronic check,No,No,81.63665,High Risk,2922.8369574010376,Priority 1
+1658-TJVOA,6,Month-to-month,74.1,450.9,Fiber optic,Electronic check,No,Yes,81.60759,High Risk,367.9686328053474,Priority 1
+0524-IAVZO,30,Month-to-month,85.0,2624.25,Fiber optic,Electronic check,No,No,81.433716,High Risk,2137.024224847555,Priority 1
+2495-INZWQ,4,Month-to-month,44.55,174.3,DSL,Electronic check,No,No,81.31268,High Risk,141.72800166606905,Priority 2
+7250-EQKIY,1,Month-to-month,50.45,50.45,DSL,Mailed check,No,No,81.23039,High Risk,40.98073179125786,Priority 2
+8938-UMKPI,47,Month-to-month,106.4,5127.95,Fiber optic,Electronic check,No,No,81.1909,High Risk,4163.428858837485,Priority 1
+6128-AQBMT,41,Month-to-month,53.95,2215.4,DSL,Electronic check,No,No,81.146805,High Risk,1797.726350724697,Priority 1
+2845-HSJCY,14,Month-to-month,87.25,1258.6,Fiber optic,Electronic check,No,No,81.04528,High Risk,1020.0359178304672,Priority 1
+1867-BDVFH,11,Month-to-month,74.35,834.2,Fiber optic,Electronic check,No,No,81.03367,High Risk,675.9828826665879,Priority 1
+2800-QQUSO,42,Month-to-month,100.3,4222.95,Fiber optic,Electronic check,Yes,No,81.02708,High Risk,3421.7330169439315,Priority 1
+3891-PUQOD,1,Month-to-month,59.2,59.2,DSL,Electronic check,No,No,80.95605,High Risk,47.92598028182984,Priority 2
+1112-CUNAO,15,Month-to-month,89.85,1424.95,Fiber optic,Electronic check,No,No,80.86193,High Risk,1152.2421005934477,Priority 1
+9717-QEBGU,2,Month-to-month,70.3,144.0,Fiber optic,Electronic check,No,No,80.80285,High Risk,116.35609817504883,Priority 2
+3312-ZWLGF,29,Month-to-month,79.3,2414.55,Fiber optic,Electronic check,Yes,No,80.79357,High Risk,1950.8011799812318,Priority 1
+6377-WHAOX,60,Month-to-month,106.15,6411.25,Fiber optic,Electronic check,No,No,80.50702,High Risk,5161.506074965,Priority 1
+5480-HPRRX,3,Month-to-month,25.3,77.75,DSL,Electronic check,No,No,80.453316,High Risk,62.5524550229311,Priority 2
+8873-GLDMH,6,Month-to-month,73.85,401.3,Fiber optic,Mailed check,No,No,80.35492,High Risk,322.4642821192742,Priority 1
+1587-FKLZB,66,Month-to-month,99.5,6822.15,Fiber optic,Credit card (automatic),No,No,80.32659,High Risk,5480.000659042596,Priority 1
+7881-EVUAD,2,Month-to-month,42.6,72.4,DSL,Electronic check,No,Yes,80.25807,High Risk,58.106843709945686,Priority 2
+6047-YHPVI,5,Month-to-month,69.7,316.9,Fiber optic,Electronic check,No,No,79.99144,High Risk,253.49287958741186,Priority 1
+1833-TCXKK,45,Month-to-month,107.75,4882.8,Fiber optic,Bank transfer (automatic),No,No,79.95239,High Risk,3903.9155412197115,Priority 1
+8739-WWKDU,25,Month-to-month,89.5,2196.15,Fiber optic,Electronic check,No,No,79.94841,High Risk,1755.7869493693115,Priority 1
+9279-CJEOJ,21,Month-to-month,95.4,2025.1,Fiber optic,Bank transfer (automatic),No,No,79.928116,High Risk,1618.6243174254894,Priority 1
+9465-RWMXL,32,Month-to-month,78.9,2447.95,Fiber optic,Electronic check,No,No,79.9207,High Risk,1956.4187074065208,Priority 1
+4342-HENTK,2,Month-to-month,70.65,142.35,Fiber optic,Electronic check,No,No,79.85232,High Risk,113.66977576017379,Priority 2
+6712-OAWRH,26,Month-to-month,91.25,2351.8,Fiber optic,Electronic check,No,No,79.642395,High Risk,1873.0298965334894,Priority 1
+2369-FEVNO,1,Month-to-month,19.9,19.9,No,Mailed check,No internet service,No internet service,79.47003,High Risk,15.81453645825386,Priority 2
+1475-VWVDO,7,Month-to-month,74.9,490.55,Fiber optic,Electronic check,No,No,79.3132,High Risk,389.07090609371664,Priority 1
+9221-OTIVJ,14,Month-to-month,104.85,1531.4,Fiber optic,Electronic check,No,No,79.26178,High Risk,1213.8148956298828,Priority 1
+7130-VTEWQ,8,Month-to-month,75.75,606.25,Fiber optic,Electronic check,No,No,79.230354,High Risk,480.3340345621109,Priority 1
+7198-GLXTC,2,Month-to-month,79.0,143.65,Fiber optic,Electronic check,No,No,78.982216,High Risk,113.45795345604421,Priority 2
+6680-WKXRZ,3,Month-to-month,74.4,215.8,Fiber optic,Bank transfer (automatic),No,No,78.85873,High Risk,170.17713333368303,Priority 2
+7952-OBOYL,3,Month-to-month,89.85,244.45,Fiber optic,Mailed check,Yes,No,78.83575,High Risk,192.7139899611473,Priority 2
+7861-UVUFT,15,Month-to-month,84.3,1308.4,Fiber optic,Electronic check,No,No,78.74041,High Risk,1030.2395505666734,Priority 1
+7571-YXDAD,2,Month-to-month,74.9,147.15,Fiber optic,Credit card (automatic),No,No,78.676674,High Risk,115.77272983789445,Priority 2
+0685-MLYYM,2,Month-to-month,70.75,154.85,Fiber optic,Electronic check,No,No,78.644295,High Risk,121.78068855702877,Priority 2
+9629-NHXFW,1,Month-to-month,19.4,19.4,No,Mailed check,No internet service,No internet service,78.33589,High Risk,15.19716327190399,Priority 2
+4983-CCWMC,3,Month-to-month,69.6,207.4,Fiber optic,Mailed check,No,No,78.18017,High Risk,162.1456727027893,Priority 2
+8993-PHFWD,3,Month-to-month,25.25,58.9,DSL,Electronic check,No,No,78.17996,High Risk,46.04799728989601,Priority 2
+5760-FXFVO,6,Month-to-month,78.95,494.95,Fiber optic,Electronic check,No,Yes,78.17554,High Risk,386.9298291832209,Priority 1
+9638-JIQYA,2,Month-to-month,24.9,49.7,DSL,Credit card (automatic),No,No,78.13968,High Risk,38.835421270132066,Priority 2
+3197-ARFOY,19,Month-to-month,105.0,2007.25,Fiber optic,Mailed check,Yes,Yes,78.1118,High Risk,1567.899176388979,Priority 1
+6543-XRMYR,30,Month-to-month,99.7,2967.35,Fiber optic,Electronic check,No,No,78.090515,High Risk,2317.218830162287,Priority 1
+0506-LVNGN,5,Month-to-month,75.55,349.65,Fiber optic,Credit card (automatic),No,No,78.03648,High Risk,272.85455631315705,Priority 1
+2754-XBHTB,9,Month-to-month,77.65,714.15,Fiber optic,Bank transfer (automatic),No,No,77.923454,High Risk,556.4903385579586,Priority 1
+0004-TLHLJ,4,Month-to-month,73.9,280.85,Fiber optic,Electronic check,No,No,77.88364,High Risk,218.7361943781376,Priority 1
+0388-EOPEX,2,Month-to-month,74.4,139.4,Fiber optic,Electronic check,No,Yes,77.73523,High Risk,108.3629069209099,Priority 2
+2452-KDRRH,67,Month-to-month,101.4,6841.05,Fiber optic,Credit card (automatic),No,No,77.56525,High Risk,5306.277317610383,Priority 1
+8378-LKJAF,38,Month-to-month,101.15,3956.7,Fiber optic,Credit card (automatic),No,No,77.5474,High Risk,3068.318022876978,Priority 1
+2478-EEWWM,59,Month-to-month,44.3,2666.75,DSL,Electronic check,No,No,77.48686,High Risk,2066.380859106779,Priority 1
+6022-UGGSO,32,Month-to-month,74.4,2276.95,Fiber optic,Electronic check,No,No,77.27937,High Risk,1759.6126385122536,Priority 1
+6077-BDPXA,3,Month-to-month,70.15,194.2,Fiber optic,Electronic check,No,No,77.246765,High Risk,150.01322206258772,Priority 2
+4678-DVQEO,1,Month-to-month,52.2,52.2,DSL,Electronic check,Yes,No,76.97796,High Risk,40.18249318599701,Priority 2
+9692-TUSXH,18,Month-to-month,96.05,1740.7,Fiber optic,Electronic check,No,Yes,76.96708,High Risk,1339.765934532881,Priority 1
+7354-OIJLX,9,Month-to-month,75.85,724.65,Fiber optic,Electronic check,No,No,76.96303,High Risk,557.7125630646943,Priority 1
+7587-RZNME,3,Month-to-month,43.3,123.65,DSL,Electronic check,No,No,76.9566,High Risk,95.15682846903802,Priority 2
+4283-FUTGF,19,Month-to-month,79.85,1471.75,Fiber optic,Electronic check,No,No,76.91001,High Risk,1131.9231157451868,Priority 1
+8601-QACRS,5,Month-to-month,50.6,249.95,DSL,Mailed check,No,No,76.87227,High Risk,192.14224211275575,Priority 2
+4301-VVZKA,16,Month-to-month,75.4,1189.4,Fiber optic,Electronic check,No,No,76.83059,High Risk,913.8230347394943,Priority 1
+6705-LXORM,5,Month-to-month,70.05,302.6,Fiber optic,Electronic check,No,No,76.559135,High Risk,231.66795248985292,Priority 1
+5650-YLIBA,31,Month-to-month,81.15,2640.55,Fiber optic,Electronic check,No,No,76.45652,High Risk,2018.872716534138,Priority 1
+3587-PMCOY,10,One year,98.9,1064.95,Fiber optic,Electronic check,No,Yes,76.43757,High Risk,814.0218874931336,Priority 1
+9576-ANLXO,3,Month-to-month,69.55,222.3,Fiber optic,Bank transfer (automatic),No,No,76.385895,High Risk,169.8058499157429,Priority 2
+7054-LGEQW,1,Month-to-month,45.95,45.95,DSL,Mailed check,No,No,76.15625,High Risk,34.99379808008671,Priority 2
+2057-ZBLPD,21,Month-to-month,86.5,1808.7,Fiber optic,Electronic check,No,No,76.07369,High Risk,1375.9449075222017,Priority 1
+4115-NZRKS,7,Month-to-month,89.15,574.35,Fiber optic,Electronic check,No,No,76.05746,High Risk,436.8360095858574,Priority 1
+4029-HPFVY,3,Month-to-month,70.3,220.4,Fiber optic,Mailed check,No,No,76.04152,High Risk,167.5955092906952,Priority 2
+9840-DVNDC,6,Month-to-month,80.5,463.05,Fiber optic,Credit card (automatic),No,No,75.94953,High Risk,351.6843069702387,Priority 1
+7029-RPUAV,17,Month-to-month,100.45,1622.45,Fiber optic,Credit card (automatic),No,No,75.82517,High Risk,1230.225513866544,Priority 1
+4937-QPZPO,61,One year,99.9,6241.35,Fiber optic,Electronic check,No,No,75.786766,High Risk,4730.117159315944,Priority 1
+6000-APYLU,9,Month-to-month,80.8,713.1,Fiber optic,Electronic check,No,No,75.44065,High Risk,537.9672835528851,Priority 1
+5103-MHMHY,1,Month-to-month,45.95,45.95,DSL,Mailed check,No,No,75.42857,High Risk,34.65943033993244,Priority 2
+4067-HLYQI,33,Month-to-month,70.4,2406.1,Fiber optic,Bank transfer (automatic),No,No,74.79786,High Risk,1799.71123265028,Priority 1
+9054-FOWNV,22,Month-to-month,88.75,1885.15,Fiber optic,Electronic check,No,No,74.787094,High Risk,1409.8488687753677,Priority 1
+7663-RGWBC,1,Month-to-month,44.15,44.15,DSL,Mailed check,No,No,74.705925,High Risk,32.98266482949257,Priority 2
+0258-NOKBL,3,Month-to-month,90.4,268.45,Fiber optic,Electronic check,No,No,74.701164,High Risk,200.53528053760527,Priority 2
+7278-CKDNC,24,Month-to-month,80.5,2088.45,Fiber optic,Electronic check,No,No,74.67688,High Risk,1559.5892431408165,Priority 1
+6173-GOLSU,67,Month-to-month,94.65,6079.0,Fiber optic,Credit card (automatic),No,No,74.62434,High Risk,4536.41337120533,Priority 1
+5442-BHQNG,2,Month-to-month,70.35,139.25,Fiber optic,Electronic check,No,No,74.62277,High Risk,103.91221296787262,Priority 2
+4223-WOZCM,2,Month-to-month,49.95,107.1,DSL,Mailed check,No,No,74.55316,High Risk,79.8464363515377,Priority 2
+8778-LMWTJ,9,Month-to-month,74.85,708.2,Fiber optic,Electronic check,No,Yes,74.51106,High Risk,527.6873488664627,Priority 1
+1077-HUUJM,7,Month-to-month,71.05,472.65,Fiber optic,Electronic check,No,No,74.412704,High Risk,351.7116431593895,Priority 1
+3627-FHKBK,1,Month-to-month,75.3,75.3,Fiber optic,Mailed check,No,Yes,74.407646,High Risk,56.028959727287294,Priority 2
+9611-CTWIH,3,Month-to-month,89.45,240.45,Fiber optic,Electronic check,No,No,74.32173,High Risk,178.70659724771977,Priority 2
+8393-DLHGA,25,Month-to-month,95.9,2448.75,Fiber optic,Electronic check,No,No,74.27126,High Risk,1818.7175206840038,Priority 1
+5129-JLPIS,25,Month-to-month,105.5,2686.05,Fiber optic,Electronic check,Yes,Yes,74.18974,High Risk,1992.7735225349666,Priority 1
+8650-RHRKE,4,Month-to-month,29.65,118.5,DSL,Electronic check,No,No,74.15753,High Risk,87.87667313218117,Priority 2
+3658-KIBGF,1,Month-to-month,54.9,54.9,DSL,Electronic check,No,Yes,74.08272,High Risk,40.671413433551784,Priority 2
+6376-GAHQE,4,Month-to-month,77.85,299.2,Fiber optic,Electronic check,No,No,74.077614,High Risk,221.64021558761596,Priority 1
+4818-QIUFN,20,Month-to-month,79.15,1520.9,Fiber optic,Electronic check,No,Yes,74.05327,High Risk,1126.2761777222156,Priority 1
+3966-HRMZA,3,Month-to-month,75.05,202.9,Fiber optic,Mailed check,No,No,73.97622,High Risk,150.09774774312973,Priority 2
+5628-FCGYG,21,Month-to-month,84.1,1737.45,Fiber optic,Electronic check,No,No,73.95212,High Risk,1284.8811183661223,Priority 1
+3524-WQDSG,43,Month-to-month,99.3,4209.95,Fiber optic,Bank transfer (automatic),No,No,73.8963,High Risk,3110.997315222025,Priority 1
+0096-BXERS,6,Month-to-month,50.35,314.55,DSL,Electronic check,No,No,73.883026,High Risk,232.39906091988087,Priority 1
+6834-NXDCA,13,Month-to-month,23.9,300.8,DSL,Electronic check,No,No,73.76367,High Risk,221.88113288879396,Priority 1
+5331-RGMTT,54,Month-to-month,99.05,5295.7,Fiber optic,Credit card (automatic),No,No,73.62876,High Risk,3899.1582107067106,Priority 1
+9992-UJOEL,2,Month-to-month,50.3,92.75,DSL,Mailed check,No,No,73.6219,High Risk,68.28431674838066,Priority 2
+8676-TRMJS,3,Month-to-month,75.0,209.1,Fiber optic,Mailed check,No,No,73.61825,High Risk,153.93575055599212,Priority 2
+2606-RMDHZ,6,Month-to-month,30.5,208.7,DSL,Credit card (automatic),No,No,73.36444,High Risk,153.1115916788578,Priority 2
+0330-IVZHA,5,Month-to-month,69.95,330.15,Fiber optic,Electronic check,No,No,73.24912,High Risk,241.8319877743721,Priority 1
+6770-XUAGN,1,Month-to-month,21.0,21.0,No,Electronic check,No internet service,No internet service,73.13538,High Risk,15.358430206775665,Priority 2
+6507-ZJSUR,23,Month-to-month,90.45,2117.25,Fiber optic,Electronic check,No,No,73.06577,High Risk,1546.9851345866919,Priority 1
+3717-OEAUQ,2,Month-to-month,70.7,129.2,Fiber optic,Mailed check,No,No,72.91946,High Risk,94.21193993091582,Priority 2
+4667-OHGKG,1,Month-to-month,19.3,19.3,No,Mailed check,No internet service,No internet service,72.842,High Risk,14.05850636959076,Priority 2
+0023-XUOPT,13,Month-to-month,94.1,1215.6,Fiber optic,Electronic check,No,No,72.804085,High Risk,885.0064864397049,Priority 1
+2227-JRSJX,21,Month-to-month,99.15,1956.4,Fiber optic,Bank transfer (automatic),Yes,No,72.60689,High Risk,1420.4811066150667,Priority 1
+7503-QQRVF,16,Month-to-month,74.3,1178.25,Fiber optic,Credit card (automatic),No,No,72.30809,High Risk,851.9700391888618,Priority 1
+5380-WJKOV,34,Month-to-month,106.35,3549.25,Fiber optic,Electronic check,No,No,72.292915,High Risk,2565.856390938163,Priority 1
+4412-YLTKF,27,Month-to-month,78.05,2135.5,Fiber optic,Electronic check,No,No,72.20245,High Risk,1541.8834478259087,Priority 1
+9962-BFPDU,1,Month-to-month,20.05,20.05,No,Mailed check,No internet service,No internet service,71.99909,High Risk,14.435817727446556,Priority 2
+3858-VOBET,23,Month-to-month,74.95,1710.45,Fiber optic,Electronic check,No,No,71.99711,High Risk,1231.4745008647442,Priority 1
+1016-DJTSV,8,Month-to-month,69.7,572.85,Fiber optic,Electronic check,No,No,71.86105,High Risk,411.6560393214226,Priority 1
+4846-WHAFZ,37,Month-to-month,76.5,2868.15,Fiber optic,Electronic check,No,No,71.7817,High Risk,2058.806852915883,Priority 1
+0923-PNFUB,3,Month-to-month,83.75,247.25,Fiber optic,Electronic check,No,No,71.63678,High Risk,177.12193389236927,Priority 2
+0410-IPFTY,31,Month-to-month,83.85,2674.15,Fiber optic,Bank transfer (automatic),No,No,71.52478,High Risk,1912.6799308091402,Priority 1
+6158-HDPXZ,1,Month-to-month,25.35,25.35,DSL,Mailed check,No,No,71.28256,High Risk,18.070128867030146,Priority 2
+3312-UUMZW,32,Month-to-month,98.85,3145.9,Fiber optic,Credit card (automatic),No,No,71.22003,High Risk,2240.5110609591006,Priority 1
+7928-VJYAB,11,Month-to-month,90.6,1020.2,Fiber optic,Electronic check,No,No,71.20111,High Risk,726.3937230587006,Priority 1
+0376-YMCJC,23,Month-to-month,90.6,1943.2,Fiber optic,Electronic check,Yes,No,71.124115,High Risk,1382.0837561607361,Priority 1
+2325-NBPZG,3,Month-to-month,74.55,233.65,Fiber optic,Electronic check,No,Yes,71.04954,High Risk,166.00723916888236,Priority 2
+1522-VVDMG,7,Month-to-month,89.75,608.8,Fiber optic,Electronic check,Yes,No,71.04227,High Risk,432.505336523056,Priority 1
+9389-ACWBI,5,Month-to-month,69.95,320.4,Fiber optic,Credit card (automatic),No,No,70.98224,High Risk,227.42710218429565,Priority 1
+1622-HSHSF,1,Month-to-month,19.55,19.55,No,Mailed check,No internet service,No internet service,70.84276,High Risk,13.849759736657143,Priority 2
+4873-ILOLJ,24,Month-to-month,90.35,2238.5,Fiber optic,Electronic check,No,No,70.804375,High Risk,1584.9559435546398,Priority 1
+5759-RCVCB,3,Month-to-month,35.2,108.95,DSL,Credit card (automatic),No,No,70.32465,High Risk,76.61870986521244,Priority 2
+8696-JKZNU,37,Month-to-month,76.25,2841.55,Fiber optic,Electronic check,No,No,70.28103,High Risk,1997.0705723762514,Priority 1
+6542-LWGXJ,3,Month-to-month,25.0,78.25,DSL,Mailed check,No,No,70.10006,High Risk,54.85329470038414,Priority 2
+0265-PSUAE,16,Month-to-month,100.7,1522.7,Fiber optic,Bank transfer (automatic),No,Yes,69.985344,Medium Risk,1065.6668030261994,Priority 3
+4154-AQUGT,13,Month-to-month,89.05,1169.35,Fiber optic,Bank transfer (automatic),Yes,No,69.97086,Medium Risk,818.2042988568544,Priority 3
+8728-SKJLR,41,Month-to-month,74.25,3089.1,Fiber optic,Electronic check,Yes,No,69.89512,Medium Risk,2159.1301048099995,Priority 3
+0682-USIXD,21,Month-to-month,86.05,1818.9,Fiber optic,Electronic check,Yes,No,69.87412,Medium Risk,1270.9403642892837,Priority 3
+4817-VYYWS,30,Month-to-month,100.2,2983.8,Fiber optic,Electronic check,No,No,69.835625,Medium Risk,2083.755440783501,Priority 3
+2277-VWCNI,4,Month-to-month,48.75,179.85,DSL,Mailed check,No,No,69.78214,Medium Risk,125.50318568050861,Priority 3
+6080-TCMYC,40,Month-to-month,81.2,3292.3,Fiber optic,Electronic check,No,No,69.73533,Medium Risk,2295.896280890703,Priority 3
+6286-SUUWT,1,Month-to-month,19.95,19.95,No,Mailed check,No internet service,No internet service,69.6999,Medium Risk,13.905129128694535,Priority 3
+8749-CLJXC,1,Month-to-month,20.05,20.05,No,Mailed check,No internet service,No internet service,69.6999,Medium Risk,13.974829024076461,Priority 3
+4840-ORQXB,56,Month-to-month,104.75,5841.35,Fiber optic,Electronic check,No,No,69.60186,Medium Risk,4065.688112550974,Priority 3
+5144-TVGLP,38,Month-to-month,94.75,3653.0,Fiber optic,Electronic check,No,No,69.495735,Medium Risk,2538.6792927980423,Priority 3
+5373-SFODM,36,Month-to-month,85.25,3132.75,Fiber optic,Credit card (automatic),No,No,69.41483,Medium Risk,2174.5930933356285,Priority 3
+1956-YIFGE,22,One year,100.05,2090.25,Fiber optic,Mailed check,No,No,69.16423,Medium Risk,1445.7052849531174,Priority 3
+6166-ILMNY,2,Month-to-month,69.75,144.55,Fiber optic,Bank transfer (automatic),No,No,69.14216,Medium Risk,99.94498771131039,Priority 3
+1902-XBTFB,22,Month-to-month,89.4,2001.5,Fiber optic,Electronic check,No,No,69.085266,Medium Risk,1382.7415630817413,Priority 3
+6319-IEJWJ,20,Month-to-month,90.2,1776.55,Fiber optic,Electronic check,No,No,68.97705,Medium Risk,1225.4118168324233,Priority 3
+2860-RANUS,20,Month-to-month,85.8,1727.5,Fiber optic,Credit card (automatic),No,No,68.92699,Medium Risk,1190.7136498391628,Priority 3
+4647-MUZON,18,Month-to-month,95.95,1745.5,Fiber optic,Credit card (automatic),No,No,68.83088,Medium Risk,1201.442967504263,Priority 3
+6654-QGBZZ,1,Month-to-month,19.9,19.9,No,Mailed check,No internet service,No internet service,68.5968,Medium Risk,13.65076402425766,Priority 3
+0749-IRGQE,13,Month-to-month,45.3,528.45,DSL,Electronic check,No,No,68.487366,Medium Risk,361.9214753419161,Priority 3
+4690-LLKUA,17,Month-to-month,45.05,770.6,DSL,Electronic check,No,No,68.41546,Medium Risk,527.2095117211342,Priority 3
+6557-BZXLQ,16,Month-to-month,69.65,1043.3,Fiber optic,Electronic check,No,No,68.292435,Medium Risk,712.4949537336826,Priority 3
+3679-XASPY,1,Month-to-month,19.45,19.45,No,Electronic check,No internet service,No internet service,68.17577,Medium Risk,13.260188201069832,Priority 3
+6034-YMTOB,5,Month-to-month,75.65,399.45,Fiber optic,Mailed check,Yes,No,68.03412,Medium Risk,271.7622860044241,Priority 3
+9779-DPNEJ,22,Month-to-month,80.15,1790.65,Fiber optic,Electronic check,No,No,67.95787,Medium Risk,1216.8876376956703,Priority 3
+7018-WBJNK,13,Month-to-month,78.3,1033.95,Fiber optic,Credit card (automatic),No,No,67.95032,Medium Risk,702.5723361611366,Priority 3
+2041-JIJCI,5,Month-to-month,64.0,370.25,DSL,Electronic check,No,No,67.93689,Medium Risk,251.53634010255337,Priority 3
+4570-QHXHL,9,Month-to-month,43.75,405.7,DSL,Electronic check,No,No,67.886345,Medium Risk,275.4149080693722,Priority 3
+2604-IJPDU,20,Month-to-month,96.55,1901.65,Fiber optic,Electronic check,Yes,Yes,67.885765,Medium Risk,1290.9496016889811,Priority 3
+8059-UDZFY,33,Month-to-month,105.35,3465.05,Fiber optic,Bank transfer (automatic),No,No,67.82276,Medium Risk,2350.092557284236,Priority 3
+9944-AEXBM,32,Month-to-month,85.65,2664.3,Fiber optic,Bank transfer (automatic),No,No,67.79635,Medium Risk,1806.2981404066088,Priority 3
+5207-PLSTK,1,Month-to-month,48.75,48.75,DSL,Mailed check,No,Yes,67.74657,Medium Risk,33.026451766490936,Priority 3
+4829-AUOAX,46,Month-to-month,96.05,4399.5,Fiber optic,Bank transfer (automatic),No,No,67.569466,Medium Risk,2972.7185882627964,Priority 3
+6304-IJFSQ,3,Month-to-month,49.9,130.1,DSL,Mailed check,No,No,67.50236,Medium Risk,87.82056460380554,Priority 3
+7893-IXHRQ,1,Month-to-month,20.55,20.55,No,Electronic check,No internet service,No internet service,67.414764,Medium Risk,13.85373452603817,Priority 3
+9450-TRJUU,35,Month-to-month,83.15,2848.45,Fiber optic,Electronic check,No,No,67.355675,Medium Risk,1918.592710444331,Priority 3
+7855-DIWPO,21,Month-to-month,68.65,1493.2,Fiber optic,Electronic check,No,No,67.32106,Medium Risk,1005.2380990982056,Priority 3
+1444-VVSGW,70,One year,115.65,7968.85,Fiber optic,Credit card (automatic),Yes,Yes,67.31027,Medium Risk,5363.854741543531,Priority 3
+1261-FWTTE,23,Month-to-month,34.65,768.45,DSL,Bank transfer (automatic),No,No,67.1284,Medium Risk,515.8482051283121,Priority 3
+2482-CZGBB,10,Month-to-month,70.0,740.0,Fiber optic,Electronic check,No,No,66.919395,Medium Risk,495.20354747772217,Priority 3
+7957-RYHQD,40,Month-to-month,79.2,3233.85,Fiber optic,Credit card (automatic),No,Yes,66.89213,Medium Risk,2163.1911195784805,Priority 3
+7733-UDMTP,57,Month-to-month,55.0,3094.05,DSL,Electronic check,No,No,66.88912,Medium Risk,2069.582791006565,Priority 3
+0082-OQIQY,29,Month-to-month,94.2,2607.6,Fiber optic,Electronic check,Yes,No,66.85032,Medium Risk,1743.1888536930085,Priority 3
+5651-YLPRD,32,Month-to-month,86.1,2723.75,Fiber optic,Electronic check,No,No,66.740776,Medium Risk,1817.85186201334,Priority 3
+9167-APMXZ,22,Month-to-month,84.15,1821.95,Fiber optic,Bank transfer (automatic),No,No,66.61592,Medium Risk,1213.7087773770095,Priority 3
+2798-NYLMZ,71,Two year,108.55,7616.0,Fiber optic,Credit card (automatic),Yes,Yes,66.58007,Medium Risk,5070.738059997559,Priority 3
+6769-DYBQN,46,Month-to-month,85.0,3969.4,Fiber optic,Electronic check,No,Yes,66.5677,Medium Risk,2642.3383275151255,Priority 3
+0576-WNXXC,27,Month-to-month,95.55,2510.2,Fiber optic,Electronic check,No,No,66.528725,Medium Risk,1670.0040706157683,Priority 3
+7603-USHJS,12,Month-to-month,73.75,871.4,Fiber optic,Credit card (automatic),No,No,66.51205,Medium Risk,579.5859884023666,Priority 3
+5022-JNQEQ,9,Month-to-month,75.85,647.5,Fiber optic,Electronic check,Yes,No,66.45378,Medium Risk,430.28821736574173,Priority 3
+3374-LXDEV,13,Month-to-month,89.4,1132.35,Fiber optic,Electronic check,Yes,No,66.14026,Medium Risk,748.9392149984836,Priority 3
+6234-PFPXL,22,Month-to-month,95.9,2234.95,Fiber optic,Credit card (automatic),Yes,Yes,65.94137,Medium Risk,1473.7566383898256,Priority 3
+5440-VHLUL,69,One year,105.2,7386.05,Fiber optic,Bank transfer (automatic),Yes,No,65.89929,Medium Risk,4867.354849895835,Priority 3
+8033-VCZGH,50,One year,103.95,5231.3,Fiber optic,Electronic check,No,Yes,65.573,Medium Risk,3430.3203964948657,Priority 3
+8621-MNIHH,34,Month-to-month,94.25,3217.55,Fiber optic,Electronic check,No,No,65.551605,Medium Risk,2109.1555971920493,Priority 3
+1236-WFCDV,14,Month-to-month,90.45,1266.1,Fiber optic,Credit card (automatic),No,No,65.542885,Medium Risk,829.8384376227855,Priority 3
+9369-XFEHK,33,Month-to-month,80.6,2656.5,Fiber optic,Bank transfer (automatic),No,No,65.4861,Medium Risk,1739.638175725937,Priority 3
+3932-CMDTD,4,One year,105.65,443.9,Fiber optic,Electronic check,Yes,No,65.442535,Medium Risk,290.49942734241483,Priority 3
+7404-JLKQG,3,Month-to-month,57.55,161.45,DSL,Electronic check,No,No,65.40951,Medium Risk,105.60364641547203,Priority 3
+6317-YPKDH,1,Month-to-month,29.95,29.95,DSL,Bank transfer (automatic),No,No,65.27269,Medium Risk,19.549170315265656,Priority 3
+5228-EXCET,13,Month-to-month,80.85,1008.7,Fiber optic,Electronic check,No,No,65.21839,Medium Risk,657.857890188694,Priority 3
+9286-DOJGF,38,Month-to-month,74.95,2869.85,Fiber optic,Bank transfer (automatic),No,No,65.21217,Medium Risk,1871.4915258854628,Priority 3
+8160-HOWOX,7,Month-to-month,66.85,458.1,DSL,Electronic check,No,No,65.18851,Medium Risk,298.6285607635975,Priority 3
+8445-DNBAE,1,Month-to-month,50.05,50.05,DSL,Electronic check,No,No,65.179375,Medium Risk,32.62227560281753,Priority 3
+0581-BXBUB,4,Month-to-month,72.75,317.75,Fiber optic,Electronic check,No,No,65.06774,Medium Risk,206.75275737047195,Priority 3
+8058-DMYRU,54,Month-to-month,90.05,4931.8,Fiber optic,Electronic check,No,No,64.98201,Medium Risk,3204.7827166080474,Priority 3
+7748-UMTRK,30,Month-to-month,101.3,2974.5,Fiber optic,Electronic check,Yes,No,64.94747,Medium Risk,1931.8626142144203,Priority 3
+2672-OJQZP,1,Month-to-month,44.75,44.75,DSL,Mailed check,No,No,64.66139,Medium Risk,28.935971841216087,Priority 3
+3976-NLDEZ,1,Month-to-month,20.6,20.6,No,Mailed check,No internet service,No internet service,64.63601,Medium Risk,13.315018045902253,Priority 3
+4512-ZUIYL,2,Month-to-month,70.0,153.05,Fiber optic,Bank transfer (automatic),No,No,64.55388,Medium Risk,98.7997143983841,Priority 3
+9979-RGMZT,7,One year,94.05,633.45,Fiber optic,Mailed check,No,No,64.51659,Medium Risk,408.6803144305945,Priority 3
+5889-JTMUL,50,Month-to-month,95.05,4888.7,Fiber optic,Electronic check,No,No,64.43093,Medium Risk,3149.834788393974,Priority 3
+4208-UFFGW,2,Month-to-month,44.95,85.15,DSL,Mailed check,No,No,64.343864,Medium Risk,54.78879996240139,Priority 3
+5226-NOZFC,26,Month-to-month,85.75,2146.5,Fiber optic,Electronic check,No,No,64.137146,Medium Risk,1376.70390021801,Priority 3
+5828-AVIPD,19,One year,100.95,1875.55,Fiber optic,Electronic check,Yes,No,63.9626,Medium Risk,1199.6505933523179,Priority 3
+0430-IHCDJ,15,Month-to-month,49.0,749.25,DSL,Electronic check,No,No,63.906975,Medium Risk,478.8229997009039,Priority 3
+9112-WSNPU,35,Month-to-month,70.55,2419.0,Fiber optic,Electronic check,No,No,63.777298,Medium Risk,1542.7728322148323,Priority 3
+9572-WUKSB,3,Month-to-month,29.9,92.25,DSL,Electronic check,Yes,No,63.598473,Medium Risk,58.669590309262276,Priority 3
+0015-UOCOJ,7,Month-to-month,48.2,340.35,DSL,Electronic check,No,Yes,63.54633,Medium Risk,216.27993325889113,Priority 3
+9866-QEVEE,19,Month-to-month,86.0,1532.45,Fiber optic,Bank transfer (automatic),No,No,63.413204,Medium Risk,971.7756257355213,Priority 3
+4547-LYTDD,16,Month-to-month,72.65,1194.3,Fiber optic,Electronic check,No,No,63.390488,Medium Risk,757.0725914061069,Priority 3
+2277-DJJDL,60,Month-to-month,99.0,6017.9,Fiber optic,Electronic check,Yes,No,63.381786,Medium Risk,3814.2524488031863,Priority 3
+9927-DSWDF,22,Month-to-month,104.6,2180.55,Fiber optic,Electronic check,Yes,Yes,63.367878,Medium Risk,1381.76829405427,Priority 3
+7279-BUYWN,41,Month-to-month,113.2,4689.5,Fiber optic,Electronic check,No,Yes,63.333683,Medium Risk,2970.033120840788,Priority 3
+1319-YLZJG,12,Month-to-month,84.6,959.9,Fiber optic,Electronic check,No,Yes,63.23073,Medium Risk,606.9517686605453,Priority 3
+7579-OOPEC,2,Month-to-month,50.15,115.1,DSL,Credit card (automatic),No,No,63.18,Medium Risk,72.72017952799797,Priority 3
+0432-CAJZV,3,Month-to-month,90.7,237.65,Fiber optic,Mailed check,No,No,62.99411,Medium Risk,149.7055038034916,Priority 3
+0899-LIIBW,34,Month-to-month,100.85,3527.3,Fiber optic,Electronic check,No,No,62.98704,Medium Risk,2221.7419138908385,Priority 3
+0322-CHQRU,2,Month-to-month,45.35,89.5,DSL,Electronic check,No,No,62.73986,Medium Risk,56.15217560529709,Priority 3
+0823-HSCDJ,52,Month-to-month,49.15,2550.9,DSL,Electronic check,No,No,62.702187,Medium Risk,1599.4700350105763,Priority 3
+2293-IJWPS,57,One year,100.75,5985.0,Fiber optic,Credit card (automatic),No,No,62.633835,Medium Risk,3748.635100722313,Priority 3
+6402-EJMWF,4,Month-to-month,55.3,238.5,DSL,Mailed check,No,No,62.24912,Medium Risk,148.46414664387703,Priority 3
+7134-MJPDY,66,One year,102.85,6976.75,Fiber optic,Credit card (automatic),Yes,No,62.11938,Medium Risk,4333.914026930928,Priority 3
+4947-DSMXK,34,Month-to-month,97.7,3410.0,Fiber optic,Bank transfer (automatic),No,No,62.115055,Medium Risk,2118.123386502266,Priority 3
+5351-QESIO,1,Month-to-month,24.2,24.2,DSL,Mailed check,No,No,61.9766,Medium Risk,14.998337125778198,Priority 3
+8988-ECPJR,34,Month-to-month,79.6,2718.3,Fiber optic,Mailed check,No,No,61.86819,Medium Risk,1681.763029575348,Priority 3
+3365-SAIGS,17,Month-to-month,83.55,1329.15,Fiber optic,Electronic check,No,No,61.84709,Medium Risk,822.0406063199043,Priority 3
+8785-CJSHH,60,Month-to-month,99.8,5985.75,Fiber optic,Electronic check,No,No,61.464985,Medium Risk,3679.1402333825827,Priority 3
+9819-FBNSV,37,Month-to-month,72.25,2575.45,Fiber optic,Bank transfer (automatic),No,No,61.435486,Medium Risk,1582.2401955008506,Priority 3
+5339-PXDVH,4,Month-to-month,90.65,367.95,Fiber optic,Electronic check,No,Yes,61.306953,Medium Risk,225.5789351463318,Priority 3
+1942-OQFRW,1,Month-to-month,44.0,44.0,DSL,Electronic check,No,No,61.283432,Medium Risk,26.96471071243286,Priority 3
+4248-QPAVC,17,Month-to-month,85.35,1463.45,Fiber optic,Bank transfer (automatic),No,Yes,61.03414,Medium Risk,893.2041653096676,Priority 3
+0963-ZBDRN,32,Month-to-month,96.2,3183.4,Fiber optic,Electronic check,Yes,No,60.99722,Medium Risk,1941.7854344248772,Priority 3
+5606-AMZBO,10,Month-to-month,78.15,765.15,Fiber optic,Credit card (automatic),No,Yes,60.869682,Medium Risk,465.74437056183814,Priority 3
+3787-TRIAL,21,Month-to-month,26.05,565.75,DSL,Electronic check,No,No,60.63372,Medium Risk,343.03526505827904,Priority 3
+7534-BFESC,24,Month-to-month,76.1,1712.7,Fiber optic,Electronic check,No,No,60.6148,Medium Risk,1038.1496873617173,Priority 3
+9050-QLROH,18,Month-to-month,90.7,1597.25,Fiber optic,Credit card (automatic),No,No,60.584957,Medium Risk,967.6932162195444,Priority 3
+1357-BIJKI,50,One year,98.25,4858.7,Fiber optic,Electronic check,No,No,59.88055,Medium Risk,2909.4162204444406,Priority 3
+0778-NELLA,9,Month-to-month,34.7,296.1,DSL,Credit card (automatic),No,No,59.875877,Medium Risk,177.29246798157692,Priority 3
+2971-SGAFL,13,Month-to-month,78.75,995.35,DSL,Electronic check,No,Yes,59.698254,Medium Risk,594.2065698951483,Priority 3
+5016-IBERQ,23,Month-to-month,84.25,1968.1,Fiber optic,Electronic check,No,No,59.69209,Medium Risk,1174.8000380456447,Priority 3
+2480-SQIOB,4,Month-to-month,44.8,169.65,DSL,Electronic check,No,No,59.639824,Medium Risk,101.17896046042442,Priority 3
+3334-CTHOL,1,Month-to-month,49.95,49.95,DSL,Bank transfer (automatic),No,No,59.579975,Medium Risk,29.76019721925259,Priority 3
+2778-OCLGR,24,Month-to-month,39.1,971.3,DSL,Bank transfer (automatic),No,Yes,59.51662,Medium Risk,578.0849362373352,Priority 3
+9283-LZQOH,13,Month-to-month,74.4,896.75,Fiber optic,Credit card (automatic),No,No,59.514393,Medium Risk,533.6953050792217,Priority 3
+3923-CSIHK,50,Month-to-month,71.05,3444.85,Fiber optic,Electronic check,No,No,59.432518,Medium Risk,2047.361112934351,Priority 3
+7130-CTCUS,16,Month-to-month,54.55,825.1,DSL,Bank transfer (automatic),No,Yes,59.371353,Medium Risk,489.87302696704865,Priority 3
+1335-NTIUC,9,Month-to-month,24.95,190.25,DSL,Electronic check,No,No,59.333305,Medium Risk,112.88161571323872,Priority 3
+9812-GHVRI,40,Month-to-month,83.85,3532.25,Fiber optic,Bank transfer (automatic),No,No,59.296734,Medium Risk,2094.508856371045,Priority 3
+0422-UXFAP,51,One year,98.85,4947.55,Fiber optic,Electronic check,No,No,59.13422,Medium Risk,2925.6951548933985,Priority 3
+6711-VTNRE,36,Month-to-month,87.55,3078.1,Fiber optic,Electronic check,Yes,No,59.052925,Medium Risk,1817.7081245005131,Priority 3
+7470-MCQTK,13,Month-to-month,48.75,633.4,DSL,Bank transfer (automatic),No,No,58.89313,Medium Risk,373.0290994167328,Priority 3
+0581-MDMPW,24,Month-to-month,88.95,2072.75,Fiber optic,Credit card (automatic),No,No,58.819435,Medium Risk,1219.179880976677,Priority 3
+6704-UTUKK,29,Month-to-month,45.9,1332.4,DSL,Electronic check,No,No,58.6908,Medium Risk,781.9961963176728,Priority 3
+7460-ITWWP,45,Month-to-month,86.1,3861.45,Fiber optic,Electronic check,No,No,58.687504,Medium Risk,2266.1885516077277,Priority 3
+7395-XWZOY,20,Month-to-month,55.0,1165.55,DSL,Credit card (automatic),Yes,Yes,58.658497,Medium Risk,683.6941295653581,Priority 3
+1035-IPQPU,63,Month-to-month,103.5,6479.4,Fiber optic,Electronic check,No,No,58.38102,Medium Risk,3782.739876151085,Priority 3
+2955-BJZHG,17,Month-to-month,80.85,1400.85,Fiber optic,Electronic check,No,No,58.076435,Medium Risk,813.5637442857027,Priority 3
+9508-ILZDG,34,Month-to-month,96.35,3190.25,Fiber optic,Electronic check,Yes,No,57.973408,Medium Risk,1849.4966710209846,Priority 3
+4760-THGOT,43,Month-to-month,94.1,4107.3,Fiber optic,Electronic check,No,Yes,57.937885,Medium Risk,2379.682723116875,Priority 3
+4658-HCOHW,21,Month-to-month,102.8,2110.15,Fiber optic,Electronic check,Yes,No,57.866627,Medium Risk,1221.0726291745902,Priority 3
+6331-LWDTQ,10,Month-to-month,72.15,794.25,DSL,Credit card (automatic),No,No,57.78016,Medium Risk,458.91890904307365,Priority 3
+2770-NSVDG,24,Month-to-month,29.1,688.0,DSL,Electronic check,No,No,57.67353,Medium Risk,396.7938985824585,Priority 3
+0531-ZZJWQ,55,Month-to-month,74.0,4052.4,Fiber optic,Electronic check,No,No,57.66161,Medium Risk,2336.679117751122,Priority 3
+0958-YHXGP,7,Month-to-month,69.9,497.3,Fiber optic,Mailed check,No,No,57.54151,Medium Risk,286.153946352005,Priority 3
+4892-VLANZ,1,Month-to-month,19.8,19.8,No,Mailed check,No internet service,No internet service,57.334095,Medium Risk,11.352150857448578,Priority 3
+2694-CIUMO,12,Month-to-month,79.55,958.25,Fiber optic,Credit card (automatic),Yes,No,57.26654,Medium Risk,548.7566131800413,Priority 3
+5402-HTOTQ,16,Month-to-month,55.3,875.35,DSL,Electronic check,No,No,57.206364,Medium Risk,500.7558940201998,Priority 3
+0256-LTHVJ,28,Month-to-month,81.05,2227.1,Fiber optic,Electronic check,No,No,57.205246,Medium Risk,1274.0180755138397,Priority 3
+7129-ACFOG,5,Month-to-month,53.8,283.95,DSL,Electronic check,No,Yes,57.12537,Medium Risk,162.2074929267168,Priority 3
+5301-GAUUY,32,Month-to-month,80.35,2596.15,Fiber optic,Bank transfer (automatic),No,No,57.086224,Medium Risk,1482.0439878612758,Priority 3
+2108-YKQTY,4,Month-to-month,50.7,151.3,DSL,Credit card (automatic),No,No,57.067753,Medium Risk,86.34350860118866,Priority 3
+2501-XWWTZ,11,Month-to-month,70.2,760.05,Fiber optic,Electronic check,No,No,57.005344,Medium Risk,433.26913091540337,Priority 3
+0730-KOAVE,30,Month-to-month,94.3,2679.7,Fiber optic,Credit card (automatic),No,Yes,56.941784,Medium Risk,1525.8689705252646,Priority 3
+9822-WMWVG,41,Month-to-month,106.5,4282.4,Fiber optic,Electronic check,Yes,Yes,56.829166,Medium Risk,2433.6522224426267,Priority 3
+4013-GUXND,1,Month-to-month,20.8,20.8,No,Mailed check,No internet service,No internet service,56.744774,Medium Risk,11.802912616729737,Priority 3
+3930-ZGWVE,1,Month-to-month,19.75,19.75,No,Mailed check,No internet service,No internet service,56.670338,Medium Risk,11.192391738295555,Priority 3
+7239-HZZCX,1,Month-to-month,19.75,19.75,No,Mailed check,No internet service,No internet service,56.670338,Medium Risk,11.192391738295555,Priority 3
+9374-YOLBJ,1,Month-to-month,19.25,19.25,No,Electronic check,No internet service,No internet service,56.405376,Medium Risk,10.858035147190094,Priority 3
+5281-BUZGT,36,Month-to-month,90.85,3186.7,Fiber optic,Electronic check,No,Yes,56.376137,Medium Risk,1796.5383051753042,Priority 3
+5461-QKNTN,43,Month-to-month,94.3,3953.15,Fiber optic,Electronic check,Yes,No,56.242115,Medium Risk,2223.3351416677237,Priority 3
+8714-EUHJO,31,Month-to-month,91.15,2995.45,Fiber optic,Electronic check,No,No,56.132412,Medium Risk,1681.4183339595793,Priority 3
+9227-LUNBG,1,Month-to-month,24.6,24.6,DSL,Electronic check,No,No,55.861538,Medium Risk,13.741938507556917,Priority 3
+0310-MVLET,61,Month-to-month,99.15,6010.05,Fiber optic,Electronic check,No,No,55.765778,Medium Risk,3351.5511302500963,Priority 3
+2203-GHNWN,24,Month-to-month,79.65,1928.7,Fiber optic,Mailed check,No,No,55.746925,Medium Risk,1075.1909401059152,Priority 3
+1894-IGFSG,22,Month-to-month,89.25,1907.85,Fiber optic,Electronic check,No,No,55.7149,Medium Risk,1062.9567063242196,Priority 3
+1895-QTKDO,1,Month-to-month,43.95,43.95,DSL,Credit card (automatic),No,No,55.678856,Medium Risk,24.470857375860216,Priority 3
+1092-GANHU,17,Month-to-month,76.65,1313.55,Fiber optic,Electronic check,No,No,55.53016,Medium Risk,729.416425421834,Priority 3
+9537-VHDTA,1,Month-to-month,51.2,51.2,DSL,Mailed check,No,Yes,55.318718,Medium Risk,28.323184204101565,Priority 3
+1809-DMJHQ,5,Month-to-month,46.0,221.7,DSL,Mailed check,No,No,55.307926,Medium Risk,122.61766916513443,Priority 3
+1452-KIOVK,22,Month-to-month,89.1,1949.4,Fiber optic,Credit card (automatic),No,No,55.270813,Medium Risk,1077.449265575409,Priority 3
+8495-PRWFH,42,Month-to-month,55.65,2421.75,DSL,Electronic check,No,No,55.180405,Medium Risk,1336.3314961194992,Priority 3
+9381-NDKME,24,Month-to-month,40.65,933.3,DSL,Credit card (automatic),No,No,55.157757,Medium Risk,514.7873442649841,Priority 3
+6543-CPZMK,9,Month-to-month,29.95,248.95,DSL,Electronic check,No,No,55.122437,Medium Risk,137.22730216383934,Priority 3
+7055-HNEOJ,3,Month-to-month,55.8,154.55,DSL,Mailed check,Yes,No,54.963345,Medium Risk,84.94584867060185,Priority 3
+2669-QVCRG,41,Month-to-month,81.3,3190.65,Fiber optic,Credit card (automatic),No,Yes,54.956455,Medium Risk,1753.468100783229,Priority 3
+4905-JEFDW,11,One year,41.6,470.6,DSL,Electronic check,No,No,54.929306,Medium Risk,258.49730520248414,Priority 3
+7251-LJBQN,40,One year,103.75,4188.4,Fiber optic,Credit card (automatic),Yes,No,54.867065,Medium Risk,2298.0521484851834,Priority 3
+9661-MHUMO,1,Month-to-month,49.25,49.25,DSL,Credit card (automatic),Yes,No,54.77264,Medium Risk,26.975524842739105,Priority 3
+0327-WFZSY,39,One year,100.0,3835.55,Fiber optic,Electronic check,No,No,54.767876,Medium Risk,2100.6493010371923,Priority 3
+1965-DDBWU,16,Month-to-month,89.05,1448.6,Fiber optic,Credit card (automatic),Yes,No,54.690044,Medium Risk,792.239993584156,Priority 3
+7529-ZDFXI,57,Month-to-month,89.85,4925.35,Fiber optic,Electronic check,No,No,54.657127,Medium Risk,2692.054729485512,Priority 3
+4329-YPDDQ,20,Month-to-month,108.2,2203.7,Fiber optic,Bank transfer (automatic),Yes,Yes,54.59514,Medium Risk,1203.113026189804,Priority 3
+4993-JCRGJ,26,Month-to-month,84.3,2281.6,Fiber optic,Mailed check,Yes,No,54.55623,Medium Risk,1244.7548690795898,Priority 3
+1302-UHBDD,20,Month-to-month,89.95,1648.45,Fiber optic,Electronic check,No,No,54.401844,Medium Risk,896.7872096151114,Priority 3
+6815-ABQFQ,56,One year,107.25,6033.3,Fiber optic,Electronic check,Yes,No,54.26516,Medium Risk,3273.9798601806165,Priority 3
+3858-XHYJO,40,One year,105.75,4228.55,Fiber optic,Bank transfer (automatic),No,Yes,54.11429,Medium Risk,2288.24972909987,Priority 3
+4660-IRIBM,18,Month-to-month,87.9,1500.5,Fiber optic,Mailed check,No,Yes,54.074677,Medium Risk,811.390496045351,Priority 3
+2955-PSXOE,1,Month-to-month,20.2,20.2,No,Bank transfer (automatic),No internet service,No internet service,53.84093,Medium Risk,10.87586771249771,Priority 3
+1217-VASWC,43,One year,100.55,4304.0,Fiber optic,Bank transfer (automatic),No,No,53.69782,Medium Risk,2311.1541090011597,Priority 3
+1989-PRJHP,27,Month-to-month,75.5,1893.95,Fiber optic,Electronic check,No,No,53.64414,Medium Risk,1015.9931625336409,Priority 3
+2309-OSFEU,10,Month-to-month,33.9,298.45,DSL,Mailed check,No,No,53.581684,Medium Risk,159.91453836858273,Priority 3
+9576-SYUHJ,37,Month-to-month,91.15,3369.25,Fiber optic,Electronic check,No,Yes,53.419094,Medium Risk,1799.8228676468134,Priority 3
+7851-FLGGQ,1,Month-to-month,44.65,44.65,DSL,Mailed check,Yes,No,53.361725,Medium Risk,23.82601057291031,Priority 3
+7410-YTJIK,7,Month-to-month,75.45,480.75,Fiber optic,Mailed check,No,No,53.291153,Medium Risk,256.19722241163254,Priority 3
+4468-YDOVK,5,Month-to-month,48.65,235.2,DSL,Bank transfer (automatic),Yes,No,53.24152,Medium Risk,125.22405767440796,Priority 3
+1051-GEJLJ,2,Month-to-month,19.5,27.55,No,Mailed check,No internet service,No internet service,53.203922,Medium Risk,14.657680651545524,Priority 3
+1395-OFUWC,43,Month-to-month,29.3,1224.05,DSL,Credit card (automatic),No,No,53.17294,Medium Risk,650.8633722633123,Priority 3
+3466-RITXD,26,Month-to-month,92.4,2349.8,Fiber optic,Credit card (automatic),No,Yes,53.111977,Medium Risk,1248.0252210974695,Priority 3
+2960-NKRSO,24,Month-to-month,85.95,2107.15,Fiber optic,Electronic check,Yes,No,52.963264,Medium Risk,1116.0153920143844,Priority 3
+4360-PNRQB,18,Month-to-month,75.6,1395.05,Fiber optic,Bank transfer (automatic),No,No,52.87129,Medium Risk,737.5808874666691,Priority 3
+1310-QRITU,18,Month-to-month,50.3,913.3,DSL,Electronic check,No,No,52.846844,Medium Risk,482.6502171576023,Priority 3
+7504-UWHNB,25,Month-to-month,69.75,1729.35,Fiber optic,Electronic check,No,No,52.195557,Medium Risk,902.6438299030065,Priority 3
+9512-UIBFX,18,Month-to-month,95.15,1779.95,Fiber optic,Mailed check,No,No,52.150597,Medium Risk,928.2545190513134,Priority 3
+9732-KPKBW,1,Month-to-month,53.95,53.95,DSL,Electronic check,Yes,Yes,51.897686,Medium Risk,27.998801985383036,Priority 3
+6559-RAKOZ,49,One year,97.95,4917.9,Fiber optic,Electronic check,Yes,No,51.883297,Medium Risk,2551.5687201440333,Priority 3
+2190-BCXEC,40,Month-to-month,78.85,3126.85,Fiber optic,Credit card (automatic),Yes,No,51.69242,Medium Risk,1616.3444424062966,Priority 3
+5419-KLXBN,25,Month-to-month,89.15,2257.75,Fiber optic,Bank transfer (automatic),No,No,51.691956,Medium Risk,1167.0751214176416,Priority 3
+6773-LQTVT,29,Month-to-month,35.65,1025.15,DSL,Mailed check,No,No,51.62722,Medium Risk,529.2564327418804,Priority 3
+1816-FLZDK,1,Month-to-month,29.15,29.15,DSL,Mailed check,Yes,No,51.623188,Medium Risk,15.048159724473953,Priority 3
+1493-AMTIE,1,Month-to-month,20.2,20.2,No,Bank transfer (automatic),No internet service,No internet service,51.594498,Medium Risk,10.422088146209717,Priority 3
+3594-KADLU,3,Month-to-month,35.1,101.1,DSL,Mailed check,Yes,Yes,51.44574,Medium Risk,52.01164360642433,Priority 3
+1346-UFHAX,13,Month-to-month,80.0,1029.35,Fiber optic,Credit card (automatic),No,Yes,51.246494,Medium Risk,527.5057865530252,Priority 3
+6284-AHOOQ,22,Month-to-month,90.5,1910.6,Fiber optic,Bank transfer (automatic),Yes,No,51.174717,Medium Risk,977.7441648125648,Priority 3
+8620-RJPZN,1,Month-to-month,20.7,20.7,No,Electronic check,No internet service,No internet service,50.959946,Medium Risk,10.54870855808258,Priority 3
+9097-ZUBYC,14,Month-to-month,48.8,664.4,DSL,Bank transfer (automatic),Yes,No,50.94699,Medium Risk,338.4918190717697,Priority 3
+0486-HECZI,55,Month-to-month,96.75,5238.9,Fiber optic,Electronic check,No,Yes,50.939007,Medium Risk,2668.6435650765893,Priority 3
+9710-ZUSHQ,37,Month-to-month,106.75,4056.75,Fiber optic,Bank transfer (automatic),No,Yes,50.851303,Medium Risk,2062.9102482050657,Priority 3
+5766-ZJYBB,1,Month-to-month,19.4,19.4,No,Mailed check,No internet service,No internet service,50.711357,Medium Risk,9.838003373146057,Priority 3
+9767-FFLEM,38,Month-to-month,69.5,2625.25,Fiber optic,Credit card (automatic),No,No,50.695724,Medium Risk,1330.8894758075476,Priority 3
+6777-TGHTM,53,One year,106.95,5785.5,Fiber optic,Credit card (automatic),No,Yes,50.52694,Medium Risk,2923.2361612915993,Priority 3
+5213-TWWJU,28,Month-to-month,91.0,2626.15,Fiber optic,Electronic check,Yes,No,50.468437,Medium Risk,1325.376907220483,Priority 3
+0365-GXEZS,18,Month-to-month,78.2,1468.75,Fiber optic,Electronic check,Yes,No,50.417297,Medium Risk,740.504065528512,Priority 3
+2911-WDXMV,18,Month-to-month,80.55,1406.65,Fiber optic,Credit card (automatic),No,No,50.363136,Medium Risk,708.43304322958,Priority 3
+6257-RJOHI,4,Month-to-month,50.8,202.3,DSL,Mailed check,Yes,No,50.36109,Medium Risk,101.88048688769341,Priority 3
+0913-XWSCN,55,Month-to-month,85.5,4713.4,Fiber optic,Bank transfer (automatic),No,No,50.348354,Medium Risk,2373.1192884922025,Priority 3
+8805-JNRAZ,2,Month-to-month,49.2,103.7,DSL,Mailed check,No,No,50.282784,Medium Risk,52.14324526190758,Priority 3
+9103-TCIHJ,15,Month-to-month,55.7,899.8,DSL,Mailed check,No,Yes,49.498184,Medium Risk,445.3846732676029,Priority 3
+6845-RGTYS,47,Month-to-month,98.75,4533.7,Fiber optic,Electronic check,No,Yes,49.40605,Medium Risk,2239.9221630096436,Priority 3
+1471-GIQKQ,1,Month-to-month,49.95,49.95,DSL,Electronic check,No,No,49.373425,Medium Risk,24.662025314569476,Priority 3
+2924-KHUVI,56,One year,100.55,5514.95,Fiber optic,Electronic check,No,Yes,49.345093,Medium Risk,2721.3572596520185,Priority 3
+1536-HBSWP,1,Month-to-month,49.9,49.9,DSL,Electronic check,Yes,No,49.064922,Medium Risk,24.48339624404907,Priority 3
+9048-JVYVF,3,Month-to-month,69.35,191.35,DSL,Electronic check,Yes,No,48.571697,Medium Risk,92.94194197505712,Priority 3
+3540-RZJYU,15,Month-to-month,86.2,1270.2,Fiber optic,Electronic check,No,Yes,48.52786,Medium Risk,616.4008480131627,Priority 3
+0870-VEMYL,5,Month-to-month,53.85,259.8,DSL,Credit card (automatic),Yes,Yes,48.176834,Medium Risk,125.16341469883919,Priority 3
+2252-JHJGE,61,One year,104.0,6363.45,Fiber optic,Electronic check,No,Yes,48.009018,Medium Risk,3055.02979927808,Priority 3
+1541-ETJZO,1,Month-to-month,62.05,62.05,DSL,Mailed check,Yes,No,47.98912,Medium Risk,29.77724962979555,Priority 3
+2587-EKXTS,44,Month-to-month,111.5,4915.15,Fiber optic,Electronic check,No,Yes,47.973183,Medium Risk,2357.953894267976,Priority 3
+5966-EMAZU,64,One year,108.5,6880.85,Fiber optic,Mailed check,Yes,Yes,47.96073,Medium Risk,3300.1059856519105,Priority 3
+3237-AJGEH,3,Month-to-month,31.0,95.05,DSL,Mailed check,Yes,No,47.949062,Medium Risk,45.575585120916365,Priority 3
+5438-QMDDL,19,Month-to-month,59.8,1130.85,DSL,Mailed check,No,No,47.3021,Medium Risk,534.9157985553145,Priority 3
+3567-PQTSO,53,One year,105.25,5576.3,Fiber optic,Electronic check,No,No,47.259922,Medium Risk,2635.3549655497077,Priority 3
+3094-JOJAI,18,Month-to-month,74.15,1387.0,Fiber optic,Mailed check,No,No,46.994446,Medium Risk,651.8129483759403,Priority 3
+1100-DDVRV,17,Month-to-month,49.8,836.35,DSL,Mailed check,No,No,46.860085,Medium Risk,391.9143120124936,Priority 3
+2087-QAREY,22,Month-to-month,54.7,1178.75,DSL,Mailed check,No,No,46.770714,Medium Risk,551.3097763434052,Priority 3
+2480-EJWYP,58,One year,97.8,5458.8,Fiber optic,Bank transfer (automatic),No,No,46.732746,Medium Risk,2551.047223520279,Priority 3
+4003-FUSHP,19,Month-to-month,61.55,1093.2,DSL,Credit card (automatic),Yes,No,46.730076,Medium Risk,510.8532046794892,Priority 3
+7277-OZCGZ,22,Month-to-month,89.05,1886.25,Fiber optic,Electronic check,Yes,Yes,46.648514,Medium Risk,879.9076004326344,Priority 3
+4785-QRJHC,46,One year,59.9,2816.65,DSL,Bank transfer (automatic),Yes,No,46.586956,Medium Risk,1312.1914565622808,Priority 3
+2750-BJLSB,47,One year,103.7,4730.6,Fiber optic,Electronic check,Yes,Yes,46.529324,Medium Risk,2201.116147339344,Priority 3
+5360-LJCNJ,71,Two year,105.15,7555.0,Fiber optic,Bank transfer (automatic),No,No,46.49654,Medium Risk,3512.8136202692986,Priority 3
+1470-PSXNM,49,One year,93.65,4520.15,Fiber optic,Electronic check,No,No,46.422207,Medium Risk,2098.3534057796,Priority 3
+4581-LNWUM,13,Month-to-month,49.15,649.4,DSL,Electronic check,No,No,46.405422,Medium Risk,301.35681493282317,Priority 3
+2001-MCUUW,46,Two year,108.65,4903.2,Fiber optic,Electronic check,Yes,No,46.388187,Medium Risk,2274.5056342363355,Priority 3
+4016-BJKTZ,25,Two year,108.9,2809.05,Fiber optic,Electronic check,Yes,No,45.935173,Medium Risk,1290.3419446438552,Priority 3
+8849-AYPTR,33,Month-to-month,91.25,2964.05,Fiber optic,Electronic check,No,No,45.917614,Medium Risk,1361.0210761353374,Priority 3
+4983-CLMLV,52,Month-to-month,102.7,5138.1,Fiber optic,Credit card (automatic),Yes,No,45.904957,Medium Risk,2358.6426597476006,Priority 3
+2070-FNEXE,7,Month-to-month,76.45,503.6,Fiber optic,Bank transfer (automatic),No,Yes,45.62536,Medium Risk,229.76930701732635,Priority 3
+0178-CIIKR,3,Month-to-month,19.95,58.0,No,Mailed check,No internet service,No internet service,45.60281,Medium Risk,26.44963002204895,Priority 3
+5609-IMCGG,15,Month-to-month,84.35,1302.65,Fiber optic,Credit card (automatic),No,Yes,45.42579,Medium Risk,591.739021755755,Priority 3
+7669-LCRSD,12,Month-to-month,56.3,628.65,DSL,Mailed check,No,No,45.223907,Medium Risk,284.3000890687108,Priority 3
+2391-SOORI,4,Month-to-month,49.35,219.65,DSL,Electronic check,No,Yes,45.18955,Medium Risk,99.25884116888047,Priority 3
+5600-PDUJF,6,Month-to-month,49.5,312.7,DSL,Credit card (automatic),Yes,No,45.103096,Medium Risk,141.0373842000961,Priority 3
+7876-BEUTG,15,Month-to-month,48.8,720.1,DSL,Mailed check,No,No,44.963665,Medium Risk,323.78334314227106,Priority 3
+2988-PLAHS,3,One year,69.95,220.45,DSL,Electronic check,No,No,44.907837,Medium Risk,98.99932910501957,Priority 3
+3780-YVMFA,8,Month-to-month,68.55,564.35,DSL,Electronic check,Yes,No,44.889183,Medium Risk,253.33209778368473,Priority 3
+3313-QKNKB,59,One year,85.55,5084.65,Fiber optic,Electronic check,No,No,44.81567,Medium Risk,2278.7200380742547,Priority 3
+8158-WPEZG,11,Month-to-month,35.65,425.1,DSL,Electronic check,Yes,No,44.80101,Medium Risk,190.4490879893303,Priority 3
+2101-RANCD,55,Month-to-month,73.1,4144.9,Fiber optic,Electronic check,No,No,44.7406,Medium Risk,1854.4531042754647,Priority 3
+4524-QCSSM,26,Month-to-month,44.65,1156.55,DSL,Bank transfer (automatic),No,Yes,44.679066,Medium Risk,516.7357440546155,Priority 3
+5934-TSSAU,23,Month-to-month,75.3,1702.9,Fiber optic,Credit card (automatic),No,No,44.616642,Medium Risk,759.7768067389727,Priority 3
+4526-ZJJTM,25,Month-to-month,88.4,2191.15,Fiber optic,Bank transfer (automatic),No,No,44.17223,Medium Risk,967.8798255965114,Priority 3
+1550-LOAHA,32,Month-to-month,84.15,2585.95,Fiber optic,Bank transfer (automatic),No,No,44.08352,Medium Risk,1139.9777282863854,Priority 3
+5804-HYIEZ,70,Month-to-month,106.05,7554.05,Fiber optic,Electronic check,No,Yes,43.952503,Medium Risk,3320.1941133335235,Priority 3
+9278-VZKCD,52,Month-to-month,109.1,5647.95,Fiber optic,Electronic check,No,Yes,43.908463,Medium Risk,2479.9279754832387,Priority 3
+6729-GDNGC,20,Month-to-month,80.7,1614.2,Fiber optic,Bank transfer (automatic),No,No,43.774788,Medium Risk,706.6126051604748,Priority 3
+6825-UYPFK,23,Month-to-month,75.6,1758.6,Fiber optic,Bank transfer (automatic),No,No,43.45664,Medium Risk,764.228433394432,Priority 3
+7572-KPVKK,62,Two year,104.05,6590.5,Fiber optic,Electronic check,Yes,No,43.43697,Medium Risk,2862.713397562504,Priority 3
+3207-OYBWH,57,Month-to-month,95.25,5427.05,Fiber optic,Bank transfer (automatic),No,No,43.31749,Medium Risk,2350.8618853360417,Priority 3
+2386-OWURY,58,Month-to-month,95.3,5817.7,Fiber optic,Electronic check,Yes,No,43.307896,Medium Risk,2519.523376482725,Priority 3
+5136-GFPMB,54,Month-to-month,89.4,4869.5,Fiber optic,Credit card (automatic),No,No,43.209198,Medium Risk,2104.071902319789,Priority 3
+1848-LBZHY,7,Month-to-month,50.3,355.1,DSL,Bank transfer (automatic),No,Yes,43.187897,Medium Risk,153.36021662652493,Priority 3
+6481-ESCNL,29,Month-to-month,100.55,2878.75,Fiber optic,Bank transfer (automatic),No,No,43.100857,Medium Risk,1240.7659420371056,Priority 3
+2139-FQHLM,19,Month-to-month,89.95,1682.4,Fiber optic,Mailed check,Yes,No,42.77512,Medium Risk,719.6485911369324,Priority 3
+4640-UHDOS,13,Month-to-month,55.95,734.35,DSL,Electronic check,No,No,42.766865,Medium Risk,314.0584811165929,Priority 3
+1559-DTODC,19,Month-to-month,25.15,468.35,DSL,Bank transfer (automatic),No,No,42.610767,Medium Risk,199.56752950996162,Priority 3
+3466-WAESX,16,Month-to-month,69.1,1083.7,DSL,Electronic check,No,Yes,42.512684,Medium Risk,460.7099680006504,Priority 3
+3604-WLABM,10,Month-to-month,54.25,583.0,DSL,Electronic check,Yes,No,42.48336,Medium Risk,247.67798632383347,Priority 3
+1436-ZMJAN,10,Month-to-month,67.8,653.15,DSL,Credit card (automatic),No,No,42.450905,Medium Risk,277.26808500289917,Priority 3
+8849-GYOKR,54,One year,106.55,5763.3,Fiber optic,Bank transfer (automatic),No,Yes,42.199455,Medium Risk,2432.0812875151637,Priority 3
+2195-VVRJF,18,Month-to-month,59.1,1011.05,DSL,Credit card (automatic),No,Yes,42.119648,Medium Risk,425.8507117465138,Priority 3
+9820-RMCQV,11,Month-to-month,48.55,501.0,DSL,Credit card (automatic),No,Yes,42.013664,Medium Risk,210.488451898098,Priority 3
+6483-OATDN,8,Month-to-month,51.3,411.6,DSL,Credit card (automatic),No,Yes,41.939342,Medium Risk,172.62233176231385,Priority 3
+6198-PNNSZ,56,One year,109.8,6109.65,Fiber optic,Bank transfer (automatic),No,Yes,41.700954,Medium Risk,2547.782289943099,Priority 3
+9842-EFSYY,4,Month-to-month,57.2,223.75,DSL,Mailed check,No,Yes,41.674267,Medium Risk,93.24617519974709,Priority 3
+5533-RJFTJ,49,Month-to-month,30.2,1453.1,DSL,Bank transfer (automatic),No,No,41.295834,Medium Risk,600.0697405397891,Priority 3
+2178-PMGCJ,22,Month-to-month,69.7,1490.4,Fiber optic,Mailed check,No,No,41.21041,Medium Risk,614.1999506235123,Priority 3
+3756-VNWDH,65,One year,100.75,6674.65,Fiber optic,Electronic check,No,Yes,41.18999,Medium Risk,2749.287829583883,Priority 3
+6646-QVXLR,62,One year,103.75,6383.35,Fiber optic,Electronic check,No,No,41.169907,Medium Risk,2628.0191731095315,Priority 3
+8819-ZBYNA,58,Two year,109.1,6393.65,Fiber optic,Credit card (automatic),Yes,Yes,41.017117,Medium Risk,2622.490780621767,Priority 3
+2257-BOVXD,14,Month-to-month,66.6,979.5,DSL,Credit card (automatic),Yes,No,40.569088,Medium Risk,397.3742156177759,Priority 3
+5949-HGVJL,26,Month-to-month,73.05,1959.5,DSL,Electronic check,Yes,No,40.44316,Medium Risk,792.4837423413992,Priority 3
+9089-UOWJG,12,Month-to-month,58.35,740.55,DSL,Credit card (automatic),No,No,40.410667,Medium Risk,299.26119934022427,Priority 3
+2692-PFYTJ,1,Month-to-month,25.75,25.75,No,Mailed check,No internet service,No internet service,40.321037,Medium Risk,10.382667072117329,Priority 3
+1575-KRZZE,4,Month-to-month,55.2,220.65,DSL,Electronic check,No,Yes,40.18554,Medium Risk,88.66938945204019,Priority 3
+4211-MMAZN,1,Month-to-month,20.25,20.25,No,Mailed check,No internet service,No internet service,40.137146,Medium Risk,8.127771846950054,Priority 3
+6898-MDLZW,12,Month-to-month,53.75,648.65,DSL,Mailed check,Yes,No,39.984123,Low Risk,259.3570068255067,Low Priority
+9700-ISPUP,10,Month-to-month,65.5,616.9,DSL,Electronic check,Yes,No,39.966248,Low Risk,246.55177457034586,Low Priority
+4256-ZWTZI,5,Month-to-month,51.0,286.8,DSL,Mailed check,Yes,No,39.954983,Low Risk,114.59089465141297,Low Priority
+4190-MFLUW,10,Month-to-month,55.2,528.35,DSL,Credit card (automatic),Yes,No,39.930397,Low Risk,210.9722539871931,Low Priority
+3179-GBRWV,21,Month-to-month,64.95,1339.8,DSL,Bank transfer (automatic),No,Yes,39.68688,Low Risk,531.7248117506504,Low Priority
+0599-XNYDO,20,Month-to-month,69.8,1540.35,Fiber optic,Bank transfer (automatic),No,No,39.58279,Low Risk,609.7134895026684,Low Priority
+4619-EVPHY,20,One year,91.0,1859.5,Fiber optic,Bank transfer (automatic),No,No,39.51833,Low Risk,734.8433370739222,Low Priority
+2828-SLQPF,19,Month-to-month,45.0,865.85,DSL,Bank transfer (automatic),No,No,39.515324,Low Risk,342.143419405818,Low Priority
+3331-HQDTW,34,Month-to-month,109.8,3587.25,Fiber optic,Mailed check,No,Yes,39.176895,Low Risk,1405.3732094541192,Low Priority
+9163-GHAYE,15,Month-to-month,48.85,736.8,DSL,Electronic check,No,No,39.04985,Low Risk,287.71930875778196,Low Priority
+6227-HWPWX,15,Month-to-month,69.0,994.8,Fiber optic,Bank transfer (automatic),No,No,38.95552,Low Risk,387.5295287132263,Low Priority
+7854-EKTJL,2,Month-to-month,19.6,35.85,No,Electronic check,No internet service,No internet service,38.776134,Low Risk,13.90124455690384,Low Priority
+3569-EDBPQ,24,Month-to-month,84.35,1938.05,Fiber optic,Electronic check,Yes,Yes,38.630413,Low Risk,748.6767387032509,Low Priority
+1169-WCVAK,19,Month-to-month,88.8,1672.35,Fiber optic,Credit card (automatic),Yes,Yes,38.60445,Low Risk,645.6015233516692,Low Priority
+8930-XOTDP,18,Month-to-month,55.95,1082.8,DSL,Mailed check,No,No,38.533707,Low Risk,417.2429628610611,Low Priority
+9758-MFWGD,48,One year,29.9,1388.75,DSL,Bank transfer (automatic),No,No,38.44973,Low Risk,533.9706043899059,Low Priority
+9254-RBFON,17,One year,98.6,1704.95,Fiber optic,Bank transfer (automatic),Yes,No,38.408134,Low Risk,654.8394701912999,Low Priority
+7426-WEIJX,60,Month-to-month,80.95,4859.1,Fiber optic,Electronic check,No,Yes,38.386063,Low Risk,1865.2171283215287,Low Priority
+5482-NUPNA,4,Month-to-month,60.4,272.15,DSL,Mailed check,Yes,Yes,38.344852,Low Risk,104.35551236718892,Low Priority
+3173-NVMPX,9,Month-to-month,55.3,501.2,DSL,Mailed check,No,No,38.297577,Low Risk,191.94744946956635,Low Priority
+6776-TLWOI,3,Month-to-month,19.85,64.55,No,Mailed check,No internet service,No internet service,38.173744,Low Risk,24.641151805222034,Low Priority
+4695-VADHF,18,Month-to-month,57.45,990.85,DSL,Electronic check,No,No,38.07924,Low Risk,377.30812910795214,Low Priority
+6968-MHOMU,58,One year,45.0,2689.35,DSL,Credit card (automatic),No,No,38.077477,Low Risk,1024.0366174980998,Low Priority
+8757-TFHHJ,1,Month-to-month,49.8,49.8,DSL,Credit card (automatic),No,Yes,38.027565,Low Risk,18.93772671818733,Low Priority
+0668-OGMHD,21,Month-to-month,28.5,629.35,DSL,Electronic check,No,Yes,37.996716,Low Risk,239.132327786088,Low Priority
+5136-RGMZO,31,Month-to-month,71.05,2168.15,DSL,Electronic check,Yes,No,37.916176,Low Risk,822.0795380935074,Low Priority
+2307-FYNNL,65,Two year,109.05,7108.2,Fiber optic,Electronic check,Yes,Yes,37.72138,Low Risk,2681.310963356495,Low Priority
+8914-RBTSB,31,Month-to-month,93.8,3019.5,Fiber optic,Electronic check,No,No,37.651817,Low Risk,1136.8965844362974,Low Priority
+0471-ARVMX,62,One year,104.85,6312.9,Fiber optic,Electronic check,No,Yes,37.635788,Low Risk,2375.9096809476614,Low Priority
+6284-KMNUF,56,One year,98.0,5270.6,Fiber optic,Electronic check,No,Yes,37.331856,Low Risk,1967.612765288353,Low Priority
+9327-QSDED,8,Month-to-month,43.55,335.4,DSL,Mailed check,No,No,37.31725,Low Risk,125.16205374598502,Low Priority
+2446-ZKVAF,18,Month-to-month,56.8,1074.65,DSL,Credit card (automatic),No,No,37.280304,Low Risk,400.6327787667513,Low Priority
+0959-WHOKV,42,One year,99.0,4298.45,Fiber optic,Electronic check,No,Yes,37.1978,Low Risk,1598.9287692159414,Low Priority
+1629-DQQVB,14,Month-to-month,50.1,709.5,DSL,Bank transfer (automatic),No,Yes,37.185497,Low Risk,263.8310947716236,Low Priority
+3948-FVVRP,9,Month-to-month,54.8,452.8,DSL,Mailed check,Yes,No,37.184074,Low Risk,168.36948943138123,Low Priority
+3523-QRQLL,22,One year,69.5,1498.2,DSL,Bank transfer (automatic),No,No,37.16567,Low Risk,556.8160470664501,Low Priority
+4323-SADQS,7,Month-to-month,34.5,279.25,DSL,Electronic check,Yes,Yes,37.11772,Low Risk,103.65124044567347,Low Priority
+0013-MHZWF,9,Month-to-month,69.4,571.45,DSL,Credit card (automatic),Yes,No,36.890377,Low Risk,210.8100514471531,Low Priority
+6583-SZVGP,48,Two year,108.1,5067.45,Fiber optic,Bank transfer (automatic),No,No,36.88235,Low Risk,1868.9946374103426,Low Priority
+7398-LXGYX,44,Month-to-month,84.8,3626.35,Fiber optic,Credit card (automatic),No,Yes,36.77242,Low Risk,1333.4965809464454,Low Priority
+1370-GGAWX,46,One year,94.15,4408.45,Fiber optic,Electronic check,No,No,36.7055,Low Risk,1618.143741171062,Low Priority
+7623-TRNQN,1,Month-to-month,49.9,49.9,DSL,Mailed check,Yes,No,36.305637,Low Risk,18.116512447595596,Low Priority
+8455-HIRAQ,8,Month-to-month,44.45,369.3,DSL,Mailed check,No,No,36.1623,Low Risk,133.54736990332603,Low Priority
+1855-CFULU,4,Month-to-month,20.05,91.45,No,Mailed check,No internet service,No internet service,36.04941,Low Risk,32.9671860858798,Low Priority
+8190-ZTQFB,41,One year,51.35,2075.1,DSL,Electronic check,No,No,36.010246,Low Risk,747.2486452281474,Low Priority
+3639-XJHKQ,19,Month-to-month,60.6,1297.8,DSL,Electronic check,No,Yes,35.754673,Low Risk,464.024129229784,Low Priority
+4724-WXVWF,48,Month-to-month,95.4,4445.3,Fiber optic,Electronic check,Yes,Yes,35.65289,Low Risk,1584.877822315693,Low Priority
+7410-KTVFV,18,Month-to-month,49.55,878.35,DSL,Mailed check,No,No,35.49007,Low Risk,311.72704542279246,Low Priority
+4819-HJPIW,18,Month-to-month,25.15,476.8,DSL,Mailed check,No,No,35.22533,Low Risk,167.95438194274902,Low Priority
+3982-XWFZQ,42,Month-to-month,50.25,2203.65,DSL,Electronic check,No,No,35.07994,Low Risk,773.0391232296824,Low Priority
+3181-MIZBN,16,Month-to-month,19.75,313.4,No,Electronic check,No internet service,No internet service,35.051003,Low Risk,109.84984371066092,Low Priority
+0297-RBCSG,19,One year,65.35,1231.85,DSL,Bank transfer (automatic),Yes,No,35.050056,Low Risk,431.7641072556376,Low Priority
+4226-KKDON,8,Month-to-month,66.65,520.95,DSL,Electronic check,Yes,No,34.81863,Low Risk,181.38766033351422,Low Priority
+4627-MIHJH,69,Two year,110.25,7467.55,Fiber optic,Credit card (automatic),Yes,Yes,34.78237,Low Risk,2597.3909400060775,Low Priority
+6874-SGLHU,30,One year,97.0,3021.3,Fiber optic,Bank transfer (automatic),No,No,34.75498,Low Risk,1050.052198970318,Low Priority
+5140-FOMCQ,59,One year,109.15,6557.75,Fiber optic,Credit card (automatic),No,Yes,34.654465,Low Risk,2272.5531993731856,Low Priority
+7067-KSAZT,65,One year,106.25,6979.8,Fiber optic,Electronic check,No,No,34.579166,Low Risk,2413.556682211161,Low Priority
+9033-EOXWV,12,One year,74.05,872.65,DSL,Mailed check,Yes,No,34.23056,Low Risk,298.7129824012518,Low Priority
+4830-FAXFM,19,Month-to-month,24.1,439.2,No,Credit card (automatic),No internet service,No internet service,34.150784,Low Risk,149.99023554325103,Low Priority
+2279-AXJJK,52,Month-to-month,95.65,5088.4,Fiber optic,Credit card (automatic),Yes,No,34.105415,Low Risk,1735.4198937177657,Low Priority
+8450-JOVAH,2,Month-to-month,56.7,113.55,DSL,Mailed check,No,Yes,34.09487,Low Risk,38.714724987745285,Low Priority
+9128-CPXKI,59,Two year,95.8,5655.45,Fiber optic,Electronic check,No,No,33.925632,Low Risk,1918.6471347168088,Low Priority
+2782-LFZVW,11,Month-to-month,58.95,601.6,DSL,Mailed check,No,No,33.723564,Low Risk,202.88095474243164,Low Priority
+1150-WFARN,67,Two year,108.75,7156.2,Fiber optic,Credit card (automatic),Yes,Yes,33.671886,Low Risk,2409.627486526966,Low Priority
+3069-SSVSN,1,One year,25.85,25.85,DSL,Mailed check,No,No,33.445618,Low Risk,8.645692138373851,Low Priority
+1205-WNWPJ,7,Month-to-month,59.5,415.95,DSL,Mailed check,Yes,No,33.409576,Low Risk,138.9671380609274,Low Priority
+0431-APWVY,28,One year,90.1,2598.95,Fiber optic,Bank transfer (automatic),No,No,33.38881,Low Risk,867.7584351226686,Low Priority
+9122-UMROB,1,Month-to-month,20.3,20.3,No,Mailed check,No internet service,No internet service,33.37811,Low Risk,6.775756195187569,Low Priority
+1852-XEMDW,22,Month-to-month,65.05,1427.55,DSL,Mailed check,No,Yes,33.349304,Low Risk,476.0780091136694,Low Priority
+6946-LMSQS,25,One year,89.05,2177.45,Fiber optic,Electronic check,No,Yes,33.34406,Low Risk,726.0502384454011,Low Priority
+6497-TILVL,7,Month-to-month,50.7,350.35,DSL,Mailed check,No,Yes,33.29153,Low Risk,116.63687748908997,Low Priority
+5186-EJEGL,9,Month-to-month,69.5,653.25,DSL,Mailed check,Yes,Yes,33.285706,Low Risk,217.4388630464673,Low Priority
+1360-JYXKQ,54,One year,99.1,5437.1,Fiber optic,Electronic check,Yes,No,33.21434,Low Risk,1805.8968591481448,Low Priority
+1194-SPVSP,1,Month-to-month,19.65,19.65,No,Bank transfer (automatic),No internet service,No internet service,33.212475,Low Risk,6.526251138746738,Low Priority
+8433-WPJTV,65,One year,103.9,6767.1,Fiber optic,Bank transfer (automatic),Yes,No,32.98772,Low Risk,2232.3119848430156,Low Priority
+6854-EXGSF,8,Month-to-month,65.5,573.15,DSL,Bank transfer (automatic),No,Yes,32.75205,Low Risk,187.7183686673641,Low Priority
+5575-TPIZQ,46,Month-to-month,89.15,4245.55,Fiber optic,Credit card (automatic),No,Yes,32.492783,Low Risk,1379.4973769173027,Low Priority
+7054-ENNGU,9,Month-to-month,50.85,466.6,DSL,Mailed check,No,No,32.363976,Low Risk,151.01030757427216,Low Priority
+6664-FPDAC,56,One year,111.95,6418.9,Fiber optic,Electronic check,Yes,No,32.36379,Low Risk,2077.399142578244,Low Priority
+9308-ANMVE,47,Month-to-month,55.3,2654.05,DSL,Electronic check,No,Yes,32.24084,Low Risk,855.6880350574852,Low Priority
+0742-MOABM,4,Month-to-month,50.05,179.35,DSL,Mailed check,Yes,No,32.22746,Low Risk,57.79994870275259,Low Priority
+0463-WZZKO,3,Month-to-month,20.75,67.1,No,Credit card (automatic),No internet service,No internet service,31.931261,Low Risk,21.425875613093375,Low Priority
+8671-KKKOS,46,Month-to-month,45.55,2062.15,DSL,Electronic check,No,Yes,31.896963,Low Risk,657.763237260282,Low Priority
+6733-LRIZX,35,Two year,108.95,4025.5,Fiber optic,Electronic check,Yes,Yes,31.729853,Low Risk,1277.2852386832237,Low Priority
+3018-TFTSU,12,Month-to-month,81.7,858.6,Fiber optic,Bank transfer (automatic),No,Yes,31.677097,Low Risk,271.9795555472374,Low Priority
+1087-UDSIH,3,Month-to-month,19.6,59.75,No,Mailed check,No internet service,No internet service,31.649452,Low Risk,18.910547837615013,Low Priority
+8741-LQOBK,46,Month-to-month,35.05,1620.25,DSL,Bank transfer (automatic),No,Yes,31.51065,Low Risk,510.5513246357441,Low Priority
+1264-FUHCX,49,One year,56.3,2780.6,DSL,Credit card (automatic),Yes,No,31.458557,Low Risk,874.7366262674332,Low Priority
+2001-EWBQU,60,Two year,104.7,6333.8,Fiber optic,Electronic check,No,No,31.29485,Low Risk,1982.1531785786153,Low Priority
+9402-ROUMJ,67,One year,100.25,6689.0,Fiber optic,Bank transfer (automatic),Yes,Yes,31.069351,Low Risk,2078.2288377285004,Low Priority
+2839-RFSQE,2,Month-to-month,20.65,38.7,No,Mailed check,No internet service,No internet service,31.048504,Low Risk,12.015770861506462,Low Priority
+4489-SNOJF,35,Month-to-month,72.25,2568.55,DSL,Electronic check,Yes,Yes,30.97594,Low Risk,795.6325280234219,Low Priority
+7919-ZODZZ,10,One year,65.9,660.05,DSL,Mailed check,No,No,30.972628,Low Risk,204.43482322841882,Low Priority
+6270-OMFIW,60,One year,94.4,5610.25,Fiber optic,Electronic check,No,No,30.97012,Low Risk,1737.501181423664,Low Priority
+3780-DDGSE,35,Month-to-month,76.05,2747.2,DSL,Electronic check,Yes,No,30.646791,Low Risk,841.9286713123321,Low Priority
+9481-SFCQY,14,Month-to-month,59.8,824.85,DSL,Credit card (automatic),No,No,30.293005,Low Risk,249.87185755670072,Low Priority
+8623-ULFNQ,26,Month-to-month,66.05,1652.4,DSL,Electronic check,Yes,No,30.187502,Low Risk,498.8182913661003,Low Priority
+4753-PADAS,67,One year,105.7,6816.95,Fiber optic,Bank transfer (automatic),No,No,30.089748,Low Risk,2051.203069859743,Low Priority
+6184-DYUOB,3,Month-to-month,19.6,55.25,No,Mailed check,No internet service,No internet service,29.99063,Low Risk,16.569822169840336,Low Priority
+3487-EARAT,70,One year,74.1,5222.3,DSL,Credit card (automatic),Yes,Yes,29.858452,Low Risk,1559.2979430615903,Low Priority
+5630-AHZIL,3,Month-to-month,64.5,177.4,DSL,Bank transfer (automatic),Yes,Yes,29.771317,Low Risk,52.81431467533112,Low Priority
+1174-FGIFN,28,One year,90.45,2509.25,Fiber optic,Electronic check,Yes,No,29.70607,Low Risk,745.3995571359992,Low Priority
+3413-CSSTH,41,Month-to-month,55.7,2237.55,DSL,Bank transfer (automatic),No,No,29.703192,Low Risk,664.6237484917045,Low Priority
+3865-ZYKAD,69,Month-to-month,84.9,5785.65,Fiber optic,Credit card (automatic),No,Yes,29.597706,Low Risk,1712.4196541994809,Low Priority
+9986-BONCE,4,Month-to-month,20.95,85.5,No,Bank transfer (automatic),No internet service,No internet service,29.558859,Low Risk,25.272823825478554,Low Priority
+4501-UYKBC,46,One year,69.1,3255.35,DSL,Credit card (automatic),Yes,No,29.550499,Low Risk,961.9721602112055,Low Priority
+5027-YOCXN,51,One year,110.05,5686.4,Fiber optic,Credit card (automatic),Yes,Yes,29.507797,Low Risk,1677.931422996521,Low Priority
+4700-UBQMV,21,One year,75.9,1549.75,DSL,Bank transfer (automatic),No,Yes,29.409323,Low Risk,455.7709699049592,Low Priority
+2019-HDCZY,63,Two year,102.6,6296.75,Fiber optic,Electronic check,No,No,29.336483,Low Risk,1847.2449483722448,Low Priority
+7124-UGSUR,61,One year,104.4,6405.0,Fiber optic,Credit card (automatic),No,No,29.327234,Low Risk,1878.409377783537,Low Priority
+3325-FUYCG,28,One year,106.1,2847.4,Fiber optic,Electronic check,No,Yes,29.316181,Low Risk,834.7489362120629,Low Priority
+6366-XIVKZ,13,Month-to-month,63.15,816.8,DSL,Mailed check,No,Yes,29.296034,Low Risk,239.29001040458678,Low Priority
+1963-VAUKV,1,Month-to-month,20.4,20.4,No,Mailed check,No internet service,No internet service,29.281542,Low Risk,5.973434507846832,Low Priority
+2700-LUEVA,1,Month-to-month,20.75,20.75,No,Credit card (automatic),No internet service,No internet service,29.173672,Low Risk,6.053536981344223,Low Priority
+2165-VOEGB,46,One year,105.2,4822.85,Fiber optic,Bank transfer (automatic),Yes,Yes,29.151054,Low Risk,1405.9116665229203,Low Priority
+2061-VVFST,37,Month-to-month,19.5,805.2,No,Bank transfer (automatic),No internet service,No internet service,28.969812,Low Risk,233.26492938995364,Low Priority
+6473-ULUHT,16,Month-to-month,84.9,1398.25,DSL,Electronic check,Yes,Yes,28.877895,Low Risk,403.78518180549145,Low Priority
+5469-CTCWN,61,One year,106.0,6547.7,Fiber optic,Electronic check,No,Yes,28.787762,Low Risk,1884.9362876713276,Low Priority
+6713-OKOMC,10,Month-to-month,29.75,301.9,DSL,Mailed check,No,Yes,28.564007,Low Risk,86.23473438620567,Low Priority
+8840-DQLGN,35,Month-to-month,100.5,3653.35,Fiber optic,Bank transfer (automatic),Yes,Yes,28.55851,Low Risk,1043.3423448830843,Low Priority
+4973-RLZVI,30,One year,74.65,2308.6,DSL,Credit card (automatic),Yes,Yes,28.41283,Low Risk,655.9386125326156,Low Priority
+9633-DENPU,47,Month-to-month,58.6,2723.4,DSL,Bank transfer (automatic),No,No,28.411186,Low Risk,773.7502324819565,Low Priority
+9544-PYPSJ,62,Month-to-month,96.1,6019.35,Fiber optic,Credit card (automatic),No,No,28.383701,Low Risk,1708.5143687278032,Low Priority
+3729-OWRVL,65,Two year,110.35,7246.15,Fiber optic,Electronic check,Yes,Yes,28.369925,Low Risk,2055.727278800309,Low Priority
+0048-LUMLS,37,One year,91.2,3247.55,Fiber optic,Credit card (automatic),No,No,28.151358,Low Risk,914.2293999016285,Low Priority
+5951-AOFIH,33,Month-to-month,66.4,2245.4,DSL,Credit card (automatic),No,No,28.096014,Low Risk,630.8679042220116,Low Priority
+9565-JSNFM,38,One year,70.45,2597.6,Fiber optic,Bank transfer (automatic),No,No,27.965939,Low Risk,726.4432326316834,Low Priority
+7233-IOQNP,43,Month-to-month,34.0,1505.35,DSL,Bank transfer (automatic),Yes,Yes,27.500946,Low Risk,413.98548052012916,Low Priority
+1936-UAFEH,68,Two year,110.25,7279.35,Fiber optic,Credit card (automatic),Yes,Yes,27.433369,Low Risk,1996.9709145382049,Low Priority
+2995-UPRYS,40,One year,99.2,4062.2,Fiber optic,Credit card (automatic),Yes,No,27.351294,Low Risk,1111.0642229378223,Low Priority
+9720-JJJOR,41,One year,60.3,2511.3,DSL,Bank transfer (automatic),No,Yes,27.309418,Low Risk,685.8214073181152,Low Priority
+0365-TRTPY,37,Month-to-month,91.2,3382.3,Fiber optic,Bank transfer (automatic),No,Yes,27.305338,Low Risk,923.5484399586917,Low Priority
+3442-ZHHCC,68,One year,76.9,5023.0,DSL,Credit card (automatic),No,Yes,27.019056,Low Risk,1357.1672169268131,Low Priority
+6322-HRPFA,49,Month-to-month,59.6,2970.3,DSL,Credit card (automatic),Yes,Yes,26.946894,Low Risk,800.4035727113486,Low Priority
+2668-TZSPS,1,Month-to-month,20.45,20.45,No,Mailed check,No internet service,No internet service,26.897144,Low Risk,5.500466012954711,Low Priority
+9107-UKCKY,61,One year,79.8,4914.8,DSL,Electronic check,No,No,26.727516,Low Risk,1313.6039297819138,Low Priority
+4160-AMJTL,8,Month-to-month,19.65,164.3,No,Electronic check,No internet service,No internet service,26.714355,Low Risk,43.891684859991074,Low Priority
+3766-EJLFL,68,Two year,109.05,7508.55,Fiber optic,Bank transfer (automatic),Yes,Yes,26.682932,Low Risk,2003.5012294739486,Low Priority
+6164-HXUGH,6,Month-to-month,19.85,119.3,No,Mailed check,No internet service,No internet service,26.666409,Low Risk,31.81302567124367,Low Priority
+0516-OOHAR,28,One year,100.35,2799.0,Fiber optic,Bank transfer (automatic),No,No,26.59939,Low Risk,744.5169069170952,Low Priority
+0997-YTLNY,19,Month-to-month,48.8,953.65,DSL,Mailed check,Yes,No,26.536142,Low Risk,253.061926060915,Low Priority
+3893-JRNFS,68,Month-to-month,39.9,2796.35,DSL,Bank transfer (automatic),No,No,26.47864,Low Risk,740.4354285284877,Low Priority
+0743-HRVFF,51,One year,56.15,2898.95,DSL,Electronic check,Yes,No,26.340565,Low Risk,763.5998115435242,Low Priority
+0701-TJSEF,9,Month-to-month,68.25,576.95,DSL,Bank transfer (automatic),Yes,Yes,26.048395,Low Risk,150.28621516972783,Low Priority
+9909-DFRJA,26,One year,95.85,2475.35,Fiber optic,Bank transfer (automatic),Yes,Yes,26.006514,Low Risk,643.7522401899099,Low Priority
+4332-MUOEZ,20,One year,94.3,1818.3,Fiber optic,Credit card (automatic),Yes,Yes,25.983376,Low Risk,472.45571327805516,Low Priority
+8713-IGZSO,2,Month-to-month,24.85,62.0,No,Mailed check,No internet service,No internet service,25.88,Low Risk,16.04559999704361,Low Priority
+1465-LNTLJ,8,Month-to-month,64.4,581.7,DSL,Credit card (automatic),Yes,No,25.705708,Low Risk,149.5300980448723,Low Priority
+0719-SYFRB,12,Month-to-month,61.65,713.75,DSL,Mailed check,Yes,Yes,25.668758,Low Risk,183.2107613235712,Low Priority
+4672-FOTSD,12,Month-to-month,67.25,832.3,DSL,Electronic check,Yes,Yes,25.632153,Low Risk,213.33640077412127,Low Priority
+1530-ZTDOZ,49,Month-to-month,40.65,2070.75,DSL,Bank transfer (automatic),No,Yes,25.556108,Low Risk,529.203113771975,Low Priority
+7853-WNZSY,1,Month-to-month,19.75,19.75,No,Credit card (automatic),No internet service,No internet service,25.553646,Low Risk,5.046845220029354,Low Priority
+7750-EYXWZ,12,One year,60.65,743.3,DSL,Electronic check,Yes,No,25.34849,Low Risk,188.4153297126293,Low Priority
+6734-FQAJX,67,Two year,105.05,7171.7,Fiber optic,Electronic check,Yes,Yes,25.13733,Low Risk,1802.7738311767578,Low Priority
+8053-WWDRO,6,Month-to-month,19.5,146.3,No,Bank transfer (automatic),No internet service,No internet service,25.124466,Low Risk,36.75709437131882,Low Priority
+5574-NXZIU,63,Two year,109.2,7049.75,Fiber optic,Credit card (automatic),Yes,Yes,25.11814,Low Risk,1770.7660313770175,Low Priority
+7017-VFULY,2,Month-to-month,20.1,43.15,No,Bank transfer (automatic),No internet service,No internet service,25.088484,Low Risk,10.825680455565452,Low Priority
+5473-KHBPS,52,One year,95.7,4976.15,Fiber optic,Credit card (automatic),No,No,25.0738,Low Risk,1247.7098733678458,Low Priority
+1360-XFJMR,67,One year,109.7,7344.45,Fiber optic,Credit card (automatic),Yes,No,25.068304,Low Risk,1841.1290489181877,Low Priority
+5014-WUQMG,47,One year,96.1,4391.45,Fiber optic,Electronic check,No,Yes,24.847155,Low Risk,1091.1503583543001,Low Priority
+9013-AQORL,48,Month-to-month,45.55,2108.35,DSL,Credit card (automatic),No,No,24.84663,Low Risk,523.8539193548262,Low Priority
+8992-CEUEN,1,Month-to-month,18.85,18.85,No,Electronic check,No internet service,No internet service,24.529419,Low Risk,4.623795358836651,Low Priority
+3011-WQKSZ,19,Month-to-month,20.0,377.55,No,Electronic check,No internet service,No internet service,24.44599,Low Risk,92.2958342179656,Low Priority
+8166-ORCHU,33,One year,93.55,3055.5,Fiber optic,Electronic check,Yes,Yes,24.335295,Low Risk,743.5649375617504,Low Priority
+2746-DIJLO,41,One year,56.3,2364.0,DSL,Credit card (automatic),No,No,24.19499,Low Risk,571.9695659279823,Low Priority
+9364-YKUVW,15,Month-to-month,19.8,309.4,No,Mailed check,No internet service,No internet service,24.170244,Low Risk,74.78273413181304,Low Priority
+9143-CANJF,24,Month-to-month,55.15,1319.85,DSL,Electronic check,Yes,Yes,23.840666,Low Risk,314.6610277891159,Low Priority
+7629-WIXZF,7,One year,59.1,369.25,DSL,Electronic check,No,Yes,23.798203,Low Risk,87.874860804528,Low Priority
+2522-AHJXR,60,Month-to-month,109.45,6572.85,Fiber optic,Bank transfer (automatic),Yes,Yes,23.660866,Low Risk,1555.1931931570173,Low Priority
+2432-TFSMK,18,One year,89.6,1633.0,Fiber optic,Credit card (automatic),No,No,23.557693,Low Risk,384.69712287187576,Low Priority
+6890-PFRQX,18,Month-to-month,69.5,1199.4,DSL,Mailed check,No,Yes,23.460089,Low Risk,281.38030351102356,Low Priority
+5949-EBSQK,4,Month-to-month,61.45,229.55,DSL,Credit card (automatic),Yes,No,23.425123,Low Risk,53.772370065748696,Low Priority
+9972-VAFJJ,53,One year,94.0,4871.45,Fiber optic,Electronic check,Yes,No,23.179752,Low Risk,1129.1900110036133,Low Priority
+9359-UGBTK,67,One year,72.35,4991.5,DSL,Bank transfer (automatic),Yes,Yes,23.074776,Low Risk,1151.7774407565594,Low Priority
+2748-MYRVK,63,One year,99.9,6137.0,Fiber optic,Bank transfer (automatic),No,No,23.00754,Low Risk,1411.9727546423674,Low Priority
+7191-ADRGF,44,Two year,54.3,2390.45,DSL,Bank transfer (automatic),No,No,22.989527,Low Risk,549.5531336143613,Low Priority
+0254-KCJGT,52,One year,81.4,4354.45,DSL,Credit card (automatic),Yes,Yes,22.7606,Low Risk,991.0989402383566,Low Priority
+0447-BEMNG,48,Month-to-month,45.3,2145.0,DSL,Bank transfer (automatic),No,Yes,22.686796,Low Risk,486.6317718476057,Low Priority
+5081-NWSUP,10,One year,64.9,685.55,DSL,Mailed check,Yes,No,22.67692,Low Risk,155.4616209514439,Low Priority
+5850-BDWCY,6,Month-to-month,20.2,123.65,No,Mailed check,No internet service,No internet service,22.650507,Low Risk,28.00735201984644,Low Priority
+3229-USWAR,34,One year,79.95,2727.3,DSL,Bank transfer (automatic),Yes,Yes,22.485767,Low Risk,613.2543317064643,Low Priority
+6421-SZVEM,28,One year,82.85,2320.8,Fiber optic,Bank transfer (automatic),No,Yes,22.423496,Low Risk,520.4045147180558,Low Priority
+5236-XMZJY,42,Month-to-month,59.65,2536.55,DSL,Bank transfer (automatic),No,Yes,22.352774,Low Risk,566.9892622917891,Low Priority
+0788-DXBFY,58,One year,19.55,1108.8,No,Electronic check,No internet service,No internet service,22.352175,Low Risk,247.84092099666594,Low Priority
+6258-NGCNG,7,Month-to-month,23.5,173.0,No,Mailed check,No internet service,No internet service,22.298048,Low Risk,38.57562379539013,Low Priority
+9115-YQHGA,40,Month-to-month,51.1,2092.9,DSL,Electronic check,Yes,No,22.250029,Low Risk,465.67083506137135,Low Priority
+4227-OJHAL,68,One year,73.0,5163.0,DSL,Credit card (automatic),No,Yes,22.210562,Low Risk,1146.7313278913498,Low Priority
+1097-FSPVW,42,Month-to-month,54.55,2455.05,DSL,Credit card (automatic),No,Yes,21.979994,Low Risk,539.6198324292899,Low Priority
+5198-EFNBM,57,One year,90.65,5199.8,Fiber optic,Electronic check,No,No,21.879091,Low Risk,1137.6690184772015,Low Priority
+9039-RBEEE,39,Month-to-month,48.95,1880.85,DSL,Credit card (automatic),Yes,Yes,21.829002,Low Risk,410.57080472409723,Low Priority
+6682-QJDGB,40,Month-to-month,55.25,2139.2,DSL,Mailed check,No,Yes,21.701717,Low Risk,464.24313812255855,Low Priority
+2972-YDYUW,57,One year,94.7,5468.95,Fiber optic,Electronic check,Yes,No,21.68747,Low Risk,1186.076829661429,Low Priority
+9079-YEXQJ,54,Month-to-month,111.1,6014.85,Fiber optic,Electronic check,Yes,No,21.685284,Low Risk,1304.337327298522,Low Priority
+7690-KPNCU,64,One year,73.05,4688.65,DSL,Credit card (automatic),No,Yes,21.63747,Low Risk,1014.5052151232957,Low Priority
+2758-RNWXS,35,One year,89.2,3251.3,Fiber optic,Electronic check,Yes,Yes,21.608376,Low Risk,702.553096793592,Low Priority
+4377-VDHYI,32,One year,90.8,3023.85,Fiber optic,Electronic check,No,Yes,21.603579,Low Risk,653.2598033040762,Low Priority
+4396-KLSEH,4,Month-to-month,19.85,63.0,No,Electronic check,No internet service,No internet service,21.54512,Low Risk,13.573425337672234,Low Priority
+2323-ARSVR,67,Two year,111.05,7321.05,Fiber optic,Electronic check,Yes,Yes,21.328287,Low Risk,1561.4545427195728,Low Priority
+7764-BDPEE,3,Month-to-month,20.85,60.65,No,Mailed check,No internet service,No internet service,21.30294,Low Risk,12.920233080536127,Low Priority
+0895-LMRSF,23,One year,64.9,1509.8,DSL,Bank transfer (automatic),No,No,21.282494,Low Risk,321.32309544086456,Low Priority
+0058-EVZWM,55,Month-to-month,89.8,4959.6,Fiber optic,Bank transfer (automatic),No,Yes,21.09657,Low Risk,1046.305450987816,Low Priority
+9256-JTBNZ,11,Month-to-month,20.3,246.3,No,Bank transfer (automatic),No internet service,No internet service,21.064562,Low Risk,51.88201523423195,Low Priority
+3571-DPYUH,58,One year,94.7,5430.35,Fiber optic,Credit card (automatic),Yes,No,21.038942,Low Risk,1142.4881890155375,Low Priority
+9931-KGHOA,46,Month-to-month,55.0,2473.95,DSL,Bank transfer (automatic),No,Yes,20.967968,Low Risk,518.7370395921171,Low Priority
+6968-URWQU,43,One year,56.35,2391.15,DSL,Mailed check,No,No,20.95163,Low Risk,500.98490493223073,Low Priority
+4701-AHWMW,55,Month-to-month,54.55,2978.3,DSL,Bank transfer (automatic),Yes,No,20.914413,Low Risk,622.893963418901,Low Priority
+0373-AIVNJ,9,One year,39.55,373.0,DSL,Mailed check,No,Yes,20.870348,Low Risk,77.84639550745487,Low Priority
+9844-FELAJ,70,One year,107.9,7475.85,Fiber optic,Electronic check,Yes,No,20.845413,Low Risk,1558.371823310852,Low Priority
+9139-WQQDY,49,One year,100.45,4941.8,Fiber optic,Mailed check,No,No,20.686077,Low Risk,1022.2645325034857,Low Priority
+7159-NOKYQ,67,Two year,93.15,6368.2,Fiber optic,Electronic check,No,No,20.641064,Low Risk,1314.464183756709,Low Priority
+8409-WQJUX,25,One year,54.2,1423.15,DSL,Electronic check,Yes,No,20.637514,Low Risk,293.7027761809528,Low Priority
+3090-QFUVD,1,Month-to-month,20.3,20.3,No,Credit card (automatic),No internet service,No internet service,20.620792,Low Risk,4.186021000146866,Low Priority
+6383-ZTSIW,39,One year,99.1,3877.95,Fiber optic,Mailed check,No,Yes,20.532711,Low Risk,796.2482604168355,Low Priority
+2159-TURXX,5,Month-to-month,20.05,95.55,No,Credit card (automatic),No internet service,No internet service,20.495949,Low Risk,19.5838785007596,Low Priority
+6194-HBGQN,51,One year,81.15,4126.2,DSL,Credit card (automatic),Yes,Yes,20.47829,Low Risk,844.9752151608467,Low Priority
+7531-GQHME,12,Month-to-month,20.05,265.45,No,Credit card (automatic),No internet service,No internet service,20.334684,Low Risk,53.97842093110084,Low Priority
+5808-TOTXO,3,One year,20.55,57.4,No,Credit card (automatic),No internet service,No internet service,20.1158,Low Risk,11.546469315886497,Low Priority
+7036-TYDEC,69,Two year,104.0,7028.5,Fiber optic,Electronic check,Yes,No,19.992445,Low Risk,1405.169025592506,Low Priority
+2843-CQMEG,24,Month-to-month,49.7,1218.25,DSL,Mailed check,No,No,19.788265,Low Risk,241.07054114341736,Low Priority
+0733-VUNUW,24,Month-to-month,55.65,1400.55,DSL,Bank transfer (automatic),No,Yes,19.572405,Low Risk,274.1213254697621,Low Priority
+2923-ARZLG,0,One year,19.7,0.0,No,Mailed check,No internet service,No internet service,19.492435,Low Risk,0.0,Low Priority
+3646-ITDGM,56,Two year,19.7,1051.9,No,Bank transfer (automatic),No internet service,No internet service,19.437965,Low Risk,204.4679617315531,Low Priority
+4304-TSPVK,68,Two year,114.9,7843.55,Fiber optic,Bank transfer (automatic),Yes,Yes,19.375551,Low Risk,1519.7310106098653,Low Priority
+8985-OOPOS,1,One year,74.1,74.1,DSL,Credit card (automatic),Yes,No,19.373436,Low Risk,14.355716277658939,Low Priority
+5975-BAICR,36,One year,63.7,2188.5,DSL,Credit card (automatic),No,Yes,19.28928,Low Risk,422.1459031775594,Low Priority
+0816-TSPHQ,2,Month-to-month,20.75,44.2,No,Mailed check,No internet service,No internet service,19.093735,Low Risk,8.439430439472199,Low Priority
+2511-MORQY,50,One year,54.9,2614.1,DSL,Bank transfer (automatic),No,No,19.090717,Low Risk,499.05046004652974,Low Priority
+2233-TXSIU,17,One year,44.45,792.15,DSL,Credit card (automatic),No,Yes,18.968142,Low Risk,150.2561295568943,Low Priority
+0257-KXZGU,32,Month-to-month,62.45,2045.55,DSL,Bank transfer (automatic),No,No,18.911594,Low Risk,386.84611418545245,Low Priority
+4237-CLSMM,2,Month-to-month,20.0,38.0,No,Mailed check,No internet service,No internet service,18.84389,Low Risk,7.160677909851074,Low Priority
+4693-VWVBO,3,Month-to-month,19.55,61.05,No,Electronic check,No internet service,No internet service,18.830433,Low Risk,11.495979644358158,Low Priority
+4945-RVMTE,28,Month-to-month,59.55,1646.45,DSL,Bank transfer (automatic),No,No,18.824444,Low Risk,309.9350454136729,Low Priority
+9917-KWRBE,41,One year,78.35,3211.2,DSL,Credit card (automatic),No,Yes,18.767443,Low Risk,602.6601392269134,Low Priority
+7691-XVTZH,68,Two year,89.95,5974.3,Fiber optic,Bank transfer (automatic),No,No,18.7564,Low Risk,1120.5635190874339,Low Priority
+1074-AMIOH,53,Month-to-month,108.25,5935.1,Fiber optic,Bank transfer (automatic),Yes,No,18.747189,Low Risk,1112.6643639430404,Low Priority
+2428-ZMCTB,10,Month-to-month,19.75,208.25,No,Credit card (automatic),No internet service,No internet service,18.543016,Low Risk,38.61583271622658,Low Priority
+9138-EFSMO,26,One year,78.95,2034.25,Fiber optic,Bank transfer (automatic),No,No,18.427895,Low Risk,374.8694542311132,Low Priority
+8401-EMUWF,42,Month-to-month,69.4,3058.3,DSL,Bank transfer (automatic),No,Yes,18.363121,Low Risk,561.5993341892957,Low Priority
+6429-SHBCB,19,Month-to-month,69.6,1394.55,DSL,Mailed check,No,No,18.275469,Low Risk,254.8605604916811,Low Priority
+2308-STERM,2,Month-to-month,19.4,61.05,No,Mailed check,No internet service,No internet service,18.232155,Low Risk,11.130730533599854,Low Priority
+0363-QJVFX,32,Month-to-month,108.15,3432.9,Fiber optic,Credit card (automatic),Yes,Yes,18.216164,Low Risk,625.3426568806171,Low Priority
+5236-PERKL,57,Two year,112.95,6465.0,Fiber optic,Bank transfer (automatic),No,Yes,18.186083,Low Risk,1175.7302941381931,Low Priority
+5514-YQENT,41,Two year,111.15,4507.15,Fiber optic,Electronic check,Yes,Yes,18.050608,Low Risk,813.5679802253842,Low Priority
+0134-XWXCE,44,One year,74.85,3268.05,DSL,Bank transfer (automatic),Yes,No,18.01947,Low Risk,588.8853080436587,Low Priority
+3077-RSNTJ,6,Month-to-month,19.7,113.5,No,Mailed check,No internet service,No internet service,17.903025,Low Risk,20.31993219256401,Low Priority
+4184-VODJZ,63,One year,91.35,5764.7,Fiber optic,Electronic check,No,No,17.777906,Low Risk,1024.8429678335785,Low Priority
+3594-IVHJZ,2,Month-to-month,20.45,42.45,No,Mailed check,No internet service,No internet service,17.767748,Low Risk,7.542409126460552,Low Priority
+4075-JFPGR,51,One year,93.5,4619.55,Fiber optic,Electronic check,No,Yes,17.73941,Low Risk,819.4809469185769,Low Priority
+2659-VXMWZ,67,One year,111.3,7482.1,Fiber optic,Electronic check,No,Yes,17.660866,Low Risk,1321.4035942047835,Low Priority
+0377-JBKKT,22,Month-to-month,57.95,1271.8,DSL,Mailed check,Yes,Yes,17.638956,Low Risk,224.33224253952503,Low Priority
+9640-ZSLDC,53,One year,60.6,3297.0,DSL,Credit card (automatic),No,No,17.592775,Low Risk,580.0338188409805,Low Priority
+1131-SUEKT,61,One year,98.45,6145.2,Fiber optic,Bank transfer (automatic),Yes,No,17.544518,Low Risk,1078.1456538319587,Low Priority
+5018-LXQQG,30,Month-to-month,66.3,1923.5,DSL,Bank transfer (automatic),Yes,Yes,17.5021,Low Risk,336.6528795659542,Low Priority
+8400-WZICQ,55,Month-to-month,55.7,3131.8,DSL,Electronic check,No,Yes,17.45195,Low Risk,546.5601518601179,Low Priority
+4299-OPXEJ,56,Two year,19.55,1080.55,No,Bank transfer (automatic),No internet service,No internet service,17.342966,Low Risk,187.39942770302295,Low Priority
+5857-XRECV,2,One year,20.5,38.25,No,Bank transfer (automatic),No internet service,No internet service,17.259132,Low Risk,6.601618319749832,Low Priority
+8970-ANWXO,23,One year,73.75,1756.6,DSL,Mailed check,Yes,No,17.148981,Low Risk,301.238991433382,Low Priority
+2155-AMQRX,28,Month-to-month,54.9,1505.15,DSL,Credit card (automatic),Yes,No,17.114408,Low Risk,257.5975167416036,Low Priority
+7803-XOCCZ,52,Month-to-month,84.05,4326.8,Fiber optic,Bank transfer (automatic),Yes,Yes,17.069891,Low Risk,738.5800479054451,Low Priority
+7032-LMBHI,37,One year,64.65,2347.85,DSL,Bank transfer (automatic),No,Yes,17.04044,Low Risk,400.0839458890259,Low Priority
+3847-BAERP,10,Month-to-month,20.9,247.0,No,Mailed check,No internet service,No internet service,17.011604,Low Risk,42.01866117119789,Low Priority
+2212-LYASK,27,One year,45.85,1246.4,DSL,Credit card (automatic),No,No,16.89375,Low Risk,210.5636867761612,Low Priority
+4537-CIBHB,9,One year,20.25,172.35,No,Mailed check,No internet service,No internet service,16.791967,Low Risk,28.940956930071113,Low Priority
+5524-KHNJP,33,One year,74.75,2453.3,DSL,Credit card (automatic),No,Yes,16.669233,Low Risk,408.9462967053056,Low Priority
+6710-HSJRD,61,Month-to-month,114.1,7132.15,Fiber optic,Electronic check,Yes,No,16.631872,Low Risk,1186.210020467639,Low Priority
+7654-YWJUF,43,One year,84.25,3539.25,Fiber optic,Bank transfer (automatic),Yes,Yes,16.616993,Low Risk,588.1169124506414,Low Priority
+2294-DMMUS,62,Month-to-month,70.45,4300.45,DSL,Credit card (automatic),No,No,16.595211,Low Risk,713.6687783315778,Low Priority
+3594-UVONA,35,One year,85.95,3110.1,DSL,Credit card (automatic),Yes,Yes,16.586403,Low Risk,515.8537367686629,Low Priority
+2930-UOTMB,31,Month-to-month,65.25,1994.3,DSL,Credit card (automatic),Yes,Yes,16.526388,Low Risk,329.58574854284524,Low Priority
+7879-CGSFV,55,One year,100.9,5552.05,Fiber optic,Mailed check,No,Yes,16.481327,Low Risk,915.0514890782536,Low Priority
+6297-NOOPG,70,Two year,110.5,7752.05,Fiber optic,Electronic check,Yes,No,16.37283,Low Risk,1269.2299428731203,Low Priority
+2129-ALKBS,40,Month-to-month,26.2,1077.5,No,Electronic check,No internet service,No internet service,16.368174,Low Risk,176.36706475168467,Low Priority
+4079-VTGLK,30,Two year,74.85,2181.75,DSL,Electronic check,No,No,16.235441,Low Risk,354.21673335134983,Low Priority
+1110-KYLGQ,63,Month-to-month,108.25,6780.1,Fiber optic,Credit card (automatic),No,Yes,16.223665,Low Risk,1099.9806823089718,Low Priority
+3794-NFNCH,30,Month-to-month,50.0,1474.9,DSL,Mailed check,No,No,16.12582,Low Risk,237.83972769230607,Low Priority
+1015-OWJKI,1,Month-to-month,19.05,19.05,No,Mailed check,No internet service,No internet service,16.05104,Low Risk,3.0577232323586943,Low Priority
+1707-HABPF,46,One year,91.3,4126.35,Fiber optic,Bank transfer (automatic),No,No,16.037739,Low Risk,661.7732152998448,Low Priority
+0440-QEXBZ,44,Month-to-month,50.15,2139.1,DSL,Mailed check,No,No,15.999371,Low Risk,342.2425410687923,Low Priority
+2250-IVBWA,64,Month-to-month,81.05,5135.35,Fiber optic,Electronic check,No,Yes,15.862295,Low Risk,814.584367902577,Low Priority
+5671-RQRLP,70,Two year,75.65,5411.4,Fiber optic,Credit card (automatic),No,No,15.751346,Low Risk,852.3683079868555,Low Priority
+4002-BQWPQ,25,Month-to-month,81.75,2028.8,DSL,Bank transfer (automatic),Yes,Yes,15.723769,Low Risk,319.00383291244503,Low Priority
+9701-CDXHR,51,Month-to-month,69.15,3649.6,Fiber optic,Mailed check,No,No,15.68976,Low Risk,572.6134972572327,Low Priority
+9586-JGQKH,64,Two year,105.4,6794.75,Fiber optic,Bank transfer (automatic),Yes,No,15.604131,Low Risk,1060.2616859413683,Low Priority
+2171-UDMFD,32,Month-to-month,19.45,674.55,No,Credit card (automatic),No internet service,No internet service,15.370395,Low Risk,103.6809946797788,Low Priority
+0484-FFVBJ,32,One year,64.85,2010.95,DSL,Bank transfer (automatic),No,No,15.281646,Low Risk,307.3062593050301,Low Priority
+2649-HWLYB,65,Two year,76.15,4929.55,DSL,Bank transfer (automatic),Yes,Yes,15.201672,Low Risk,749.3739935599268,Low Priority
+0665-XHDJU,72,Two year,99.4,7285.7,Fiber optic,Electronic check,No,No,15.177427,Low Risk,1105.7818158611656,Low Priority
+0440-UEDAI,53,One year,94.45,5042.75,Fiber optic,Credit card (automatic),Yes,No,15.1625185,Low Risk,764.6079077348113,Low Priority
+4402-FTBXC,54,Month-to-month,89.8,4667.0,Fiber optic,Mailed check,No,Yes,15.062942,Low Risk,702.9874849766493,Low Priority
+4654-ULTTN,70,Two year,74.8,5315.8,DSL,Credit card (automatic),Yes,Yes,15.027382,Low Risk,798.8255447000265,Low Priority
+4701-MLJPN,31,Month-to-month,55.25,1715.65,DSL,Electronic check,Yes,No,15.024975,Low Risk,257.77598259598017,Low Priority
+9788-YTFGE,7,Month-to-month,19.95,147.5,No,Mailed check,No internet service,No internet service,15.0084095,Low Risk,22.1374037489295,Low Priority
+5062-CJJKH,25,One year,53.65,1355.45,DSL,Mailed check,No,No,14.916275,Low Risk,202.18265547379852,Low Priority
+5825-XJOCM,48,One year,64.4,3035.35,DSL,Bank transfer (automatic),No,Yes,14.845504,Low Risk,450.6130016170442,Low Priority
+8089-UZWLX,71,Two year,104.05,7413.55,Fiber optic,Bank transfer (automatic),No,No,14.841997,Low Risk,1100.3189148128033,Low Priority
+1346-PJWTK,61,Month-to-month,94.15,5731.85,Fiber optic,Credit card (automatic),Yes,No,14.839442,Low Risk,850.5745605356992,Low Priority
+1136-XGEQU,50,One year,84.15,4164.4,DSL,Credit card (automatic),Yes,No,14.629008,Low Risk,609.210403984785,Low Priority
+5442-BXVND,33,Month-to-month,24.25,838.5,No,Bank transfer (automatic),No internet service,No internet service,14.624889,Low Risk,122.62969589978456,Low Priority
+6838-HVLXG,12,Month-to-month,20.3,246.7,No,Mailed check,No internet service,No internet service,14.574766,Low Risk,35.95594811439514,Low Priority
+6061-GWWAV,41,One year,70.2,2894.55,DSL,Mailed check,No,Yes,14.525582,Low Risk,420.45023077949884,Low Priority
+8646-JCOMS,66,One year,90.55,6130.95,Fiber optic,Bank transfer (automatic),Yes,No,14.312908,Low Risk,877.5172362998128,Low Priority
+7471-MQPOS,71,One year,72.9,5139.65,DSL,Bank transfer (automatic),Yes,No,14.219846,Low Risk,730.8503062732517,Low Priority
+4419-UJMUS,69,Two year,99.35,6856.45,Fiber optic,Electronic check,Yes,No,14.118028,Low Risk,967.9955093502998,Low Priority
+4378-MYPGO,68,Two year,105.25,7173.15,Fiber optic,Bank transfer (automatic),No,Yes,14.0496645,Low Risk,1007.8034832403064,Low Priority
+0661-KBKPA,53,One year,78.75,3942.45,DSL,Mailed check,Yes,No,13.874825,Low Risk,547.008012393862,Low Priority
+1744-JHKYS,34,Month-to-month,24.7,780.2,No,Electronic check,No internet service,No internet service,13.842429,Low Risk,107.99863277971745,Low Priority
+7677-SJJJK,8,One year,19.9,153.95,No,Credit card (automatic),No internet service,No internet service,13.6218605,Low Risk,20.970854613184926,Low Priority
+2969-WGHQO,7,One year,69.45,477.05,DSL,Electronic check,No,Yes,13.525459,Low Risk,64.52320297211409,Low Priority
+5701-GUXDC,26,One year,35.4,978.6,DSL,Credit card (automatic),No,Yes,13.504788,Low Risk,132.15785810351372,Low Priority
+6784-XYJAE,36,One year,55.8,1941.5,DSL,Electronic check,No,No,13.490911,Low Risk,261.9260337278247,Low Priority
+5921-NGYRH,64,Month-to-month,73.55,4764.0,Fiber optic,Mailed check,No,Yes,13.33634,Low Risk,635.3432182073593,Low Priority
+5445-PZWGX,62,One year,102.0,6529.25,Fiber optic,Electronic check,Yes,Yes,13.3009405,Low Risk,868.4516507014632,Low Priority
+3680-CTHUH,60,One year,116.6,7049.5,Fiber optic,Credit card (automatic),Yes,Yes,13.207464,Low Risk,931.0601690486073,Low Priority
+2040-OBMLJ,31,One year,81.7,2548.65,Fiber optic,Credit card (automatic),Yes,No,13.158292,Low Risk,335.35879831016064,Low Priority
+9378-FXTIZ,54,One year,70.15,3715.65,DSL,Credit card (automatic),No,No,13.145867,Low Risk,488.4544068172574,Low Priority
+3301-VKTGC,68,One year,85.5,5696.6,Fiber optic,Bank transfer (automatic),No,Yes,13.037697,Low Risk,742.7054177224636,Low Priority
+5061-PBXFW,32,Month-to-month,61.4,1864.65,DSL,Bank transfer (automatic),Yes,Yes,12.993333,Low Risk,242.28017900437118,Low Priority
+9052-DHNKM,26,One year,61.55,1581.95,DSL,Electronic check,No,Yes,12.868859,Low Risk,203.57891295477748,Low Priority
+3470-OBUET,67,Two year,74.0,4868.4,DSL,Credit card (automatic),Yes,Yes,12.716502,Low Risk,619.0901809930801,Low Priority
+2408-PSJVE,44,Month-to-month,61.9,2924.05,DSL,Mailed check,Yes,No,12.6633835,Low Risk,370.2836734749377,Low Priority
+9367-TCUYN,12,Month-to-month,20.1,223.6,No,Mailed check,No internet service,No internet service,12.656795,Low Risk,28.30059247612953,Low Priority
+0289-IVARM,35,Month-to-month,60.55,1982.6,DSL,Electronic check,No,Yes,12.4566145,Low Risk,246.96483955532312,Low Priority
+6848-YLDFR,58,One year,75.2,4300.8,DSL,Credit card (automatic),Yes,No,12.438072,Low Risk,534.9366119384766,Low Priority
+5049-MUBWG,26,One year,75.0,1908.35,DSL,Bank transfer (automatic),Yes,Yes,12.43001,Low Risk,237.20809566192327,Low Priority
+0076-LVEPS,29,Month-to-month,45.0,1242.45,DSL,Mailed check,Yes,Yes,12.382265,Low Risk,153.8434537332505,Low Priority
+9822-BIIGN,53,Month-to-month,71.85,3827.9,DSL,Electronic check,Yes,Yes,12.247135,Low Risk,468.80809942856433,Low Priority
+3096-WPXBT,61,One year,100.7,6018.65,Fiber optic,Credit card (automatic),No,Yes,12.215753,Low Risk,735.2234118945896,Low Priority
+2091-MJTFX,30,Month-to-month,51.2,1561.5,DSL,Credit card (automatic),Yes,No,11.98606,Low Risk,187.162333779037,Low Priority
+1492-QGCLU,53,Month-to-month,85.7,4616.1,DSL,Electronic check,Yes,Yes,11.936336,Low Risk,550.9931721970439,Low Priority
+7520-HQWJU,66,Month-to-month,67.45,4508.65,DSL,Bank transfer (automatic),No,Yes,11.899145,Low Risk,536.4907986767589,Low Priority
+8582-KRHPJ,50,Month-to-month,35.0,1782.4,DSL,Mailed check,No,Yes,11.8550825,Low Risk,211.30498538017275,Low Priority
+9972-NKTFD,28,Month-to-month,54.65,1517.5,DSL,Bank transfer (automatic),Yes,No,11.7842,Low Risk,178.82522931322455,Low Priority
+2958-NHPPS,23,Month-to-month,20.85,473.9,No,Electronic check,No internet service,No internet service,11.783895,Low Risk,55.84387791454792,Low Priority
+9040-KZVWO,26,One year,75.5,2018.1,Fiber optic,Bank transfer (automatic),No,No,11.766421,Low Risk,237.45814320668578,Low Priority
+0074-HDKDG,25,One year,61.6,1611.0,DSL,Bank transfer (automatic),No,Yes,11.639107,Low Risk,187.50601407140493,Low Priority
+0707-HOVVN,70,Two year,75.5,5212.65,DSL,Bank transfer (automatic),Yes,No,11.619693,Low Risk,605.6939292937517,Low Priority
+5566-SOEZD,27,One year,80.65,2209.75,Fiber optic,Credit card (automatic),No,Yes,11.514642,Low Risk,254.4448035750538,Low Priority
+7266-GSSJX,11,Month-to-month,20.45,250.8,No,Electronic check,No internet service,No internet service,11.499589,Low Risk,28.840969052910808,Low Priority
+6112-KTHFQ,13,Month-to-month,19.3,279.3,No,Mailed check,No internet service,No internet service,11.275818,Low Risk,31.493360229581597,Low Priority
+4223-BKEOR,21,One year,64.85,1336.8,DSL,Mailed check,No,Yes,11.269379,Low Risk,150.64905395507813,Low Priority
+0725-CXOTM,36,One year,89.65,3348.1,DSL,Credit card (automatic),Yes,Yes,11.234095,Low Risk,376.12873293980954,Low Priority
+7251-XFOIL,61,Month-to-month,89.2,5500.6,Fiber optic,Mailed check,No,No,11.197146,Low Risk,615.9102554142476,Low Priority
+7356-AYNJP,4,One year,23.9,97.5,No,Electronic check,No internet service,No internet service,11.111071,Low Risk,10.833294186741114,Low Priority
+6933-FHBZC,26,One year,56.05,1553.2,DSL,Mailed check,No,No,11.027984,Low Risk,171.28664090335369,Low Priority
+6993-YCOBK,60,Two year,110.6,6586.85,Fiber optic,Electronic check,Yes,Yes,11.026627,Low Risk,726.3073690444231,Low Priority
+7838-LAZFO,45,One year,78.8,3597.5,DSL,Bank transfer (automatic),No,Yes,10.887628,Low Risk,391.6823922470212,Low Priority
+9330-VOFSZ,60,Two year,110.8,6640.7,Fiber optic,Credit card (automatic),Yes,No,10.877614,Low Risk,722.3496945217252,Low Priority
+6242-SGYTS,62,One year,94.95,5791.85,Fiber optic,Credit card (automatic),No,Yes,10.848336,Low Risk,628.3193440847099,Low Priority
+3675-EQOZA,5,Month-to-month,20.65,93.55,No,Bank transfer (automatic),No internet service,No internet service,10.58613,Low Risk,9.903324497118591,Low Priority
+3623-FQBOX,21,Month-to-month,19.95,416.4,No,Mailed check,No internet service,No internet service,10.547833,Low Risk,43.92117721438407,Low Priority
+6900-RBKER,52,Two year,89.45,4577.75,Fiber optic,Credit card (automatic),No,No,10.528103,Low Risk,481.9502129778266,Low Priority
+6766-HFKLA,56,Two year,103.2,5744.35,Fiber optic,Bank transfer (automatic),Yes,No,10.440532,Low Risk,599.7406639263035,Low Priority
+2522-WLNSF,34,One year,64.2,2106.3,DSL,Bank transfer (automatic),Yes,No,10.338681,Low Risk,217.76364193037153,Low Priority
+9289-LBQVU,64,One year,70.15,4480.7,DSL,Mailed check,Yes,No,10.199323,Low Risk,457.00104556456205,Low Priority
+9860-LISIZ,34,Month-to-month,20.35,673.2,No,Mailed check,No internet service,No internet service,10.131934,Low Risk,68.20818160772325,Low Priority
+7636-PEPNS,58,One year,44.1,2413.05,DSL,Mailed check,No,No,10.087075,Low Risk,243.40616532526911,Low Priority
+9610-WCESF,67,Two year,43.9,3097.2,DSL,Electronic check,Yes,Yes,10.050491,Low Risk,311.28381479680536,Low Priority
+6445-TNRXS,68,Two year,114.7,7849.85,Fiber optic,Bank transfer (automatic),Yes,Yes,10.018228,Low Risk,786.4158117357642,Low Priority
+2368-GAKKQ,70,Two year,113.65,7939.25,Fiber optic,Bank transfer (automatic),Yes,Yes,9.917986,Low Risk,787.413675552234,Low Priority
+3506-OVLKD,35,One year,26.2,954.9,No,Bank transfer (automatic),No internet service,No internet service,9.870714,Low Risk,94.25544750094413,Low Priority
+3339-EAQNV,72,One year,97.25,7133.1,Fiber optic,Credit card (automatic),No,No,9.861029,Low Risk,703.3970552824438,Low Priority
+6075-QMNRR,52,Month-to-month,49.75,2535.55,DSL,Bank transfer (automatic),No,Yes,9.81826,Low Risk,248.94690085425975,Low Priority
+9906-NHHVC,65,Two year,53.5,3517.9,DSL,Bank transfer (automatic),No,No,9.791284,Low Risk,344.44755554348234,Low Priority
+1038-RQOST,19,Month-to-month,20.6,414.95,No,Mailed check,No internet service,No internet service,9.759315,Low Risk,40.496274929493666,Low Priority
+0379-DJQHR,67,Two year,81.35,5398.6,DSL,Credit card (automatic),No,Yes,9.693667,Low Risk,523.3223224580288,Low Priority
+7663-CUXZB,59,Two year,113.75,6561.25,Fiber optic,Electronic check,Yes,Yes,9.693486,Low Risk,636.0138661507517,Low Priority
+6349-JDHQP,53,Two year,19.85,1049.6,No,Credit card (automatic),No internet service,No internet service,9.693432,Low Risk,101.7422607421875,Low Priority
+1936-CZAKF,49,Two year,49.65,2409.9,DSL,Credit card (automatic),No,No,9.6333885,Low Risk,232.1550263352692,Low Priority
+4759-PXTAN,59,One year,80.1,4693.2,DSL,Electronic check,Yes,No,9.592218,Low Risk,450.1820078909397,Low Priority
+5240-CAOYT,57,Month-to-month,87.55,4884.85,Fiber optic,Bank transfer (automatic),Yes,Yes,9.423393,Low Risk,460.31861350238324,Low Priority
+9313-CDOGY,38,Month-to-month,19.6,717.3,No,Electronic check,No internet service,No internet service,9.414916,Low Risk,67.53319060653448,Low Priority
+7311-MQJCH,5,One year,19.55,99.6,No,Electronic check,No internet service,No internet service,9.387411,Low Risk,9.349861532449722,Low Priority
+9209-NWPGU,44,One year,65.4,2774.55,DSL,Electronic check,Yes,Yes,9.348552,Low Risk,259.3802475459874,Low Priority
+1386-ZIKUV,7,Month-to-month,18.95,130.55,No,Mailed check,No internet service,No internet service,9.335027,Low Risk,12.186877604946496,Low Priority
+7010-ZMVBF,18,Month-to-month,20.45,357.0,No,Mailed check,No internet service,No internet service,9.297632,Low Risk,33.192547760903835,Low Priority
+4353-HYOJD,27,Month-to-month,49.85,1336.15,DSL,Mailed check,No,No,9.248543,Low Risk,123.57440443038941,Low Priority
+5696-CEIQJ,67,Two year,103.15,6895.5,Fiber optic,Bank transfer (automatic),Yes,No,9.179718,Low Risk,632.9874579571187,Low Priority
+0983-TATYJ,33,One year,51.45,1758.9,DSL,Mailed check,Yes,No,9.107221,Low Risk,160.18690872564912,Low Priority
+1271-UODNO,39,Two year,53.85,2200.7,DSL,Credit card (automatic),Yes,No,9.015116,Low Risk,198.39565991461276,Low Priority
+9480-BQJEI,62,One year,92.3,5731.45,Fiber optic,Bank transfer (automatic),No,Yes,8.863509,Low Risk,508.00761216469107,Low Priority
+4877-TSOFF,55,One year,75.75,4264.25,DSL,Bank transfer (automatic),Yes,Yes,8.841546,Low Risk,377.0256201811135,Low Priority
+3896-RCYYE,67,Month-to-month,53.4,3579.15,DSL,Credit card (automatic),Yes,No,8.814851,Low Risk,315.49671986550095,Low Priority
+6953-PBDIN,70,Two year,72.95,5265.55,DSL,Bank transfer (automatic),Yes,No,8.724344,Low Risk,459.3847229655832,Low Priority
+6598-RFFVI,2,One year,19.3,28.3,No,Credit card (automatic),No internet service,No internet service,8.4435835,Low Risk,2.389534144103527,Low Priority
+5446-DKWYW,61,One year,65.2,3965.05,DSL,Electronic check,No,No,8.368024,Low Risk,331.7963447317481,Low Priority
+9357-UJRUN,24,One year,58.35,1346.9,DSL,Electronic check,Yes,Yes,8.338467,Low Risk,112.31080241501333,Low Priority
+6332-FBZRI,67,One year,69.35,4653.25,DSL,Credit card (automatic),Yes,Yes,8.313552,Low Risk,386.8503372743726,Low Priority
+8735-NBLWT,9,Month-to-month,20.4,184.1,No,Mailed check,No internet service,No internet service,8.281576,Low Risk,15.246381210535764,Low Priority
+4086-ATNFV,34,One year,60.8,2042.05,DSL,Mailed check,No,Yes,8.191204,Low Risk,167.2684827327728,Low Priority
+2533-QVMSK,61,Two year,94.1,5638.3,Fiber optic,Electronic check,Yes,No,8.13562,Low Risk,458.7106489032507,Low Priority
+7971-HLVXI,72,Two year,84.5,6130.85,Fiber optic,Credit card (automatic),No,No,8.082871,Low Risk,495.54870522841816,Low Priority
+5155-AZQPB,28,Month-to-month,49.9,1410.25,DSL,Mailed check,No,No,7.988675,Low Risk,112.66028832271695,Low Priority
+1730-VFMWO,34,Month-to-month,50.2,1815.3,DSL,Bank transfer (automatic),Yes,No,7.97361,Low Risk,144.7449398741126,Low Priority
+2676-SSLTO,49,Two year,66.15,3199.0,DSL,Bank transfer (automatic),Yes,No,7.9487333,Low Risk,254.2799725458026,Low Priority
+0980-FEXWF,26,One year,50.35,1285.8,DSL,Mailed check,No,No,7.9108567,Low Risk,101.71779422163964,Low Priority
+1784-BXEFA,10,Month-to-month,20.55,187.35,No,Mailed check,No internet service,No internet service,7.8641086,Low Risk,14.733407615125179,Low Priority
+7666-WKRON,39,Two year,80.45,3201.55,Fiber optic,Electronic check,Yes,No,7.85715,Low Risk,251.55058068335057,Low Priority
+6967-PEJLL,37,One year,40.2,1525.35,DSL,Electronic check,Yes,Yes,7.8401623,Low Risk,119.58991893231868,Low Priority
+8777-PVYGU,52,One year,64.3,3410.6,DSL,Mailed check,No,Yes,7.8166375,Low Risk,266.594232006371,Low Priority
+9715-WZCLW,71,Two year,97.2,6910.3,Fiber optic,Electronic check,No,Yes,7.800289,Low Risk,539.0233875907958,Low Priority
+8034-RYTVV,55,One year,84.25,4589.85,Fiber optic,Credit card (automatic),No,Yes,7.737373,Low Risk,355.13380617722873,Low Priority
+1265-HVPZB,59,One year,66.4,3958.2,DSL,Credit card (automatic),No,Yes,7.7198796,Low Risk,305.5682742252946,Low Priority
+0516-UXRMT,62,One year,92.05,5755.8,Fiber optic,Electronic check,No,Yes,7.713706,Low Risk,443.98549261540177,Low Priority
+9405-GPBBG,64,Two year,110.5,7069.25,Fiber optic,Credit card (automatic),Yes,No,7.6302767,Low Risk,539.4033342003822,Low Priority
+9814-AOUDH,53,Two year,19.5,1050.5,No,Credit card (automatic),No internet service,No internet service,7.614623,Low Risk,79.99161472171545,Low Priority
+8570-KLJYJ,36,One year,54.45,1893.5,DSL,Mailed check,No,Yes,7.59771,Low Risk,143.86264248937368,Low Priority
+4981-FLTMF,57,Month-to-month,65.2,3687.85,DSL,Bank transfer (automatic),Yes,Yes,7.404525,Low Risk,273.0677690524608,Low Priority
+3926-YZVVX,41,One year,50.05,2029.05,DSL,Bank transfer (automatic),Yes,No,7.3532147,Low Risk,149.2004073254764,Low Priority
+3251-YMVWZ,53,One year,24.05,1301.9,No,Bank transfer (automatic),No internet service,No internet service,7.2907867,Low Risk,94.91874950528145,Low Priority
+2877-VDUER,35,One year,40.9,1383.6,DSL,Mailed check,Yes,No,7.2502174,Low Risk,100.31400723159312,Low Priority
+9142-XMYJH,29,Month-to-month,19.35,601.6,No,Credit card (automatic),No internet service,No internet service,7.2400956,Low Risk,43.55641593933105,Low Priority
+2541-YGPKE,42,One year,63.7,2763.35,DSL,Credit card (automatic),Yes,Yes,7.223011,Low Risk,199.5970691692084,Low Priority
+2325-ZUSFD,57,One year,70.1,3913.3,DSL,Bank transfer (automatic),No,Yes,7.219632,Low Risk,282.52585787922146,Low Priority
+7816-VGHTO,6,Two year,40.55,217.5,DSL,Mailed check,Yes,No,7.0950956,Low Risk,15.431832745671272,Low Priority
+5537-UXXVS,20,Month-to-month,19.25,375.25,No,Bank transfer (automatic),No internet service,No internet service,7.0328074,Low Risk,26.3906089104712,Low Priority
+8869-TORSS,48,One year,60.35,2896.4,DSL,Credit card (automatic),Yes,Yes,6.9963074,Low Risk,202.64105106890202,Low Priority
+7789-CRUVC,61,Month-to-month,94.2,5895.45,Fiber optic,Credit card (automatic),Yes,Yes,6.9912224,Low Risk,412.16402692347765,Low Priority
+3200-MNQTF,67,Two year,70.9,4677.1,DSL,Credit card (automatic),Yes,Yes,6.9761314,Low Risk,326.28063936159015,Low Priority
+9313-QOLTZ,26,Month-to-month,20.9,518.3,No,Mailed check,No internet service,No internet service,6.893512,Low Risk,35.729071978479624,Low Priority
+7157-SMCFK,61,Two year,19.75,1124.2,No,Mailed check,No internet service,No internet service,6.862084,Low Risk,77.14354633241892,Low Priority
+5820-PTRYM,56,One year,68.45,4014.0,DSL,Credit card (automatic),Yes,Yes,6.8197393,Low Risk,273.7443311959505,Low Priority
+2188-SXWVT,34,One year,55.0,1885.15,DSL,Mailed check,No,Yes,6.8151383,Low Risk,128.4755826637149,Low Priority
+3812-LRZIR,27,Two year,24.5,761.95,No,Electronic check,No internet service,No internet service,6.691717,Low Risk,50.98754039742053,Low Priority
+6292-TOSSS,50,Two year,24.9,1195.25,No,Bank transfer (automatic),No internet service,No internet service,6.666409,Low Risk,79.68025625310838,Low Priority
+9473-CBZOP,28,One year,59.0,1654.45,DSL,Mailed check,No,Yes,6.6475086,Low Risk,109.97970589064062,Low Priority
+1385-TQOZW,9,Month-to-month,20.45,147.55,No,Credit card (automatic),No internet service,No internet service,6.52532,Low Risk,9.628109386563303,Low Priority
+5498-IBWPI,66,One year,49.4,3251.85,DSL,Credit card (automatic),Yes,No,6.5166316,Low Risk,211.91108769737184,Low Priority
+6685-GBWJZ,63,One year,70.8,4448.8,DSL,Credit card (automatic),Yes,Yes,6.4930735,Low Risk,288.8638628482819,Low Priority
+0628-CNQRM,22,One year,67.5,1544.05,DSL,Bank transfer (automatic),Yes,Yes,6.4612336,Low Risk,99.76467810608446,Low Priority
+0727-BNRLG,69,Two year,97.65,6743.55,Fiber optic,Credit card (automatic),Yes,No,6.460359,Low Risk,435.65753580518066,Low Priority
+9025-ZRPVR,9,Month-to-month,18.95,185.6,No,Mailed check,No internet service,No internet service,6.3696094,Low Risk,11.82199501991272,Low Priority
+6797-LNAQX,70,Two year,98.3,6859.5,Fiber optic,Bank transfer (automatic),No,No,6.34817,Low Risk,435.45269336923957,Low Priority
+1218-VKFPE,12,Month-to-month,19.0,233.55,No,Mailed check,No internet service,No internet service,6.3271294,Low Risk,14.777010142430663,Low Priority
+9777-IQHWP,64,Two year,93.4,5822.3,Fiber optic,Bank transfer (automatic),No,Yes,6.212229,Low Risk,361.69460377655923,Low Priority
+8129-GMVGI,56,Two year,20.05,1090.1,No,Mailed check,No internet service,No internet service,6.1866846,Low Risk,67.44104875437915,Low Priority
+3324-OIRTO,71,One year,104.65,7288.4,Fiber optic,Bank transfer (automatic),No,Yes,6.181322,Low Risk,450.51947543025017,Low Priority
+8727-XDPUD,37,Two year,35.8,1316.9,DSL,Credit card (automatic),No,No,6.141623,Low Risk,80.879034730047,Low Priority
+3354-OADJP,8,One year,54.25,447.75,DSL,Bank transfer (automatic),Yes,Yes,6.128901,Low Risk,27.442153648473322,Low Priority
+3055-VTCGS,63,One year,58.55,3503.5,DSL,Credit card (automatic),No,No,6.1247425,Low Risk,214.58034750074148,Low Priority
+4213-HKBJO,33,Two year,25.7,826.1,No,Credit card (automatic),No internet service,No internet service,6.090831,Low Risk,50.316351908817886,Low Priority
+5204-HMGYF,49,One year,87.2,4345.0,DSL,Mailed check,Yes,Yes,6.0905056,Low Risk,264.63246054947376,Low Priority
+5696-JVVQY,48,Two year,70.1,3238.4,DSL,Credit card (automatic),No,Yes,6.042693,Low Risk,195.68657603263856,Low Priority
+5709-LVOEQ,0,Two year,80.85,0.0,DSL,Mailed check,No,Yes,6.041025,Low Risk,0.0,Low Priority
+8782-NUUOL,60,One year,79.0,4801.1,DSL,Mailed check,Yes,Yes,6.015116,Low Risk,288.7917510252446,Low Priority
+5245-VDBUR,52,One year,35.45,1958.95,DSL,Mailed check,No,Yes,5.9838796,Low Risk,117.22120584286749,Low Priority
+3694-GLTJM,5,Month-to-month,19.65,92.05,No,Credit card (automatic),No internet service,No internet service,5.9780407,Low Risk,5.502786528505385,Low Priority
+6872-HXFNF,64,One year,58.35,3756.45,DSL,Bank transfer (automatic),Yes,No,5.9747753,Low Risk,224.43944225739688,Low Priority
+4464-JCOLN,2,One year,19.85,35.9,No,Mailed check,No internet service,No internet service,5.9599514,Low Risk,2.139622590318322,Low Priority
+2239-CFOUJ,1,One year,20.4,20.4,No,Mailed check,No internet service,No internet service,5.8348656,Low Risk,1.1903125762939453,Low Priority
+1139-WUOAH,57,Two year,53.35,3090.05,DSL,Credit card (automatic),Yes,No,5.7858624,Low Risk,178.78603974469007,Low Priority
+9330-DHBFL,23,One year,66.25,1533.8,DSL,Mailed check,Yes,Yes,5.7733,Low Risk,88.55088007822633,Low Priority
+2834-JKOOW,15,One year,45.9,693.45,DSL,Mailed check,Yes,Yes,5.567712,Low Risk,38.60929861608893,Low Priority
+3733-UOCWF,61,One year,85.55,5251.75,Fiber optic,Bank transfer (automatic),Yes,No,5.5624475,Low Risk,292.1258304892108,Low Priority
+6726-NNFWD,71,Two year,89.45,6435.25,Fiber optic,Credit card (automatic),No,No,5.549631,Low Risk,357.13264616020024,Low Priority
+6568-POCUI,45,Two year,95.2,4285.8,Fiber optic,Credit card (automatic),Yes,No,5.5342355,Low Risk,237.18626026064157,Low Priority
+4039-PIMHX,49,Two year,49.8,2398.4,DSL,Mailed check,No,No,5.4172335,Low Risk,129.92692425847054,Low Priority
+2332-TODQS,48,One year,25.05,1171.5,No,Credit card (automatic),No internet service,No internet service,5.3872356,Low Risk,63.11146746017039,Low Priority
+1133-KXCGE,18,One year,20.1,407.05,No,Mailed check,No internet service,No internet service,5.3580484,Low Risk,21.8099365349859,Low Priority
+9351-HXDMR,72,Two year,110.9,8240.85,Fiber optic,Credit card (automatic),Yes,Yes,5.302017,Low Risk,436.93128295205537,Low Priority
+7581-EBBOU,60,One year,70.15,4224.7,DSL,Credit card (automatic),Yes,No,5.2250724,Low Risk,220.7436348903924,Low Priority
+8909-BOLNL,3,One year,21.2,52.05,No,Mailed check,No internet service,No internet service,5.069857,Low Risk,2.638860615715384,Low Priority
+3489-VSFRD,56,One year,60.25,3282.75,DSL,Credit card (automatic),Yes,Yes,5.0601287,Low Risk,166.11138040199876,Low Priority
+0536-ACXIP,72,Two year,109.55,8165.1,Fiber optic,Electronic check,No,Yes,5.0175233,Low Risk,409.6858086481691,Low Priority
+6519-ZHPXP,72,Two year,108.3,7679.65,Fiber optic,Bank transfer (automatic),Yes,Yes,5.008749,Low Risk,384.6543863404542,Low Priority
+2926-JEJJC,8,One year,20.2,140.95,No,Bank transfer (automatic),No internet service,No internet service,5.0026407,Low Risk,7.051221869699656,Low Priority
+9746-UGFAC,22,One year,20.85,450.65,No,Bank transfer (automatic),No internet service,No internet service,4.913203,Low Risk,22.141347846761345,Low Priority
+1036-GUDCL,60,Month-to-month,79.05,4663.4,DSL,Credit card (automatic),Yes,Yes,4.903557,Low Risk,228.6724668331444,Low Priority
+5753-QQWPW,28,One year,59.9,1654.7,DSL,Electronic check,Yes,Yes,4.8938766,Low Risk,80.97897630184889,Low Priority
+4751-ERMAN,72,Two year,75.4,5480.25,DSL,Bank transfer (automatic),No,No,4.892892,Low Risk,268.14271481428295,Low Priority
+7997-EASSD,63,One year,81.2,4965.1,Fiber optic,Credit card (automatic),Yes,No,4.806108,Low Risk,238.62806968316437,Low Priority
+0106-UGRDO,69,Two year,116.0,8182.85,Fiber optic,Electronic check,Yes,Yes,4.78166,Low Risk,391.2760706333444,Low Priority
+6013-BHCAW,61,Two year,81.0,4976.15,DSL,Bank transfer (automatic),Yes,No,4.691708,Low Risk,233.46643201708793,Low Priority
+5271-YNWVR,68,Two year,113.15,7856.0,Fiber optic,Electronic check,Yes,Yes,4.683463,Low Risk,367.932874917984,Low Priority
+4521-WFJAI,56,Two year,25.95,1444.05,No,Bank transfer (automatic),No internet service,No internet service,4.660469,Low Risk,67.2995014546439,Low Priority
+5468-BPMMO,46,Month-to-month,19.6,851.2,No,Electronic check,No internet service,No internet service,4.626391,Low Risk,39.3798408985138,Low Priority
+4359-INNWN,17,One year,20.05,337.9,No,Credit card (automatic),No internet service,No internet service,4.6246386,Low Risk,15.626654189079998,Low Priority
+9220-ZNKJI,55,Two year,88.8,4805.3,Fiber optic,Credit card (automatic),Yes,No,4.6170125,Low Risk,221.86130957566203,Low Priority
+1122-YJBCS,69,One year,53.65,3804.4,DSL,Credit card (automatic),No,Yes,4.5861983,Low Risk,174.47732359468938,Low Priority
+0979-MOZQI,62,Two year,39.0,2337.45,DSL,Bank transfer (automatic),Yes,No,4.5673676,Low Risk,106.75993358083069,Low Priority
+6814-ZPWFQ,51,One year,25.0,1260.7,No,Bank transfer (automatic),No internet service,No internet service,4.5599036,Low Risk,57.486704582720996,Low Priority
+3750-YHRYO,7,One year,20.65,150.0,No,Mailed check,No internet service,No internet service,4.549951,Low Risk,6.824926659464836,Low Priority
+7762-ONLJY,6,One year,19.7,94.45,No,Mailed check,No internet service,No internet service,4.5270414,Low Risk,4.275790522992611,Low Priority
+4541-RMRLG,7,Month-to-month,19.25,112.3,No,Electronic check,No internet service,No internet service,4.510985,Low Risk,5.0658360902220005,Low Priority
+6388-TABGU,62,One year,56.15,3487.95,DSL,Bank transfer (automatic),No,Yes,4.504709,Low Risk,157.12199567332863,Low Priority
+0181-RITDD,62,Two year,108.15,6825.65,Fiber optic,Mailed check,Yes,Yes,4.413018,Low Risk,301.2171887565404,Low Priority
+2967-MXRAV,1,One year,18.8,18.8,No,Mailed check,No internet service,No internet service,4.323313,Low Risk,0.8127829164266587,Low Priority
+5505-OVWQW,17,One year,20.15,353.65,No,Mailed check,No internet service,No internet service,4.319851,Low Risk,15.277153416723012,Low Priority
+9530-GRMJG,70,Two year,84.1,5979.7,DSL,Electronic check,Yes,No,4.2854795,Low Risk,256.25883018933234,Low Priority
+1929-ZCBHE,47,One year,40.3,1794.8,DSL,Electronic check,Yes,Yes,4.2621217,Low Risk,76.49656147062778,Low Priority
+8591-TKMZH,59,Two year,111.1,6555.2,Fiber optic,Mailed check,Yes,Yes,4.207969,Low Risk,275.8407894194126,Low Priority
+3530-VWVGU,22,Month-to-month,19.9,400.3,No,Mailed check,No internet service,No internet service,4.204897,Low Risk,16.83220204040408,Low Priority
+9926-PJHDQ,72,Two year,76.8,5468.45,DSL,Bank transfer (automatic),No,No,4.139396,Low Risk,226.36081017237157,Low Priority
+2885-HIJDH,69,Two year,86.9,6194.1,DSL,Bank transfer (automatic),Yes,Yes,4.125505,Low Risk,255.53790153488518,Low Priority
+7560-QJAVJ,70,Two year,79.6,5589.45,DSL,Bank transfer (automatic),Yes,Yes,4.111657,Low Risk,229.81902848817407,Low Priority
+4946-EDSEW,11,Month-to-month,19.25,180.3,No,Mailed check,No internet service,No internet service,4.10954,Low Risk,7.409500325471163,Low Priority
+5161-XEUVX,37,Two year,94.3,3460.95,Fiber optic,Mailed check,Yes,No,4.080035,Low Risk,141.20797704141586,Low Priority
+4560-WQAQW,59,One year,68.7,4070.95,DSL,Bank transfer (automatic),Yes,Yes,4.0647635,Low Risk,165.47449824828655,Low Priority
+8780-RSYYU,25,Month-to-month,19.2,532.1,No,Credit card (automatic),No internet service,No internet service,4.0156603,Low Risk,21.367328381538393,Low Priority
+1545-JFUML,71,Two year,99.0,6994.6,Fiber optic,Electronic check,No,Yes,4.015017,Low Risk,280.8343740679324,Low Priority
+5519-TEEUH,33,One year,20.15,682.15,No,Mailed check,No internet service,No internet service,3.9629917,Low Risk,27.033548285253346,Low Priority
+8457-XIGKN,20,Month-to-month,19.6,356.15,No,Credit card (automatic),No internet service,No internet service,3.9565072,Low Risk,14.091100201755761,Low Priority
+1131-ALZWV,24,One year,24.6,605.25,No,Bank transfer (automatic),No internet service,No internet service,3.7934682,Low Risk,22.959967045113444,Low Priority
+5025-GOOKI,20,Month-to-month,18.9,347.65,No,Credit card (automatic),No internet service,No internet service,3.7851756,Low Risk,13.159162478335201,Low Priority
+0868-VJRDR,64,Two year,104.05,6605.55,Fiber optic,Credit card (automatic),Yes,Yes,3.7398913,Low Risk,247.0403832446784,Low Priority
+7641-TQFHN,39,Two year,100.55,3895.35,Fiber optic,Mailed check,Yes,No,3.7303581,Low Risk,145.31050749644638,Low Priority
+7492-TAFJD,7,Two year,38.55,280.0,DSL,Mailed check,No,Yes,3.7024443,Low Risk,10.366843789815903,Low Priority
+6288-CHQJB,54,Two year,69.95,3871.85,DSL,Bank transfer (automatic),Yes,Yes,3.6661558,Low Risk,141.94805277399718,Low Priority
+8573-JGCZW,17,One year,19.65,351.55,No,Bank transfer (automatic),No internet service,No internet service,3.6042013,Low Risk,12.670569415017964,Low Priority
+6681-ZSEXG,56,Two year,59.5,3389.25,DSL,Credit card (automatic),No,No,3.4713545,Low Risk,117.65287883765996,Low Priority
+8345-MVDYC,45,Two year,81.65,3618.7,DSL,Bank transfer (automatic),Yes,Yes,3.4214013,Low Risk,123.81024639979005,Low Priority
+0230-UBYPQ,63,One year,36.1,2298.9,DSL,Bank transfer (automatic),Yes,Yes,3.4177713,Low Risk,78.57114463672042,Low Priority
+9108-EQPNQ,10,Two year,26.1,225.55,No,Credit card (automatic),No internet service,No internet service,3.3991172,Low Risk,7.666709049791098,Low Priority
+6374-NTQLP,72,Two year,104.1,7447.7,Fiber optic,Credit card (automatic),Yes,Yes,3.3973978,Low Risk,253.0279882773757,Low Priority
+4137-JOPHL,50,Two year,89.7,4304.5,Fiber optic,Bank transfer (automatic),Yes,No,3.3782244,Low Risk,145.41566812992096,Low Priority
+0513-RBGPE,37,Two year,62.8,2278.75,DSL,Credit card (automatic),Yes,Yes,3.3666265,Low Risk,76.71699969563633,Low Priority
+2245-ADZFJ,31,Two year,80.55,2471.6,DSL,Bank transfer (automatic),Yes,No,3.3606443,Low Risk,83.06168588846921,Low Priority
+1729-VLAZJ,10,One year,40.25,411.45,DSL,Mailed check,Yes,Yes,3.343118,Low Risk,13.75525893755257,Low Priority
+8590-YFFQO,70,Two year,64.95,4523.25,DSL,Credit card (automatic),Yes,Yes,3.309032,Low Risk,149.67578760813922,Low Priority
+1568-BEKZM,70,Two year,90.05,6333.4,DSL,Credit card (automatic),Yes,Yes,3.3063066,Low Risk,209.40161752179264,Low Priority
+1776-SPBWV,34,One year,20.1,682.1,No,Bank transfer (automatic),No internet service,No internet service,3.2399719,Low Risk,22.099847455695272,Low Priority
+9483-GCPWE,9,One year,20.1,190.25,No,Mailed check,No internet service,No internet service,3.1698472,Low Risk,6.0306344497948885,Low Priority
+6461-PPAXN,35,One year,54.95,1916.0,DSL,Bank transfer (automatic),Yes,Yes,3.161725,Low Risk,60.57865156233311,Low Priority
+2907-ILJBN,11,One year,20.6,233.9,No,Mailed check,No internet service,No internet service,3.1151824,Low Risk,7.286411563307047,Low Priority
+1023-BQXZE,57,Two year,74.35,4317.35,DSL,Bank transfer (automatic),No,Yes,3.0798378,Low Risk,132.96737496657298,Low Priority
+8690-UPCZI,29,One year,69.05,1958.45,DSL,Bank transfer (automatic),Yes,Yes,3.0456574,Low Risk,59.64767859140411,Low Priority
+4737-HOBAX,63,Two year,79.8,5034.05,DSL,Credit card (automatic),Yes,No,3.0056303,Low Risk,151.30493396474048,Low Priority
+7114-AEOZE,60,Two year,19.85,1128.1,No,Bank transfer (automatic),No internet service,No internet service,2.956469,Low Risk,33.351926613971585,Low Priority
+5619-XZZKR,4,One year,19.95,68.2,No,Mailed check,No internet service,No internet service,2.9546084,Low Risk,2.0150429207831624,Low Priority
+8241-JUIQO,61,One year,19.45,1336.35,No,Bank transfer (automatic),No internet service,No internet service,2.9407542,Low Risk,39.29876901749521,Low Priority
+2075-PUEPR,55,Two year,19.35,1153.25,No,Bank transfer (automatic),No internet service,No internet service,2.910542,Low Risk,33.5658247997053,Low Priority
+5457-COLHT,69,Two year,80.65,5542.55,DSL,Bank transfer (automatic),Yes,Yes,2.9024165,Low Risk,160.8678864063695,Low Priority
+7279-NMVJC,17,One year,19.9,323.15,No,Bank transfer (automatic),No internet service,No internet service,2.840357,Low Risk,9.178613928426056,Low Priority
+9755-JHNMN,49,Two year,67.4,3306.85,DSL,Bank transfer (automatic),Yes,Yes,2.8402572,Low Risk,93.92304686410353,Low Priority
+0057-QBUQH,43,Two year,25.1,1070.15,No,Electronic check,No internet service,No internet service,2.8368838,Low Risk,30.358912126347427,Low Priority
+3088-FVYWK,53,Two year,25.55,1336.1,No,Credit card (automatic),No internet service,No internet service,2.819721,Low Risk,37.67429265789687,Low Priority
+5297-MDOIR,63,One year,81.15,5224.5,Fiber optic,Credit card (automatic),No,Yes,2.8195896,Low Risk,147.30945475772023,Low Priority
+3982-JGSFD,36,One year,20.35,695.85,No,Credit card (automatic),No internet service,No internet service,2.7906923,Low Risk,19.419032107573003,Low Priority
+0164-APGRB,72,Two year,114.9,8496.7,Fiber optic,Electronic check,Yes,Yes,2.7801867,Low Risk,236.22411239352078,Low Priority
+1952-DVVSW,10,One year,20.1,184.4,No,Mailed check,No internet service,No internet service,2.7715592,Low Risk,5.1107551120221615,Low Priority
+1525-LNLOJ,66,Two year,63.3,4189.7,DSL,Bank transfer (automatic),No,No,2.707535,Low Risk,113.43759508728981,Low Priority
+1716-LSAMB,45,Two year,54.65,2553.7,DSL,Bank transfer (automatic),Yes,Yes,2.705664,Low Risk,69.09454160388559,Low Priority
+2272-WUSPA,72,Two year,110.75,7751.7,Fiber optic,Electronic check,No,Yes,2.7003348,Low Risk,209.32185171246527,Low Priority
+6203-HBZPA,52,Two year,63.9,3334.95,DSL,Credit card (automatic),Yes,Yes,2.6751673,Low Risk,89.21549136796966,Low Priority
+2263-SFSQZ,51,Two year,24.95,1222.25,No,Mailed check,No internet service,No internet service,2.6677258,Low Risk,32.60627897270024,Low Priority
+2632-TACXW,62,Two year,23.65,1416.75,No,Bank transfer (automatic),No internet service,No internet service,2.614348,Low Risk,37.0387754207477,Low Priority
+7996-BPXHY,13,Two year,25.0,332.5,No,Bank transfer (automatic),No internet service,No internet service,2.6047497,Low Risk,8.66079246159643,Low Priority
+3396-DKDEL,70,Two year,115.15,8250.0,Fiber optic,Credit card (automatic),Yes,Yes,2.5875325,Low Risk,213.47142616286874,Low Priority
+7338-ERIVA,39,One year,45.05,1790.6,DSL,Bank transfer (automatic),Yes,Yes,2.5832725,Low Risk,46.25607528313994,Low Priority
+4702-HDRKD,67,One year,49.35,3321.35,DSL,Bank transfer (automatic),Yes,Yes,2.5811362,Low Risk,85.72857053857297,Low Priority
+5313-FPXWG,51,One year,24.6,1266.4,No,Bank transfer (automatic),No internet service,No internet service,2.578536,Low Risk,32.654580518603325,Low Priority
+0839-JTCUD,66,Two year,89.9,5958.85,DSL,Credit card (automatic),Yes,Yes,2.572491,Low Risk,153.29088114313782,Low Priority
+8779-YIQQA,21,One year,19.8,350.1,No,Mailed check,No internet service,No internet service,2.565712,Low Risk,8.982557442225517,Low Priority
+6080-LNESI,51,Two year,24.75,1234.6,No,Mailed check,No internet service,No internet service,2.561667,Low Risk,31.626340815797445,Low Priority
+5318-YKDPV,43,Two year,79.15,3566.6,DSL,Credit card (automatic),Yes,Yes,2.5516324,Low Risk,91.00652026981115,Low Priority
+0040-HALCW,54,Two year,20.4,1090.6,No,Credit card (automatic),No internet service,No internet service,2.5323083,Low Risk,27.617355000600217,Low Priority
+5181-OABFK,56,Two year,61.3,3346.8,DSL,Credit card (automatic),No,Yes,2.5072289,Low Risk,83.91193270236255,Low Priority
+0866-QLSIR,34,One year,64.4,2088.75,DSL,Mailed check,Yes,Yes,2.4928875,Low Risk,52.07018821500242,Low Priority
+5329-KRDTM,72,Two year,77.35,5396.25,DSL,Credit card (automatic),Yes,No,2.4864933,Low Risk,134.17740217410028,Low Priority
+6434-TTGJP,10,Two year,53.7,521.0,DSL,Credit card (automatic),Yes,Yes,2.4768703,Low Risk,12.904494099318981,Low Priority
+4709-LKHYG,29,One year,20.0,540.05,No,Electronic check,No internet service,No internet service,2.4636967,Low Risk,13.305194086488335,Low Priority
+5751-USDBL,46,Two year,81.0,3846.35,DSL,Mailed check,Yes,Yes,2.4214334,Low Risk,93.13680660389363,Low Priority
+1088-AUUZZ,56,Two year,75.85,4261.2,DSL,Credit card (automatic),Yes,Yes,2.4089746,Low Risk,102.65122641026973,Low Priority
+2346-LOCWC,58,Two year,20.5,1191.4,No,Credit card (automatic),No internet service,No internet service,2.3896096,Low Risk,28.46980910114944,Low Priority
+0263-FJTQO,50,Two year,70.5,3486.65,DSL,Credit card (automatic),Yes,Yes,2.3792725,Low Risk,82.95690481793136,Low Priority
+4785-FCIFB,61,Two year,24.4,1417.9,No,Mailed check,No internet service,No internet service,2.379155,Low Risk,33.73403835836798,Low Priority
+4648-YPBTM,53,Two year,73.9,3958.25,DSL,Bank transfer (automatic),Yes,No,2.3621743,Low Risk,93.50076638674363,Low Priority
+4500-HKANN,23,Two year,59.7,1414.2,DSL,Mailed check,Yes,No,2.3615859,Low Risk,33.397548432648186,Low Priority
+2150-OEGBV,27,One year,20.1,562.6,No,Bank transfer (automatic),No internet service,No internet service,2.3438356,Low Risk,13.186419545114042,Low Priority
+8711-LOBKY,59,Two year,19.85,1188.25,No,Mailed check,No internet service,No internet service,2.3427367,Low Risk,27.83756908774376,Low Priority
+9412-ARGBX,48,Two year,95.5,4627.85,Fiber optic,Mailed check,Yes,No,2.3347816,Low Risk,108.05019657574594,Low Priority
+2088-IEBAU,68,Two year,88.15,6148.45,DSL,Electronic check,Yes,Yes,2.3334985,Low Risk,143.4739922056906,Low Priority
+6134-KWTBV,62,Two year,23.4,1429.65,No,Bank transfer (automatic),No internet service,No internet service,2.3040097,Low Risk,32.93927497174591,Low Priority
+5266-PFRQK,52,One year,20.85,1071.6,No,Credit card (automatic),No internet service,No internet service,2.299347,Low Risk,24.639802034944292,Low Priority
+3125-RAHBV,22,One year,20.3,467.15,No,Credit card (automatic),No internet service,No internet service,2.2859125,Low Risk,10.678639994654803,Low Priority
+9648-BCHKM,18,Two year,24.65,471.35,No,Credit card (automatic),No internet service,No internet service,2.2841663,Low Risk,10.76641834108159,Low Priority
+9070-BCKQP,72,Two year,110.15,7881.2,Fiber optic,Credit card (automatic),Yes,Yes,2.27849,Low Risk,179.5723532512784,Low Priority
+7359-WWYJV,72,Two year,114.45,8375.05,Fiber optic,Credit card (automatic),Yes,Yes,2.2718954,Low Risk,190.27238266039637,Low Priority
+0909-SELIE,61,Two year,80.8,4860.85,DSL,Bank transfer (automatic),Yes,Yes,2.2207963,Low Risk,107.94958283845337,Low Priority
+4940-KHCWD,60,Two year,37.7,2288.7,DSL,Bank transfer (automatic),Yes,Yes,2.21558,Low Risk,50.707977106422184,Low Priority
+8314-HTWVE,7,Two year,19.85,144.15,No,Mailed check,No internet service,No internet service,2.189864,Low Risk,3.1566887335851788,Low Priority
+0298-XACET,52,Two year,50.2,2554.0,DSL,Mailed check,Yes,No,2.1801531,Low Risk,55.681110978126526,Low Priority
+4717-GHADL,50,Two year,79.6,4024.2,DSL,Mailed check,Yes,No,2.1734445,Low Risk,87.46375125311314,Low Priority
+0056-EPFBG,20,Two year,39.4,825.4,DSL,Credit card (automatic),Yes,Yes,2.1172159,Low Risk,17.475499559938907,Low Priority
+8338-QIUNR,72,Two year,66.5,4811.6,DSL,Credit card (automatic),Yes,Yes,2.1112957,Low Risk,101.5870996028185,Low Priority
+3795-GWTRD,63,Two year,75.55,4707.85,DSL,Credit card (automatic),Yes,Yes,2.110846,Low Risk,99.37546191047878,Low Priority
+2525-GVKQU,60,Two year,20.6,1093.0,No,Mailed check,No internet service,No internet service,2.1090531,Low Risk,23.051951171830297,Low Priority
+5666-MBJPT,65,Two year,25.1,1725.0,No,Bank transfer (automatic),No internet service,No internet service,2.1041594,Low Risk,36.29675041884184,Low Priority
+2696-RZVZW,68,Two year,25.05,1629.2,No,Credit card (automatic),No internet service,No internet service,2.0899274,Low Risk,34.04909631311894,Low Priority
+7337-CINUD,8,Two year,19.5,159.35,No,Bank transfer (automatic),No internet service,No internet service,2.050339,Low Risk,3.2672152889892456,Low Priority
+2824-DXNKN,72,Two year,71.45,5025.85,DSL,Bank transfer (automatic),No,Yes,2.0292282,Low Risk,101.98596601486207,Low Priority
+1090-ESELR,72,Two year,105.5,7611.55,Fiber optic,Bank transfer (automatic),Yes,Yes,2.0191834,Low Risk,153.69114933982493,Low Priority
+5863-OOKCL,10,Month-to-month,18.85,163.2,No,Mailed check,No internet service,No internet service,2.0180843,Low Risk,3.2935137033462523,Low Priority
+6418-HNFED,51,Two year,83.25,4089.45,DSL,Credit card (automatic),Yes,Yes,2.009416,Low Risk,82.17407019054517,Low Priority
+2616-FLVQC,64,Two year,19.55,1240.15,No,Mailed check,No internet service,No internet service,2.0061011,Low Risk,24.878662165161224,Low Priority
+1830-IPXVJ,61,Two year,19.75,1311.6,No,Credit card (automatic),No internet service,No internet service,1.9836767,Low Risk,26.017903131991623,Low Priority
+3580-GICBM,61,Two year,24.2,1445.2,No,Mailed check,No internet service,No internet service,1.9794686,Low Risk,28.607279869169,Low Priority
+6374-AFWOX,46,Two year,65.65,3047.15,DSL,Mailed check,Yes,Yes,1.9414246,Low Risk,59.15811994969845,Low Priority
+4121-AGSIN,58,One year,24.5,1497.9,No,Credit card (automatic),No internet service,No internet service,1.9112895,Low Risk,28.629204389266672,Low Priority
+9674-EHPPG,46,Two year,40.4,1842.7,DSL,Credit card (automatic),Yes,Yes,1.9032408,Low Risk,35.071017396077515,Low Priority
+9534-NSXEM,26,One year,20.65,595.5,No,Credit card (automatic),No internet service,No internet service,1.8987867,Low Risk,11.307274273596704,Low Priority
+1494-EJZDW,10,Two year,20.15,220.8,No,Mailed check,No internet service,No internet service,1.8831456,Low Risk,4.157985502481461,Low Priority
+0625-AFOHS,29,Two year,20.2,558.8,No,Mailed check,No internet service,No internet service,1.8732734,Low Risk,10.467851772904396,Low Priority
+9030-QGZNL,8,Two year,20.85,161.65,No,Mailed check,No internet service,No internet service,1.873103,Low Risk,3.0278709516860545,Low Priority
+7401-JIXNM,54,Two year,91.3,4965.0,DSL,Credit card (automatic),Yes,Yes,1.8676261,Low Risk,92.7276333142072,Low Priority
+4779-ZGICK,48,Two year,23.55,1173.35,No,Mailed check,No internet service,No internet service,1.8664379,Low Risk,21.899848715774713,Low Priority
+7649-PHJVR,11,One year,19.5,226.8,No,Mailed check,No internet service,No internet service,1.8368174,Low Risk,4.165901724994183,Low Priority
+7375-WMVMT,71,Two year,95.5,6707.15,Fiber optic,Credit card (automatic),Yes,No,1.8367635,Low Risk,123.194483668264,Low Priority
+1741-WTPON,56,Two year,115.85,6567.9,Fiber optic,Mailed check,Yes,Yes,1.8301821,Low Risk,120.20452609006315,Low Priority
+0732-OCQOC,52,Two year,25.05,1270.25,No,Bank transfer (automatic),No internet service,No internet service,1.8078657,Low Risk,22.96441388549283,Low Priority
+0420-TXVSG,66,Two year,66.1,4428.45,DSL,Credit card (automatic),No,Yes,1.7705314,Low Risk,78.40709716938436,Low Priority
+3161-ONRWK,60,One year,65.85,3928.3,DSL,Bank transfer (automatic),Yes,Yes,1.750452,Low Risk,68.76300872191787,Low Priority
+8292-ITGYJ,45,Two year,24.65,1138.8,No,Bank transfer (automatic),No internet service,No internet service,1.7454183,Low Risk,19.876823291927575,Low Priority
+9298-WGMRW,72,Two year,115.5,8312.75,Fiber optic,Bank transfer (automatic),Yes,Yes,1.7353485,Low Risk,144.2551775048487,Low Priority
+5893-PYOLZ,56,Two year,81.8,4534.45,DSL,Credit card (automatic),Yes,No,1.7174336,Low Risk,77.87616423228755,Low Priority
+8430-TWCBX,49,One year,20.7,1032.05,No,Credit card (automatic),No internet service,No internet service,1.7108212,Low Risk,17.656529465783386,Low Priority
+9867-XOBQA,21,Two year,53.15,1183.2,DSL,Mailed check,Yes,Yes,1.6989251,Low Risk,20.101682491600513,Low Priority
+2954-PIBKO,69,Two year,64.15,4254.1,DSL,Credit card (automatic),Yes,Yes,1.6905417,Low Risk,71.91733729224653,Low Priority
+1063-DHQJF,69,Two year,92.15,6480.9,Fiber optic,Mailed check,Yes,No,1.6479678,Low Risk,106.80314807966352,Low Priority
+6064-ZATLR,27,Two year,52.85,1498.65,DSL,Bank transfer (automatic),No,Yes,1.6456734,Low Risk,24.662884992174806,Low Priority
+6527-PZFPV,24,One year,20.8,469.65,No,Credit card (automatic),No internet service,No internet service,1.644472,Low Risk,7.723262901976704,Low Priority
+8347-GDTMP,64,Two year,19.45,1225.65,No,Credit card (automatic),No internet service,No internet service,1.6438375,Low Risk,20.14769345568493,Low Priority
+9968-FFVVH,63,One year,68.8,4111.35,DSL,Bank transfer (automatic),Yes,Yes,1.624653,Low Risk,66.79516822127626,Low Priority
+8809-XKHMD,72,Two year,100.55,7325.1,Fiber optic,Bank transfer (automatic),Yes,Yes,1.6226033,Low Risk,118.85731248836964,Low Priority
+4335-UPJSI,24,Two year,19.75,498.1,No,Mailed check,No internet service,No internet service,1.6014872,Low Risk,7.977007802389562,Low Priority
+8024-XNAFQ,72,Two year,107.4,7748.75,Fiber optic,Bank transfer (automatic),Yes,Yes,1.5841093,Low Risk,122.7486687200144,Low Priority
+6625-FLENO,58,Two year,20.75,1185.95,No,Mailed check,No internet service,No internet service,1.5612679,Low Risk,18.51585618844256,Low Priority
+0463-TXOAK,52,Two year,25.6,1334.5,No,Credit card (automatic),No internet service,No internet service,1.5591593,Low Risk,20.806980228517205,Low Priority
+2266-FUBDZ,15,Two year,19.35,278.85,No,Mailed check,No internet service,No internet service,1.5498089,Low Risk,4.321642026398331,Low Priority
+0608-JDVEC,50,Two year,19.8,1013.2,No,Electronic check,No internet service,No internet service,1.5349636,Low Risk,15.55225104764104,Low Priority
+7216-KAOID,41,One year,19.5,798.2,No,Bank transfer (automatic),No internet service,No internet service,1.5207992,Low Risk,12.139019162766637,Low Priority
+5803-NQJZO,72,Two year,67.8,4804.65,DSL,Bank transfer (automatic),Yes,Yes,1.473944,Low Risk,70.81784954429604,Low Priority
+3400-ESFUW,55,Two year,57.55,3046.4,DSL,Bank transfer (automatic),Yes,Yes,1.4674883,Low Risk,44.7055645942688,Low Priority
+1459-QNFQT,70,Two year,59.5,4144.8,DSL,Bank transfer (automatic),Yes,Yes,1.4546375,Low Risk,60.29181809127331,Low Priority
+6370-ZVHDV,61,Two year,25.3,1554.9,No,Bank transfer (automatic),No internet service,No internet service,1.4462124,Low Risk,22.487157472595573,Low Priority
+5702-KVQRD,71,Two year,82.55,5832.65,DSL,Electronic check,Yes,Yes,1.4443276,Low Risk,84.24257095423526,Low Priority
+0017-IUDMW,72,Two year,116.8,8456.75,Fiber optic,Credit card (automatic),Yes,Yes,1.4427307,Low Risk,122.00812899530865,Low Priority
+2812-REYAT,49,One year,20.05,923.1,No,Bank transfer (automatic),No internet service,No internet service,1.4353104,Low Risk,13.249350243061782,Low Priority
+1862-QRWPE,48,Two year,20.65,1057.0,No,Bank transfer (automatic),No internet service,No internet service,1.4136461,Low Risk,14.9422388644889,Low Priority
+2788-CJQAQ,13,One year,19.45,270.2,No,Mailed check,No internet service,No internet service,1.4103956,Low Risk,3.8108890518546104,Low Priority
+5924-SNGKP,41,One year,20.25,865.0,No,Credit card (automatic),No internet service,No internet service,1.3999348,Low Risk,12.109435652382672,Low Priority
+3831-YCPUO,72,Two year,109.5,7854.9,Fiber optic,Credit card (automatic),Yes,Yes,1.3992108,Low Risk,109.90661230757831,Low Priority
+3948-KXDUF,66,Two year,68.75,4447.55,DSL,Bank transfer (automatic),Yes,Yes,1.3744731,Low Risk,61.130376145802444,Low Priority
+5324-KTGCG,71,One year,20.85,1539.75,No,Electronic check,No internet service,No internet service,1.3720701,Low Risk,21.126448621507734,Low Priority
+3978-YNKDD,19,Two year,20.85,467.5,No,Credit card (automatic),No internet service,No internet service,1.3603306,Low Risk,6.359545295126736,Low Priority
+7632-YUTXB,25,One year,20.05,520.1,No,Mailed check,No internet service,No internet service,1.3571913,Low Risk,7.058752135466785,Low Priority
+3027-YNWZU,64,Two year,25.0,1584.8,No,Credit card (automatic),No internet service,No internet service,1.350518,Low Risk,21.403008368611335,Low Priority
+9637-CDTKZ,72,Two year,114.1,8086.4,Fiber optic,Credit card (automatic),Yes,Yes,1.3282033,Low Risk,107.4038366228342,Low Priority
+2892-GESUL,18,Two year,19.35,309.25,No,Mailed check,No internet service,No internet service,1.3270116,Low Risk,4.103783212136477,Low Priority
+6848-HJTXY,64,Two year,19.45,1208.6,No,Credit card (automatic),No internet service,No internet service,1.3181864,Low Risk,15.931601173616945,Low Priority
+8219-VYBVI,39,Two year,25.0,1004.35,No,Mailed check,No internet service,No internet service,1.31788,Low Risk,13.236128013720736,Low Priority
+5170-PTRKA,49,One year,35.8,1782.0,DSL,Credit card (automatic),Yes,Yes,1.2986017,Low Risk,23.141082990914583,Low Priority
+5495-GPSRW,20,Two year,19.7,419.4,No,Mailed check,No internet service,No internet service,1.2946041,Low Risk,5.429569330997765,Low Priority
+3429-IFLEM,71,Two year,77.35,5550.1,DSL,Credit card (automatic),Yes,Yes,1.2935046,Low Risk,71.79079939611256,Low Priority
+2388-LAESQ,72,Two year,114.85,8317.95,Fiber optic,Bank transfer (automatic),Yes,Yes,1.2781876,Low Risk,106.31900663324633,Low Priority
+2320-TZRRH,20,One year,19.5,403.15,No,Mailed check,No internet service,No internet service,1.2629158,Low Risk,5.091445368155837,Low Priority
+5845-BZZIB,35,Two year,20.1,655.3,No,Mailed check,No internet service,No internet service,1.260269,Low Risk,8.25854315496981,Low Priority
+8763-KIAFH,27,One year,20.55,583.3,No,Mailed check,No internet service,No internet service,1.2553247,Low Risk,7.3223093385808165,Low Priority
+6223-DHJGV,42,One year,20.65,958.1,No,Mailed check,No internet service,No internet service,1.2287568,Low Risk,11.772719189152122,Low Priority
+9073-ZZIAY,62,Two year,86.1,5215.25,DSL,Electronic check,Yes,Yes,1.2237015,Low Risk,63.819093419006094,Low Priority
+9548-LERKT,24,Two year,19.75,483.15,No,Mailed check,No internet service,No internet service,1.2124624,Low Risk,5.8580121355131265,Low Priority
+5063-IUOKK,13,Two year,19.75,265.75,No,Mailed check,No internet service,No internet service,1.2051214,Low Risk,3.2026099963113666,Low Priority
+8028-PNXHQ,62,Two year,24.25,1424.6,No,Bank transfer (automatic),No internet service,No internet service,1.200278,Low Risk,17.09916053358465,Low Priority
+3913-FCUUW,72,Two year,70.45,5165.7,DSL,Bank transfer (automatic),Yes,Yes,1.1818398,Low Risk,61.05029746480286,Low Priority
+5469-NUJUR,19,Two year,19.95,373.5,No,Mailed check,No internet service,No internet service,1.1794097,Low Risk,4.405095499008894,Low Priority
+3115-CZMZD,0,Two year,20.25,0.0,No,Mailed check,No internet service,No internet service,1.1766032,Low Risk,0.0,Low Priority
+8390-FESFV,62,Two year,84.5,5193.2,DSL,Bank transfer (automatic),Yes,No,1.1754744,Low Risk,61.04473526775837,Low Priority
+7061-OVMIM,30,One year,19.55,608.5,No,Bank transfer (automatic),No internet service,No internet service,1.1635735,Low Risk,7.080344564747065,Low Priority
+9919-FZDED,72,Two year,84.1,5981.65,DSL,Credit card (automatic),No,Yes,1.1576436,Low Risk,69.24618558022193,Low Priority
+5774-QPLTF,50,One year,20.35,938.95,No,Mailed check,No internet service,No internet service,1.1511512,Low Risk,10.808734286949038,Low Priority
+6164-HAQTX,71,Two year,53.95,3888.65,DSL,Bank transfer (automatic),Yes,Yes,1.1485426,Low Risk,44.66280448525213,Low Priority
+8207-VVMYB,70,Two year,26.0,2006.95,No,Bank transfer (automatic),No internet service,No internet service,1.1437597,Low Risk,22.95468667303212,Low Priority
+2335-GSODA,23,Two year,40.1,857.75,DSL,Mailed check,Yes,Yes,1.1312591,Low Risk,9.703374854754657,Low Priority
+9866-OCCKE,72,Two year,109.75,8075.35,Fiber optic,Mailed check,Yes,Yes,1.1158216,Low Risk,90.10649806824513,Low Priority
+0019-EFAEP,72,Two year,101.3,7261.25,Fiber optic,Bank transfer (automatic),No,Yes,1.1154128,Low Risk,80.99291367223486,Low Priority
+0052-YNYOT,67,One year,20.55,1343.4,No,Electronic check,No internet service,No internet service,1.1004553,Low Risk,14.783516737259925,Low Priority
+8015-IHCGW,72,Two year,115.5,8425.15,Fiber optic,Electronic check,Yes,Yes,1.1001278,Low Risk,92.68741494026035,Low Priority
+5917-RYRMG,32,One year,19.8,587.7,No,Credit card (automatic),No internet service,No internet service,1.0957959,Low Risk,6.439992567803711,Low Priority
+9372-TXXPS,60,Two year,59.85,3483.45,DSL,Bank transfer (automatic),Yes,Yes,1.0794059,Low Risk,37.60056612440385,Low Priority
+3865-ZFZIB,19,Two year,19.65,358.15,No,Mailed check,No internet service,No internet service,1.0650254,Low Risk,3.8143887516111135,Low Priority
+4376-KFVRS,72,Two year,114.05,8468.2,Fiber optic,Credit card (automatic),Yes,Yes,1.0486532,Low Risk,88.8020503051579,Low Priority
+3884-UEBXB,67,Two year,36.15,2434.45,DSL,Bank transfer (automatic),No,Yes,1.0412269,Low Risk,25.34814666174352,Low Priority
+6919-ELBGL,72,Two year,114.95,8196.4,Fiber optic,Bank transfer (automatic),Yes,Yes,1.0405967,Low Risk,85.29146801754833,Low Priority
+8590-OHDIW,38,One year,20.3,749.35,No,Mailed check,No internet service,No internet service,1.0153513,Low Risk,7.608535267598927,Low Priority
+4735-BJKOU,40,Two year,20.15,804.85,No,Mailed check,No internet service,No internet service,1.0137922,Low Risk,8.159505877178162,Low Priority
+9824-QCJPK,36,One year,20.0,666.75,No,Mailed check,No internet service,No internet service,1.0093278,Low Risk,6.729692653287202,Low Priority
+1709-EJDOX,47,Two year,19.75,948.9,No,Mailed check,No internet service,No internet service,1.0047497,Low Risk,9.534069235716014,Low Priority
+9135-HSWOC,64,Two year,19.7,1274.05,No,Bank transfer (automatic),No internet service,No internet service,0.99799603,Low Risk,12.714968686038628,Low Priority
+6169-PPETC,35,Two year,20.5,759.35,No,Bank transfer (automatic),No internet service,No internet service,0.9957386,Low Risk,7.561141196358949,Low Priority
+2984-RGEYA,69,Two year,19.75,1375.4,No,Bank transfer (automatic),No internet service,No internet service,0.9922562,Low Risk,13.647492004558446,Low Priority
+3705-PSNGL,45,One year,20.4,930.45,No,Electronic check,No internet service,No internet service,0.9893055,Low Risk,9.20499309352599,Low Priority
+8915-NNTRC,72,Two year,107.7,7919.8,Fiber optic,Credit card (automatic),Yes,Yes,0.96984327,Low Risk,76.80964864548297,Low Priority
+6340-DACFT,50,Two year,20.55,1070.25,No,Credit card (automatic),No internet service,No internet service,0.9628167,Low Risk,10.304546134080738,Low Priority
+0121-SNYRK,50,One year,35.4,1748.9,DSL,Mailed check,Yes,Yes,0.9605305,Low Risk,16.798718385584653,Low Priority
+4825-FUREZ,42,Two year,20.25,835.5,No,Electronic check,No internet service,No internet service,0.957209,Low Risk,7.997480902355164,Low Priority
+4530-NDRKU,42,One year,19.05,761.85,No,Electronic check,No internet service,No internet service,0.9550149,Low Risk,7.275780727062375,Low Priority
+8619-IJNDK,71,Two year,64.05,4492.9,DSL,Credit card (automatic),Yes,Yes,0.9355921,Low Risk,42.03521880097687,Low Priority
+7717-BICXI,60,Two year,20.55,1205.05,No,Mailed check,No internet service,No internet service,0.92990154,Low Risk,11.205778780486435,Low Priority
+8173-RXAYP,24,Two year,19.7,452.55,No,Mailed check,No internet service,No internet service,0.905526,Low Risk,4.097957748966292,Low Priority
+6096-EGVTU,64,One year,24.9,1595.5,No,Mailed check,No internet service,No internet service,0.90466684,Low Risk,14.433959092013538,Low Priority
+8532-UEFWH,52,Two year,25.75,1345.85,No,Mailed check,No internet service,No internet service,0.8876534,Low Risk,11.946483524609356,Low Priority
+6283-GITPX,71,Two year,76.9,5522.7,DSL,Credit card (automatic),Yes,Yes,0.8834928,Low Risk,48.79265837967396,Low Priority
+8626-PTQGE,69,Two year,60.05,4176.7,DSL,Bank transfer (automatic),Yes,Yes,0.8610987,Low Risk,35.965509839262815,Low Priority
+8717-VCTXJ,42,One year,19.55,839.4,No,Mailed check,No internet service,No internet service,0.85969466,Low Risk,7.216276879794895,Low Priority
+6119-SPUDB,46,Two year,38.25,1755.35,DSL,Mailed check,Yes,Yes,0.8511702,Low Risk,14.94101540138945,Low Priority
+9067-SQTNS,44,One year,20.6,926.0,No,Bank transfer (automatic),No internet service,No internet service,0.8493395,Low Risk,7.864883391186595,Low Priority
+8181-YHCMF,68,Two year,60.3,4109.0,DSL,Credit card (automatic),Yes,No,0.8376294,Low Risk,34.41819128859788,Low Priority
+2987-BJXIK,70,Two year,84.7,5991.05,DSL,Mailed check,No,Yes,0.8325843,Low Risk,49.880542546790096,Low Priority
+7167-PCEYD,67,Two year,19.8,1311.3,No,Mailed check,No internet service,No internet service,0.8208843,Low Risk,10.764255757816136,Low Priority
+3836-FZSDJ,71,Two year,24.85,1901.0,No,Bank transfer (automatic),No internet service,No internet service,0.8195577,Low Risk,15.57979223690927,Low Priority
+7322-OCWHC,72,Two year,93.05,6735.05,Fiber optic,Bank transfer (automatic),Yes,Yes,0.8192868,Low Risk,55.179375434527174,Low Priority
+7998-WNZEM,71,Two year,80.6,5708.2,DSL,Bank transfer (automatic),Yes,Yes,0.8191372,Low Risk,46.75799117963761,Low Priority
+3563-SVYLG,68,Two year,62.65,4375.8,DSL,Credit card (automatic),Yes,Yes,0.8018401,Low Risk,35.086921071074904,Low Priority
+4955-VCWBI,43,One year,20.0,817.95,No,Mailed check,No internet service,No internet service,0.79981124,Low Risk,6.542056192271412,Low Priority
+9588-YRFHY,49,Two year,19.9,1022.6,No,Credit card (automatic),No internet service,No internet service,0.78494215,Low Risk,8.026818274706603,Low Priority
+1574-DYCWE,51,Two year,19.95,1028.75,No,Mailed check,No internet service,No internet service,0.7757214,Low Risk,7.9802337975706905,Low Priority
+3970-XGJDU,62,Two year,19.2,1123.65,No,Credit card (automatic),No internet service,No internet service,0.75685257,Low Risk,8.504373808507808,Low Priority
+3985-HOYPM,26,One year,19.4,525.55,No,Mailed check,No internet service,No internet service,0.75394875,Low Risk,3.9623776261229064,Low Priority
+5057-RKGLH,9,Two year,20.35,191.1,No,Mailed check,No internet service,No internet service,0.7476299,Low Risk,1.4287206632550806,Low Priority
+0048-PIHNL,49,One year,20.45,900.9,No,Bank transfer (automatic),No internet service,No internet service,0.74327767,Low Risk,6.696188351791352,Low Priority
+4012-YCFAI,60,Two year,61.35,3766.2,DSL,Mailed check,Yes,Yes,0.74138695,Low Risk,27.922116153314708,Low Priority
+7515-LODFU,69,Two year,20.3,1356.3,No,Credit card (automatic),No internet service,No internet service,0.72697943,Low Risk,9.860021766833961,Low Priority
+9286-BHDQG,72,Two year,45.25,3139.8,DSL,Credit card (automatic),Yes,Yes,0.7256004,Low Risk,22.782401447184384,Low Priority
+4962-CHQPW,29,One year,19.85,535.05,No,Mailed check,No internet service,No internet service,0.7235818,Low Risk,3.871524462033994,Low Priority
+2805-AUFQN,25,Two year,19.8,475.2,No,Credit card (automatic),No internet service,No internet service,0.7180535,Low Risk,3.412190343439579,Low Priority
+3717-FDJFU,5,Two year,20.45,106.9,No,Mailed check,No internet service,No internet service,0.7165482,Low Risk,0.7659900544211269,Low Priority
+3511-BFTJW,72,Two year,38.5,2763.0,DSL,Credit card (automatic),No,Yes,0.70493615,Low Risk,19.47738511674106,Low Priority
+3649-JPUGY,72,Two year,88.6,6201.95,DSL,Bank transfer (automatic),Yes,No,0.70263624,Low Risk,43.57714725011028,Low Priority
+1697-LYYYX,61,One year,19.1,1143.8,No,Credit card (automatic),No internet service,No internet service,0.6992804,Low Risk,7.998369085416197,Low Priority
+1705-GUHPV,63,Two year,24.2,1618.2,No,Mailed check,No internet service,No internet service,0.69411653,Low Risk,11.232193703670054,Low Priority
+1767-CJKBA,66,Two year,25.1,1697.7,No,Mailed check,No internet service,No internet service,0.6907101,Low Risk,11.7261858004611,Low Priority
+0559-CKHUS,29,Two year,19.55,521.8,No,Mailed check,No internet service,No internet service,0.6887423,Low Risk,3.59385725595057,Low Priority
+0164-XAIRP,24,Two year,19.55,470.2,No,Bank transfer (automatic),No internet service,No internet service,0.6868102,Low Risk,3.229381617810577,Low Priority
+6698-OXETB,11,Two year,20.4,231.45,No,Mailed check,No internet service,No internet service,0.68673223,Low Risk,1.589441709173843,Low Priority
+5380-XPJNZ,38,One year,20.05,678.2,No,Mailed check,No internet service,No internet service,0.65340537,Low Risk,4.4313950690440835,Low Priority
+1820-DJFPH,72,Two year,24.05,1709.15,No,Bank transfer (automatic),No internet service,No internet service,0.6437874,Low Risk,11.00329223338049,Low Priority
+4018-PPNDW,61,Two year,24.1,1551.6,No,Mailed check,No internet service,No internet service,0.6142585,Low Risk,9.530834998749196,Low Priority
+4312-KFRXN,72,Two year,25.4,1710.9,No,Mailed check,No internet service,No internet service,0.6126682,Low Risk,10.482140702661127,Low Priority
+9385-NXKDA,72,Two year,82.65,5919.35,DSL,Credit card (automatic),No,Yes,0.5966196,Low Risk,35.31600132575259,Low Priority
+8580-QVLOC,72,Two year,92.45,6440.25,DSL,Credit card (automatic),Yes,Yes,0.596134,Low Risk,38.392519424669445,Low Priority
+1555-HAPSU,71,Two year,23.9,1663.5,No,Credit card (automatic),No internet service,No internet service,0.594545,Low Risk,9.890256342245266,Low Priority
+9945-PSVIP,25,Two year,18.7,383.65,No,Mailed check,No internet service,No internet service,0.58871853,Low Risk,2.258618610957637,Low Priority
+9339-FIIJL,72,Two year,85.95,6151.9,DSL,Bank transfer (automatic),Yes,No,0.5853772,Low Risk,36.01182097196579,Low Priority
+0769-MURVM,72,Two year,65.7,4575.35,DSL,Bank transfer (automatic),Yes,Yes,0.579436,Low Risk,26.511224278970623,Low Priority
+7205-BAIAD,40,Two year,20.6,827.3,No,Bank transfer (automatic),No internet service,No internet service,0.55486304,Low Risk,4.590381909580901,Low Priority
+0301-FIDRB,72,Two year,63.8,4684.3,DSL,Bank transfer (automatic),Yes,Yes,0.55197465,Low Risk,25.856147766811773,Low Priority
+3071-MVJCD,72,Two year,82.3,5815.15,DSL,Bank transfer (automatic),Yes,Yes,0.5516636,Low Risk,32.080064205336384,Low Priority
+3454-JFUBC,68,Two year,20.0,1396.0,No,Credit card (automatic),No internet service,No internet service,0.5479711,Low Risk,7.6496767066419125,Low Priority
+4703-MQYKT,21,Two year,19.6,390.4,No,Mailed check,No internet service,No internet service,0.5413972,Low Risk,2.1136147886514665,Low Priority
+0562-FGDCR,72,Two year,74.55,5430.65,DSL,Mailed check,Yes,Yes,0.5332668,Low Risk,28.959852639143353,Low Priority
+3508-VLHCZ,71,Two year,90.55,6239.05,DSL,Credit card (automatic),Yes,Yes,0.5315245,Low Risk,33.16207721785177,Low Priority
+2169-RRLFW,71,Two year,25.6,1888.25,No,Credit card (automatic),No internet service,No internet service,0.5175346,Low Risk,9.772347165620886,Low Priority
+7369-TRPFD,19,One year,18.8,279.2,No,Mailed check,No internet service,No internet service,0.5111333,Low Risk,1.4270841687917708,Low Priority
+0123-CRBRT,61,Two year,88.1,5526.75,DSL,Mailed check,Yes,Yes,0.50560313,Low Risk,27.94342216977384,Low Priority
+8165-ZJRNM,72,Two year,23.75,1679.25,No,Bank transfer (automatic),No internet service,No internet service,0.50372916,Low Risk,8.458871652488597,Low Priority
+1945-XISKS,67,Two year,19.65,1335.2,No,Mailed check,No internet service,No internet service,0.5036589,Low Risk,6.724853309988975,Low Priority
+5334-AFQJB,72,Two year,25.1,1789.9,No,Credit card (automatic),No internet service,No internet service,0.50214905,Low Risk,8.987966064875947,Low Priority
+0307-BCOPK,16,One year,19.05,326.65,No,Mailed check,No internet service,No internet service,0.49583173,Low Risk,1.619634296861477,Low Priority
+7649-SIJJF,71,Two year,80.1,5585.4,DSL,Mailed check,Yes,Yes,0.48394582,Low Risk,27.03030892079696,Low Priority
+6248-BSHKG,61,One year,20.4,1226.45,No,Mailed check,No internet service,No internet service,0.4816465,Low Risk,5.907153597101569,Low Priority
+1403-GYAFU,70,Two year,20.05,1360.25,No,Credit card (automatic),No internet service,No internet service,0.47677657,Low Risk,6.485353370546363,Low Priority
+9114-DPSIA,72,Two year,81.0,5750.0,DSL,Credit card (automatic),Yes,Yes,0.47004488,Low Risk,27.027580770663917,Low Priority
+6365-HITVU,71,Two year,87.25,6328.7,DSL,Credit card (automatic),Yes,Yes,0.45966423,Low Risk,29.090769608411936,Low Priority
+0402-OAMEN,72,Two year,24.45,1709.1,No,Bank transfer (automatic),No internet service,No internet service,0.4565615,Low Risk,7.803092950209975,Low Priority
+8701-DGLVH,51,Two year,20.45,1042.65,No,Mailed check,No internet service,No internet service,0.4545715,Low Risk,4.739589438401163,Low Priority
+2236-HILPA,62,Two year,20.65,1218.45,No,Credit card (automatic),No internet service,No internet service,0.44852132,Low Risk,5.465008020820096,Low Priority
+4674-HGNUA,71,Two year,89.9,6457.15,DSL,Credit card (automatic),Yes,Yes,0.44829804,Low Risk,28.947276579239404,Low Priority
+3967-VQOGC,67,Two year,24.9,1680.25,No,Mailed check,No internet service,No internet service,0.4309007,Low Risk,7.240208955714479,Low Priority
+9537-JALFH,69,Two year,19.9,1356.7,No,Bank transfer (automatic),No internet service,No internet service,0.420805,Low Risk,5.7090617098379886,Low Priority
+0962-CQPWQ,62,Two year,20.3,1296.15,No,Bank transfer (automatic),No internet service,No internet service,0.40690905,Low Risk,5.274151463876478,Low Priority
+7729-XBTWX,66,Two year,19.75,1344.5,No,Mailed check,No internet service,No internet service,0.40511316,Low Risk,5.446746519533917,Low Priority
+4698-KVLLG,51,Two year,19.6,967.9,No,Credit card (automatic),No internet service,No internet service,0.39836243,Low Risk,3.8557499401271342,Low Priority
+2230-XTUWL,48,Two year,19.55,883.35,No,Mailed check,No internet service,No internet service,0.39733922,Low Risk,3.5098960917675868,Low Priority
+5296-BFCYD,46,Two year,20.1,936.85,No,Mailed check,No internet service,No internet service,0.39690548,Low Risk,3.7184088667854667,Low Priority
+4742-TXUEX,47,Two year,19.3,890.5,No,Bank transfer (automatic),No internet service,No internet service,0.39598808,Low Risk,3.5262737420853227,Low Priority
+6823-SIDFQ,28,One year,18.25,534.7,No,Credit card (automatic),No internet service,No internet service,0.3788568,Low Risk,2.0257473520934584,Low Priority
+1047-RNXZV,43,Two year,19.55,876.15,No,Mailed check,No internet service,No internet service,0.35078043,Low Risk,3.073362788592931,Low Priority
+9950-MTGYX,28,Two year,20.3,487.95,No,Credit card (automatic),No internet service,No internet service,0.34432575,Low Risk,1.6801374568836762,Low Priority
+6701-YVNQG,72,Two year,88.7,6301.7,DSL,Credit card (automatic),Yes,Yes,0.3209583,Low Risk,20.225827696290796,Low Priority
+1085-LDWAM,69,One year,20.35,1442.65,No,Credit card (automatic),No internet service,No internet service,0.3196852,Low Risk,4.611938272393309,Low Priority
+7408-OFWXJ,72,Two year,89.8,6510.45,DSL,Credit card (automatic),Yes,Yes,0.31533363,Low Risk,20.529637887189164,Low Priority
+8224-KDLKN,72,Two year,25.0,1738.9,No,Bank transfer (automatic),No internet service,No internet service,0.3077284,Low Risk,5.351089495583437,Low Priority
+5727-MYATE,72,Two year,90.8,6397.6,DSL,Credit card (automatic),Yes,Yes,0.30100012,Low Risk,19.25678410176188,Low Priority
+0397-ZXWQF,67,Two year,20.5,1430.95,No,Bank transfer (automatic),No internet service,No internet service,0.29591545,Low Risk,4.23440219797194,Low Priority
+1926-QUZNN,72,Two year,25.25,1841.2,No,Bank transfer (automatic),No internet service,No internet service,0.29182684,Low Risk,5.373116061463953,Low Priority
+6345-FZOQH,69,Two year,19.9,1363.45,No,Mailed check,No internet service,No internet service,0.28580463,Low Risk,3.8968031042604707,Low Priority
+1227-UDMZR,72,Two year,91.15,6637.9,DSL,Bank transfer (automatic),Yes,Yes,0.2839751,Low Risk,18.849982121563517,Low Priority
+2925-VDZHY,72,Two year,88.7,6501.35,DSL,Credit card (automatic),Yes,Yes,0.283864,Low Risk,18.454992216802204,Low Priority
+3642-BYHDO,71,Two year,19.9,1389.35,No,Bank transfer (automatic),No internet service,No internet service,0.272879,Low Risk,3.7912444487214088,Low Priority
+2990-IAJSV,72,Two year,92.0,6632.75,DSL,Bank transfer (automatic),Yes,Yes,0.25472364,Low Risk,16.895182180858683,Low Priority
+6917-FIJHC,72,Two year,26.0,1776.0,No,Mailed check,No internet service,No internet service,0.25421616,Low Risk,4.5148790292441845,Low Priority
+7602-DBTOU,71,Two year,19.6,1416.5,No,Mailed check,No internet service,No internet service,0.24208678,Low Risk,3.42915922915563,Low Priority
+9365-CSLBQ,71,Two year,24.35,1654.6,No,Mailed check,No internet service,No internet service,0.23872831,Low Risk,3.949998678592965,Low Priority
+3967-KXAPS,72,Two year,92.3,6719.9,DSL,Credit card (automatic),Yes,Yes,0.23648545,Low Risk,15.891586165572516,Low Priority
+8735-SDUFN,72,Two year,24.3,1778.7,No,Bank transfer (automatic),No internet service,No internet service,0.21853799,Low Risk,3.8871351453708485,Low Priority
+4302-ZYFEL,69,One year,20.55,1403.1,No,Credit card (automatic),No internet service,No internet service,0.21840763,Low Risk,3.064477364905178,Low Priority
+3910-MRQOY,72,Two year,19.4,1496.45,No,Bank transfer (automatic),No internet service,No internet service,0.21452215,Low Risk,3.210216649156064,Low Priority
+8873-TMKGR,29,One year,19.1,529.5,No,Mailed check,No internet service,No internet service,0.20213518,Low Risk,1.0703057935461402,Low Priority
+0794-YVSGE,72,Two year,20.3,1401.15,No,Bank transfer (automatic),No internet service,No internet service,0.18929023,Low Risk,2.652240066445666,Low Priority
+4821-WQOYN,72,Two year,20.1,1326.25,No,Credit card (automatic),No internet service,No internet service,0.17862839,Low Risk,2.369058889016742,Low Priority
+4277-BWBML,72,Two year,19.95,1322.85,No,Bank transfer (automatic),No internet service,No internet service,0.16682151,Low Risk,2.2067984074994453,Low Priority
+9430-NKQLY,72,Two year,25.1,1790.8,No,Credit card (automatic),No internet service,No internet service,0.16292927,Low Risk,2.917737216176465,Low Priority
+0174-QRVVY,71,Two year,25.35,1847.55,No,Credit card (automatic),No internet service,No internet service,0.15698764,Low Risk,2.9004250151629094,Low Priority
+7606-BPHHN,72,Two year,19.8,1468.75,No,Credit card (automatic),No internet service,No internet service,0.14440866,Low Risk,2.121002118656179,Low Priority
+4086-WITJG,71,Two year,19.7,1301.1,No,Credit card (automatic),No internet service,No internet service,0.14376807,Low Risk,1.8705663319327868,Low Priority
+1166-PQLGG,72,Two year,19.55,1463.45,No,Bank transfer (automatic),No internet service,No internet service,0.1404219,Low Risk,2.0550042337330523,Low Priority
+1927-QEWMY,72,Two year,20.5,1502.25,No,Credit card (automatic),No internet service,No internet service,0.1330102,Low Risk,1.998145697900327,Low Priority
+0480-KYJVA,72,Two year,24.25,1784.5,No,Credit card (automatic),No internet service,No internet service,0.09628778,Low Risk,1.7182554710598197,Low Priority
